@@ -1,0 +1,119 @@
+[
+    {
+        "uuid": "9685f055-c937-483e-9fbd-f6b70e11fcfe",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_outdoor.fdb3ce5ceef1584781759ef5a7bd6f819bf12e9b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "310a12bb-c7fa-4925-8112-f988666a8364",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_aa_fade_light_large.f24efcbcc28c8f3ddf18e1d777cde462b5c0c739.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "36b01b2d-e7d0-487d-960f-fbd9056da008",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_aq_oiled_light_large.9add3a89dd0e03c85f525b6906c53df829bcc885.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "978eba41-bf5e-473b-b077-9e379c1d7f9d",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_hy_webs_light_large.da204035f2b27faabebe138093669986beb50943.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1cf777d1-5e10-41cc-9df6-fa9804556cb9",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_am_zebra_light_large.c372a0fb3df0db00a6d11595ff420c0142d925b2.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "dabd16a4-7f37-439f-b7f4-4ed1283e61bb",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_aq_blued_light_large.f862df3f6428b2263abc07e569466df251ddbd67.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b33146a8-e6c5-4db8-be06-d98e9be656e6",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Night Stripe",
+        "value": 735,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_sp_nightstripe_light_large.3aad1683b3f6ffe1204f2aded7fa3be4f47d9c6e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "dd4553d9-2dd8-47ad-b701-17b05727223c",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_aq_forced_light_large.14a5428217d497aaaeecc8c126390b3d5ead5348.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "7f335659-5420-4a8e-b89a-4d61a42895c4",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_hy_ddpat_light_large.c8781e797feef7102162202f74bfd331935f22dc.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bbb70048-9786-4d30-ac24-9e61a2c6a34f",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_hy_forest_boreal_light_large.d153647065ed5830379413e9c00442378c8cc310.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9239d637-483e-4de8-88fa-e6fb6f462272",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_sp_tape_urban_light_large.8712508941f9bfc792f84d0f474701452860f856.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ea39996a-238e-4485-85e6-974bb29f8755",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_sp_mesh_tan_light_large.7c3c80a31f6255847368dc38a96bcd8c17abca02.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "48670f13-fc71-4237-ab00-839b6b07af56",
+        "id": 518,
+        "weaponName": "Nomad Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_sp_dapple_light_large.e587077d740da85df09c4cc459608841e7d2cafd.png",
+        "quality": "Covert Knife"
+    }
+]

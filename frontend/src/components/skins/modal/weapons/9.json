@@ -1,0 +1,326 @@
+[
+    {
+        "uuid": "505a6a16-7abe-42b8-a69c-f4e7ab1cb148",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Containment Breach",
+        "value": 887,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_virus_light_large.00307f818d425d94cb8e4eeda1e27699f713fb45.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "bcceaec6-6fca-483c-8612-c78b2d126b76",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Wildfire",
+        "value": 917,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_wildfire_light_large.61e36b12eb45a39836cdb5badb5a536737684861.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "b5ce9255-2187-470f-a1a1-1d9b73744255",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Neo-Noir",
+        "value": 803,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_neonoir_light_large.c5dd57f8555d13c41f08024f27a9314074b698af.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "8b7b9904-0a30-4450-9666-a4ea9b8e13b2",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Oni Taiji",
+        "value": 662,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_hannya_light_large.dc87e0f1aeeabe6c1c840f2a9e756ea261ef9d81.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "e4cd276b-30b8-4c8c-9f5b-cdaf777d1dce",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Hyper Beast",
+        "value": 475,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_hyper_beast_light_large.55efa5e3094af71ca6a56b6eac96cb022f7ecd8b.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "05829b68-423c-4317-89c0-037a0daffff6",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Man-o'-war",
+        "value": 395,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_awp_glory_light_large.348eae0f5d4da8671886826648dd4197a9829090.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "8d5dac55-3ddc-4a17-a286-eca9327e1d5a",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Asiimov",
+        "value": 279,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_asimov_light_large.32d9045f8a2bcd13ca18390cc9fd82026e7195ab.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "0beafc31-e209-4c22-93af-528ba731a42b",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Lightning Strike",
+        "value": 51,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_lightning_awp_light_large.3761894103ee0fec90af459928635933ba27e36d.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "8e2274b0-f637-4518-9206-bd7ae210bcbc",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Desert Hydra",
+        "value": 819,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_hydra_light_large.a69be92dd5f9eef4d88b9c640f3dbf15d8c8f78c.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "466451ba-aaf4-405d-a99f-ecd8e0e59c9c",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Fade",
+        "value": 1026,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_aa_awp_fade_light_large.4e978e13c3396c1b1e32e993afb462ccac55d783.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "dd7c2db2-8522-43dc-b98d-fce98de12dbb",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Gungnir",
+        "value": 756,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_gungnir_light_large.f80c285940f75cca58731d8ead6bd8be1c18e38b.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "152e66ad-135e-447e-9d4c-4f109cea300b",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "The Prince",
+        "value": 736,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_enamel_light_large.00ae78bca507d3358c7b821dc666e21123162069.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "440916a3-708a-4893-b506-60ccdc31d3d5",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Medusa",
+        "value": 446,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_medusa_awp_light_large.05c6f5c67a2fbf7d042637568ba2ab25e44bb08c.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "0628adba-2eb8-4ee7-81f5-7e0e44637b96",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Dragon Lore",
+        "value": 344,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_medieval_dragon_awp_light_large.cb3b8168e59e96fd33efa9578206a2aaed036fc0.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "972459c6-523c-44b5-914b-883f4c6d90e1",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Mortis",
+        "value": 691,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_death_light_large.19bdee04e6a0b4a3b8f832fd8ea18fea1e558f2e.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "5d8d5ede-a9f4-469d-a352-15077f873e28",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Fever Dream",
+        "value": 640,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_psychopath_light_large.11e54a670b779e1757cce18ea252d70eb35c6a75.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "5795fccf-f349-4cda-ac6d-3d4d6fe2a3e1",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Elite Build",
+        "value": 525,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_mastery_light_large.617e335043f250cdb9d6a4c798e075be9560cdd4.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "3648d393-24d5-4200-9e31-91dededf7c41",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Corticera",
+        "value": 181,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_favela_awp_light_large.4329c047ea1899f3846a1a81539ba2a27665a54e.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "3fc64c28-0ce6-4436-ba1c-20a5b2678513",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Redline",
+        "value": 259,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_cobra_light_large.cf20ce6ac1151b4a30d8a84081ec4373cbfad4a4.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "2c49800b-daa4-4520-be27-ea5804b2a998",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Electric Hive",
+        "value": 227,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_hive_light_large.2189958e2afa2c69cfcdd807124c279a0e645625.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "864a069f-1df7-405f-a864-4523426ae405",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Graphite",
+        "value": 212,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_crumple_bravo_light_large.5f59de227d280f3c3b39fae7e49ac143338ca5b2.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "61fd3141-ee3c-4808-8c26-e96682a5fc3a",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "BOOM",
+        "value": 174,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_blam_simple_light_large.ed114947481e0366b2cde092a8ddac4d7250775b.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "307b5874-0026-42d8-9da5-76dacdb1ed4c",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Silk Tiger",
+        "value": 1029,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_tigers_blue_light_large.4346995a5382cb8e6ba636335f3f4e94998a447f.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "0c4cf8e5-f22a-4bef-9fa0-57a9c497c1f5",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Exoskeleton",
+        "value": 975,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_exoskeleton_light_large.7b7a8af63a8c06beacea7494a41adcda5d5afdd8.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "493c9022-4237-4897-9f44-d6a24a8c283d",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Atheris",
+        "value": 838,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_viper_light_large.2de75408a7c595312d58203f53c73a3a18faa4a3.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "d6ab709b-9199-46f6-bab0-f5f13512e4ad",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "PAW",
+        "value": 718,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_awp_pawpaw_light_large.0ff115c31307cc3122536c44a9aef7e64277dc19.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "0aceb7a4-3a58-4122-8f00-012c6e1f66b3",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Phobos",
+        "value": 584,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_phobos_light_large.fca961cc99c704f09c44e6e82378434ef0e22087.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "4f3bdad9-df64-4a12-8196-e2b9b5b86ef8",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Worm God",
+        "value": 424,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_aq_awp_twine_light_large.f976c41b8f978d2b8d13734f14f6586982d859f1.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "b25ed7be-9b28-4682-82a1-98a23417f885",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "POP AWP",
+        "value": 1058,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_technowar_rwb_light_large.227b359d409d564be7675d8334cad89636e3bdda.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "e26ff34d-2896-49b7-83e8-1c831291f504",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Pink DDPAT",
+        "value": 84,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_ddpat_pink_light_large.a00bebead467a7106062058982a1f8651cf663bc.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "49f98936-cd24-412b-b2fb-454d377b0f51",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Pit Viper",
+        "value": 251,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_snakeskin_light_large.e6addbb49a7024f800a35c9e081402a2c8631028.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "42a3ec91-52c6-4b3e-bb86-ac4123de57ba",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Capillary",
+        "value": 943,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_vein_light_large.8665dc4b4231298e9bbcab7aad3abbbf22e3edd8.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "685404d5-1645-4d0b-b024-723836eca3c3",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Acheron",
+        "value": 788,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_nuclear_skulls_redblue_light_large.601aa23f996c480640f439e05f204c5bd7fafa49.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "6216fc7a-b1a0-455b-80a2-a9470acd9bb1",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Snake Camo",
+        "value": 30,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_sp_snake_light_large.c0b327d960af85c987bed944287935fb4b6a780a.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "861b05ba-f121-44ee-a004-dd9aab1ee6b2",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Sun in Leo",
+        "value": 451,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_zodiac2_light_large.67da534322361569bd9637688b704b57232529fa.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    },
+    {
+        "uuid": "75700da4-6224-436b-8f8a-0650b6718fe1",
+        "id": 9,
+        "weaponName": "AWP",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_sp_mesh_tan_light_large.3608cbeb9bb163bfd2becb4ebcce2576b9ca78d9.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    }
+]

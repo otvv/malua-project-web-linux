@@ -1,0 +1,317 @@
+[
+    {
+        "uuid": "a05a7719-ba2c-4b58-bf82-770e2899379a",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_gut.1d53007384970e8eaf28448312777683fd633a79.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "20ce4c3b-fcaf-4db7-a0a5-c364c0168926",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Bright Water",
+        "value": 578,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_hy_ocean_knife_light_large.649f890d55e6ee2987e988e44a0f52e1a5020486.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "950b1fb1-d5a4-4d8f-8be2-16056f71cecd",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Autotronic",
+        "value": 575,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_gs_gut_autotronic_light_large.160e79d868da6ebb84c52e835aaf24ab9c6334f1.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "76d9e514-cbbf-4d64-94b9-ac122488cda3",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Lore",
+        "value": 560,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_cu_gut_lore_light_large.5cf5a77978675bd3d276a86017e6d1fcacd7bf00.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4fedf525-f87a-41a9-9393-5d64bdac8f85",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Black Laminate",
+        "value": 565,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_cu_gut_stonewash_light_large.52a1c223ee5d85ddb2242c75a67c1f2f49b0e0b9.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "3204d8c1-e6b0-4573-b915-6a331d4ec04d",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Freehand",
+        "value": 580,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_am_marked_up_light_large.08dac4cfbf7b626df37bb2b6ffd3d07d2fc86988.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4c8b3885-556a-4237-892c-7db3fd245034",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_am_marble_fade_light_large.85f1cad22ba4e6716045d53e9e0cf5459760d152.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "677d3372-0ba7-40fd-9a94-c0523db8b76d",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_an_tiger_orange_light_large.4590d3a96661c5e54af3285cb237077fc63d486b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d23ffa9f-d03f-4319-a7d2-0996875aed73",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Damascus Steel",
+        "value": 410,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aq_damascus_light_large.9eaf9c050c3f5dfe5c647d361538a1ea7001f835.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a3327986-4920-43e9-800f-280190a0df82",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_so_purple_light_large.dbe6989416501166c43bd1cfb18ee835dbfa0ac7.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "21ebf87f-9eef-4010-b3d2-bfd5043a64ba",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aq_steel_knife_light_large.d56ab6033e5da6115f6af2aba93bae8edde57cb3.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a3fee690-338b-4187-a9b5-7b9602ee0dfe",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aa_fade_light_large.6e89c23706eafc34e7713c264fddeb94444a9b67.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "cc0a816d-f0e8-4738-b787-91f2221b3312",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aq_oiled_light_large.f141737f74526886d0d4895281e9a57526314c5c.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6bb6bc4e-a405-4e44-8116-c75aa0fbf0e7",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_am_zebra_light_large.c374f8e71f300e4351b680b6246da645d3dea01d.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "08a4341a-6549-4664-9052-c6135b5f9acc",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aq_forced_light_large.3f5b057c710fc4403f54d3979f482f511eb69d8b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "61da30f9-6c8e-4007-8005-2fcd38c995ce",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_hy_webs_light_large.217a769ed0131db1d3aef5a40bc927d4470bb22d.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b193d47b-00f2-471b-9e98-19bcf7cd8ab1",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aq_blued_light_large.0e40bb0e3eb5de3de1b925853e3e4ec755f9b65a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a5016977-88cf-4a7b-bae1-fd8db661cd7c",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_sp_tape_urban_light_large.71f4811888602d3b48f35e030bd39ecbcac7f22e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5b48f3ea-9eff-450a-aad6-bc7b4b2dfb4e",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_hy_ddpat_light_large.855f6ca62686c8f365e503d379b07b4c41a8658a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f0883e1c-5b3d-4511-8dd7-e86351d5761c",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_hy_forest_boreal_light_large.b28a4cfb134cd8be5da39f82db0df407577478e8.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ae1797f7-f434-4331-a489-f77b4829c0fc",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_so_night_light_large.eec2bb404a436b6d74f19c72b88f70380ab31eee.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "053e6741-60b8-4c5d-a812-c10c085d2c48",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_sp_mesh_tan_light_large.5f58d777d76148ba031b587fff1b0b3465d2c441.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d805ad21-4e9e-48a3-9573-60c06e4f9701",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_sp_dapple_light_large.657af646f54600080b5c5e79133410eb47397fd6.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "94894c2e-4eff-4eba-be7c-2e979c4d00f3",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Gamma Doppler - Phase 1",
+        "value": 569,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s781_phase1.png?id=e391502371e5b4826e4b",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "93ebbcaa-480d-46b7-b98b-844f5b03dfce",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Gamma Doppler - Phase 2",
+        "value": 570,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s781_phase2.png?id=c2ee0d0b94e25ac878ae",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0999febc-7adf-48ba-be3b-140b5aec387f",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Gamma Doppler - Phase 3",
+        "value": 571,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s781_phase3.png?id=4fa6fa621bdadcb59741",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "276ae2c0-fbeb-4cc2-a6dd-b8c4cff6ebb2",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Gamma Doppler - Phase 4",
+        "value": 572,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s781_phase4.png?id=11059bddf5f1f92541f0",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e3eaa987-91ff-4628-b91c-86cea5c20cf7",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Gamma Doppler - Emerald",
+        "value": 568,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s781_emerald.png?id=0169bddc50e723ddfaf3",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "3c661254-9fa8-4c2c-ab4b-0175e212c463",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s524_phase1.png?id=98244b5c234518cba93d",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "32b9469d-607c-403d-a260-5c27e7c457cf",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Doppler - Phase 2",
+        "value": 419,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s524_phase2.png?id=4d325c2c80ba31d885ee",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "fb51b068-d268-47fe-9de6-b7229854b5b8",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s524_phase3.png?id=5551c69962f44f6b586f",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2ad3ed76-6ad5-4f52-b078-cd21a9d5a779",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s524_phase4.png?id=2def4e2b58620cdf539d",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "aef95600-d656-49af-8098-df2ae9cabc77",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s524_ruby.png?id=d981b3e37e06f7d7b380",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "58ad41fb-39f9-4430-9357-7a5b11fd5170",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s524_sapphire.png?id=4a5fa4de3efa00750198",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6f1ad215-5cd9-419c-9ff0-3d217858ef6f",
+        "id": 506,
+        "weaponName": "Gut Knife",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s524_blackpearl.png?id=5220e4cd75ff62c689ff",
+        "quality": "Covert Knife"
+    }
+]

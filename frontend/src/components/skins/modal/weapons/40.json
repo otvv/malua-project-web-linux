@@ -1,0 +1,281 @@
+[
+    {
+        "uuid": "29ce4be7-ed6a-4d37-aa01-1ec2a439b856",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Dragonfire",
+        "value": 624,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_dragonfire_scope_light_large.482858c9d088454b42e53f02d927a8203c69dfc2.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "bf9c3db2-497b-472a-bc9c-81382b625e2e",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Blood in the Water",
+        "value": 222,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_shark_light_large.00812c20a896847013b0a2913a166f6ba220a258.png",
+        "quality": "Covert Sniper Rifle"
+    },
+    {
+        "uuid": "4af1c4c1-62f9-41d0-91d2-5f8d7a7e3413",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Turbo Peek",
+        "value": 1101,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg_overtake_light_large.62261051818eb21f13e782cd49a33970360b4581.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "f0cd19a3-a2ab-476f-99b1-3660ed8935c4",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Bloodshot",
+        "value": 899,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_tickler_light_large.b6a73afa62f8983211740a1570410df4864f45f6.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "7a59a40f-b169-45ba-b211-b7d44597da8c",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Big Iron",
+        "value": 503,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_technicality_light_large.1a057a14ca191ce12629e06217cbe86097444b03.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "81b6ca24-ab84-44d3-bbf5-572ccfcf38c7",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Death Strike",
+        "value": 1052,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_scorpion_light_large.4ef3abe29eb6c2f16a74dc404929e47ad05d297f.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "a74b9ba3-c413-4ab9-96c1-0d3046d94e45",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Parallax",
+        "value": 989,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_chromatic_light_large.66f506ebe947b68afa1d3a6cbbdd8916b054f84a.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "ff03df4a-1af6-46b1-bad5-d1fc03b25523",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Fever Dream",
+        "value": 956,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_fever_dream_light_large.cec554a86204344d6476b9071158fd02963a1aac.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "2f46a447-bf0a-4e08-99bc-05967cb438a3",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Death's Head",
+        "value": 670,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_deathshead_light_large.78676bc5fce74af519abdccae4d119727c392faf.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "c091048b-f69a-4c7c-bfa3-2f3ab85b8691",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Ghost Crusader",
+        "value": 554,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_gs_ssg08_armacore_light_large.043342869c64e1a08107055a4e1b332ad9c763c0.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "4602e565-3bba-4b10-9049-1bc5b36c614e",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Sea Calico",
+        "value": 868,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_hy_flowers_stmarc_light_large.482eabb4a21633695ffaab7d63a77aee8b18a1ff.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "33c7a823-02aa-498f-a2fc-5b87defcd742",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Mainframe 001",
+        "value": 967,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_mainframe_light_large.7d7d861da80bfecbe5141f19fbd32b95fb4496cf.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "b3ddfc3d-c96b-4df8-88f6-f1337bb25556",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Necropos",
+        "value": 538,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_necropos_light_large.cd2f32aa0349edcad3aefae80b509fc5962a2b30.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "a8140534-f11d-4f82-b56b-96b842f0728a",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Dark Water",
+        "value": 60,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_am_zebra_dark_light_large.5636371696eee32d9a3e588ff3b42f6b33776d99.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "10659191-f849-4933-af3b-01b20cac3889",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Abyss",
+        "value": 361,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_aq_leviathan_light_large.0d0ce425b5374642d0d1fbfd0c0ec634eb8570fb.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "b30ed4b4-f3a0-4a2f-97cc-8668fcc77f69",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Slashed",
+        "value": 304,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_immortal_light_large.294156dbab19f645942fe9cbafed88165aa70044.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "4dacad79-1bed-4acb-bad3-5fd8df8e6c49",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Spring Twilly",
+        "value": 1060,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_hy_trainarchitect_green_light_large.99e4e0cef18a0f37f5f26caf431dde80f39f14e1.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "60a055d5-4979-4f67-89fb-caeb7fc7482e",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Threat Detected",
+        "value": 996,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_am_intelligence_orange_light_large.7a1af716b99e1ed517adfd53eddcf90bd4417632.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "ce14b3bc-372d-4210-854f-f3a8644933c8",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Orange Filigree",
+        "value": 743,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_hy_ren_orange_light_large.0de8202f23f893173f722278aca762d294371ad8.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "7211cd9a-eb63-42eb-9e16-c1f5f6a15e59",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Hand Brake",
+        "value": 751,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_gs_ssg08_checker_light_large.26b2d6ca1e703c0427c31fa43bb1bf9fca58690e.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "b7dfb246-82ea-47b8-bf9b-0be39fa8c49d",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Detour",
+        "value": 319,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_hy_ssg08_marker_light_large.318454c8676dc6d72ad1b6e343e661d9831645fb.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "0b95b5ed-221a-4731-8dc7-4e7c1089a694",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Acid Fade",
+        "value": 253,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_aa_fade_grassland_light_large.82950af31c177d14983665459ddee77f63379f4d.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "e12508f9-22cb-484f-9a07-f541970cd068",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Carbon Fiber",
+        "value": 70,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_am_carbon_fiber_light_large.90255a5b4940cc078005493430f0a73761b990e4.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    },
+    {
+        "uuid": "36c31670-f5c0-4313-aefc-4f8214712c09",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Tropical Storm",
+        "value": 233,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_sp_palm_shadow_light_large.fb24b5ed2a03a35a12f5ee7166bc458ab4ae77e7.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    },
+    {
+        "uuid": "ada786e4-590d-4a0d-bb42-9409f047790a",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Mayan Dreams",
+        "value": 200,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_hy_mayan_dreams_bravo_light_large.647a85eff07e6565e9e284968d9c11a1ec42da68.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    },
+    {
+        "uuid": "9b83ccfc-5d66-4df7-beba-3c4dc2a36bc7",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Prey",
+        "value": 935,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_sp_zebracam_red_light_large.9aefb18daa0955b6ac9b0d098132425b7991fc6e.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "591071b8-1f8f-46ad-82f0-f5cbe9e83202",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Jungle Dashed",
+        "value": 147,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_sp_tape_short_jungle_light_large.4623c92c91eaa0ef45e9c09d828bbeb926dcb1c6.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "64cbaa75-e9c2-4954-9164-49e729f58b90",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Red Stone",
+        "value": 762,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_so_rune_stone_light_large.008cb3ddaf106a019bc45143d61bb2e520ca50f4.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "ea99fe49-8cfe-43e8-8df7-2b62b444cf95",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Sand Dune",
+        "value": 99,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_so_sand_light_large.71cb57b99ee95a92310b4f55d7709bc5f5cc255e.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "d666e187-9daa-47b4-b4bc-b0a40fba6281",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Blue Spruce",
+        "value": 96,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_so_moss_light_large.74753da395e67d490101269838df28e1b6313a25.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "c0cc1120-ee1f-4e48-86f5-2f5e03e99eb4",
+        "id": 40,
+        "weaponName": "SSG 08",
+        "label": "Lichen Dashed",
+        "value": 26,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_sp_short_tape_light_large.f2f54766f72c881bc020b924be5ae026dcf065da.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    }
+]

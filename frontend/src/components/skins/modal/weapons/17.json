@@ -1,0 +1,371 @@
+[
+    {
+        "uuid": "80e12126-82af-4882-8f1c-251fe4b0d70c",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Stalker",
+        "value": 898,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_stalker_light_large.cb4d7a60a69978f1575526f979be8e1e1538a673.png",
+        "quality": "Covert SMG"
+    },
+    {
+        "uuid": "cb02c8d6-2e74-4ade-9e8f-315816f15519",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Neon Rider",
+        "value": 433,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_neonrider_light_large.4ba82cf2ba2d9fdc694d707b563421bbcc20b174.png",
+        "quality": "Covert SMG"
+    },
+    {
+        "uuid": "d2a1c1f9-51d9-43e2-abb5-b618c2dbf8bb",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Toybox",
+        "value": 1098,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_toybox_light_large.0eaa520b37c7d53ed3ef541e59d2303714c7e21d.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "4a2888f5-9912-4da5-93f6-bab2f99e2b04",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Disco Tech",
+        "value": 947,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_nacre_light_large.80fa2f0691e37e6e2a2755b8a7f6ccd6bfa83f3b.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "ce01a2ae-214a-4340-aecf-74c1456cd6a0",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Propaganda",
+        "value": 1067,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_propaganda_light_large.d8a065b191f3df86a7e2e25d4349790ed56e0593.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "106272c2-abe7-459e-b645-7960470cfa73",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Hot Snakes",
+        "value": 1009,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_snake_light_large.0b91f21def06a39df43e93f6cd25cf13e4edfd19.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "21b185a0-e276-4350-adc2-1b6da2eea10f",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Button Masher",
+        "value": 1045,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_portable_light_large.d4e97127a92ecba12884e5af083aa84685486b39.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "2534e8de-0a4e-457e-a80e-a9687162107a",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Allure",
+        "value": 965,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_isoonna_light_large.004a4ddf7e9318cfbe98448b1c3b888fd4aff8dd.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "1bb22741-cb7b-4d5c-9409-8bddfd6648a9",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Pipe Down",
+        "value": 812,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_exo_pipes_light_large.355aad3fa1602f8e682a5663f72b12feba0d4cf2.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "3a0def81-8ff5-406f-89d4-f3bb49ee7073",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Last Dive",
+        "value": 651,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_aa_mac10_the_last_dive_light_large.d0039a83384acbe26f9337c8a83e81f6410b7dc9.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "fa1dcf73-292e-4bc0-984b-a2ef5a06fe23",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Malachite",
+        "value": 402,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_am_mac10_malachite_light_large.65b0eff12e655fb94ec9de545348178f1a5d60e0.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "8f0cfcc8-1cd4-438d-b5fa-1d2748acff05",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Tatter",
+        "value": 337,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_korupt_light_large.e1efdcab099278a147fe2f07405214218e74e705.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "f1ba5a03-ed49-4dbf-8d9b-0d63eea09b13",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Curse",
+        "value": 310,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_decay_light_large.eaddf6ddfa5975248fc134ccfc523ab11bf97070.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "efac1587-0f8f-43e4-a582-7d9525266831",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Heat",
+        "value": 284,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_redhot_light_large.d5e1e0b433e3340266635970ca45cbbf810216f2.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "5cd64a72-cac8-4b51-a79a-7255b6a70ba8",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Graven",
+        "value": 188,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_light_large.ec4cf2f7748ac5318292630c8c7e3c2d016723e3.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "52cb5623-2ccb-45f5-9965-afe331d4d557",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_aq_oiled_light_large.9d9de18ba0a4dc915e495c05b0d1419bd2cd7a02.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "a57e626f-bbda-4609-9aaf-eb83d0331c91",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Gold Brick",
+        "value": 1025,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_am_gold_brick_light_large.3583c29af715c4700176149b3866c35dcc78d61e.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "feb0dc4a-4525-41d1-bf5f-c522992698f1",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Red Filigree",
+        "value": 742,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_am_ren_red_light_large.985e0a9b70dc43f90bfb6e9ce28398565396d633.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "bf5ec782-d54b-4f36-a865-90003ce53ee1",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Classic Crate",
+        "value": 908,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_dust_crate_light_large.988816a75bc41f34cb18aff91ce6256299a9a52c.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "72a9b590-3d0f-49a2-97a9-c388a61ffc85",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Whitefish",
+        "value": 840,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_fish_bait_light_large.31a855282029b915748b21c11521b5f111b05e67.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "de1ace3d-df5f-4fd3-84f6-6a330356b5b4",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Oceanic",
+        "value": 682,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_am_mac10_oceani_light_large.25e5d3d5e249e11fe32971fa7bcdc0e5a1c777bd.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "e540e7b8-f230-4923-a329-86dc31fb9968",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Aloha",
+        "value": 665,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_am_mac10_aloha_light_large.bde81a20851cfd9f788d66745f69a288e57ea319.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "b64dd619-44d1-4f90-92ec-1da22f645a27",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Carnivore",
+        "value": 589,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_light_large.10568510ec37ec8515546e5ac03455391bb9ec2d.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "a03109e2-e753-4c91-a9bc-6bcd52d556f8",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Lapis Gator",
+        "value": 534,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_am_mac10_electricity_light_large.88207515fce5ebad84df16d60ff2203a5d4a2702.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "0d2a9185-d962-4b29-a803-8b58aa773f7e",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Rangeen",
+        "value": 498,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_alekhya_duo_light_large.7173900a6b75cee250a55197483cba3c0204b955.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "dd65d15d-db06-4acd-8b7c-22ca776258ba",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_so_purple_light_large.c4e2252fe50aab42b6dcd871f33786f68e6261ea.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "d903a19e-d522-4dc5-9f91-6460e5ff62ad",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Copper Borre",
+        "value": 761,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_am_knots_brown_light_large.c968468f0f9fc526f7a12dd8a7f5ebd7fcc24819.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "c0c46e9e-1ecc-4f43-86b9-66e95b5ad87e",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_aa_fade_light_large.69bd70b0bb129a5c671945090f56322c37b6bcf2.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "52a3eeb4-8c4a-40eb-8053-9e5006316a34",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Nuclear Garden",
+        "value": 372,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_light_large.467b325065522e5248247cf125bec257cdb66902.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "0403d331-2406-40d2-9d98-2ecaaf2b6ff0",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Amber Fade",
+        "value": 246,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_aa_fade_metallic_light_large.1af4a93ef5fee1f1510d364f54d1a730474860ef.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "b774124c-dad3-4465-8049-0395d61a8545",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Calf Skin",
+        "value": 748,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_checker_light_large.15e4936899fbfca7c5980be83993e57aca446422.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "3be7ab4a-0a69-4359-a030-10f8e3145af3",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Commuter",
+        "value": 343,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_luggage_mac10_light_large.d05e658d3d11de252d21a82f6c26a7b6c47ac1df.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "496cbffb-6a97-4c75-9518-2a81c2ac9e41",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Silver",
+        "value": 32,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_an_silver_light_large.3082e91b9fddbddc9b72da44382fe1def00fa5fa.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "b8ebd938-7d0a-4930-aabc-b21a1a0d8026",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Candy Apple",
+        "value": 3,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_so_red_light_large.00ffdb3b77314dae95b0683242cba794dbe5dd03.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "573dd4cf-fb91-4ef2-b9c3-101b3433cc09",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Palm",
+        "value": 157,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_sp_palm_light_large.22a3296d079e27cb7bb291e15eff10c29aa89b3e.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "4e68bb23-b460-41a1-a20b-efa87571ef5e",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Strats",
+        "value": 1075,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_hy_vertigospray_blue_light_large.834dc852bd8c722d0dd30a05b3f72e6401cd987b.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "b004055a-29d7-40f7-8ed9-38efb717ec51",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Sienna Damask",
+        "value": 826,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_sp_mirage_flowers_tan_light_large.661511b89c0776fc024cf6b8e10390fa93e7aad6.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "339ae4a5-c60a-4a7c-b809-707cdd9eee5c",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Surfwood",
+        "value": 871,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_sp_twigs_beach_light_large.82c99f7aa915b87043e167b42e25a5fbe2e8c1e2.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "3f2e313c-8a35-45ed-8f85-e6ed0d269c4e",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Indigo",
+        "value": 333,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_so_indigo_and_grey_light_large.9900a7e2bc4fc67df08d3aff103526f666f1ef70.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "a5cb3bad-c6ac-4a4f-921d-53bb1b3a6891",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Tornado",
+        "value": 101,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_so_tornado_light_large.38973a9ca86e017389bed34a6b1c86a2b6585891.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "2457cf87-c1c0-4dc4-9ca9-2aeb4ac6b380",
+        "id": 17,
+        "weaponName": "MAC-10",
+        "label": "Urban DDPAT",
+        "value": 17,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_hy_ddpat_urb_light_large.0c29c0fcd256ee141fac956e954179504dfe0c74.png",
+        "quality": "Consumer Grade SMG"
+    }
+]

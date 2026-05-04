@@ -1,0 +1,245 @@
+[
+    {
+        "uuid": "24b5aff5-cf6f-4d1f-b5f6-3db1d8d523d3",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "The Executioner",
+        "value": 511,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_cu_g3sg1_executioner_light_large.36071be17a266f28d8631b0fd73a9be6767ce399.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "2eeaf286-0fc8-4cf2-8cf4-fb4d79bd6a02",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Flux",
+        "value": 493,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_gs_g3sg1_flux_purple_light_large.6ed40e104625c9607e7df5ee60373a19d3dae634.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "de21e988-7087-4e1f-b6ce-6c3d86b3d604",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Scavenger",
+        "value": 806,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_gs_g3sg1_savage_light_large.e452574f580f51b1da6312c0f80a0dc07e073d8b.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "15f2bfce-43c8-4971-a5fc-a0b502d90807",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "High Seas",
+        "value": 712,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_gs_g3sg1_buccaneer_light_large.68c69e9856fd43f17a4165d1f27116496657fd00.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "e6d34c47-5f1b-4b88-9d72-39b4f9a14b2c",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Stinger",
+        "value": 628,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_gs_g3sg1_viper_yellow_light_large.5a77c59b8c295d2e10f27b8372a146e973ddfb25.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "659b6384-873c-452e-87ee-71e87e93fe0d",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Chronos",
+        "value": 438,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_cu_chronos_g3sg1_light_large.5db791048981cda0babe949ac443f09ba8aa9eb3.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "056b77b1-8c70-47c9-a495-fb946891ea48",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Keeping Tabs",
+        "value": 1095,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_cu_g3sg1_tacticalmap_light_large.c1340d04161c17f48cf0091a52f649c1e9bd8d41.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "e45de54e-ead6-4fcd-9820-e4e12c0ad9ed",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Digital Mesh",
+        "value": 980,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_gs_g3sg1_disrupt_light_large.393db5c1a143ad7fc9e3c42a7d17ca860ce490ab.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "6c8cd060-0bdb-45e7-a57c-6450c1969afc",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Black Sand",
+        "value": 891,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_cu_g3sg1_blacksand_light_large.8a9b364779493ae19a87eb4e73aa47f4432d3f41.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "61b9f893-004b-4cbe-93af-dccf74925e30",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Hunter",
+        "value": 677,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_gs_g3sg1_cetme_redux_light_large.18ad1afdb32fca22879dcdd22e579c5afaef6ad8.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "732b676b-442d-49c2-96f6-3860059bed1a",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Ventilator",
+        "value": 606,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_gs_g3sg1_ventilator_light_large.5cd3643d4d9cd0599e25a1302e788611bd9a0023.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "c374e6f8-564c-464e-a373-28ad8bc72ef5",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Orange Crash",
+        "value": 545,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_sp_g3sg1_militiaorange_light_large.215d54d5c86185e61d65694899bf029f6e070cab.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "c35c3b70-b1c6-4b33-9ee6-ed5bbbd704e4",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Murky",
+        "value": 382,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_am_g3sg1_murky_light_large.bc4e8d0e70d2952576d5c9653da71f21bc02b810.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "5ba809b9-c46a-4eb1-8972-cc7faaa8b93a",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Azure Zebra",
+        "value": 229,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_sp_zebracam_blue_light_large.42199f9c4c0bd1ff9f569d6e7348c5cedf4630f5.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "c951ad1f-b5ba-44a7-8d10-71cf14b56043",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Demeter",
+        "value": 195,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_bluepolygon_bravo_light_large.6638623a4979512bb048fa22f9ec06a5c1172c7e.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "768a34b8-c7e7-4061-b5b7-4a0208beae18",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "New Roots",
+        "value": 930,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_sp_moro_carving_lightblue_light_large.4d260ef80213690b0d967f94874fbed4c4a73484.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "d04babff-5d50-4839-81da-d8399eb657d9",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Violet Murano",
+        "value": 739,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_am_murano_violet_light_large.7a4ee0fb0e265881283e9282f5d79e8cea2635c8.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "20c60923-09c0-4bb8-9043-5c36ff3bea41",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Ancient Ritual",
+        "value": 1034,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_am_ancient_wine_light_large.dfea71dc9fa6d9ee7aa528f0086e216336057c7e.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    },
+    {
+        "uuid": "edda2b0e-0ac3-4d10-8aa7-d1b40f21ee37",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Green Apple",
+        "value": 294,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_so_green_light_large.28c4e72757be64775c1111ac0e7142a147cacb9c.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    },
+    {
+        "uuid": "4741f6a8-5557-4327-a31d-0c316c0973eb",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "VariCamo",
+        "value": 235,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_varicamo_light_large.6c944e82080f68d87881cdab86852e9375af9bb9.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    },
+    {
+        "uuid": "2ce756b5-8c4c-4730-a17a-7e12e96d616f",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Arctic Camo",
+        "value": 6,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_arctic_light_large.0eb54eebce1517513ecdb3788459c09358971f77.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    },
+    {
+        "uuid": "bd9880f0-5ae6-4eb0-9b30-ec0a92751a05",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Orange Kimono",
+        "value": 465,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_kimono_diamonds_orange_light_large.bdab5d4f92f5733ed056bbe276761c377b5c3401.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "83c13cdd-fdb5-4d4b-960c-1c5b8bedb161",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Contractor",
+        "value": 46,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_so_pmc_light_large.563d94315a5a6f57039ccdf5b672bf65d608c819.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "9632a2b3-24bf-493f-a310-a0d0376aecc9",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Jungle Dashed",
+        "value": 147,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_sp_tape_short_jungle_light_large.02fd06db8f950789b6c4bff265df06439382c585.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "f5d8fbdc-16ce-4288-9238-3907adb8906d",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Polar Camo",
+        "value": 74,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_arctic_contrast_light_large.d1444467ee9975d1b4d5287a280e8684e7338493.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "6a0b8544-5500-4837-b894-a8b441cbd5fd",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_sp_mesh_tan_light_large.19acce2a10000a2c03f8f89dc39ff1af3e8ca195.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "297bf0be-e33f-4a0c-9c41-247eab010cbb",
+        "id": 11,
+        "weaponName": "G3SG1",
+        "label": "Desert Storm",
+        "value": 8,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_desert_light_large.4e5561884f1cd7f8d6965b9c7991f89a702b72b4.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    }
+]

@@ -1,0 +1,281 @@
+[
+    {
+        "uuid": "9d21b7b5-3b96-43a0-841d-61fb185450d6",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Printstream",
+        "value": 984,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_printstream_light_large.99e340c2eed00b54eef5320fd63e009fcede6cae.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "215ba540-1fe8-4248-a82b-fbbe06f11115",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Player Two",
+        "value": 946,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_csgo2048_light_large.6531225ca224416df4dc6aa12c6ecea582b1e110.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "4d1e83cd-4027-494e-b1ae-1108d40ef3c3",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Mecha Industries",
+        "value": 587,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_gs_m4a1_mecha_industries_light_large.2973cf5ca9d1592d6652bf14ac89bcd8593d4f0a.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "2ef04f9b-992f-4254-abab-8eb158fae9b5",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Chantico's Fire",
+        "value": 548,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_soultaker_light_large.4939d69bd691d421ca9c7d6558b46088c8ac5317.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "e1a6ab8d-2f95-4f07-8ff2-79e9f22a8b52",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Golden Coil",
+        "value": 497,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_snakebite_gold_light_large.574ace77e1044dbf3a387f200b2867332e974f70.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "7af82467-8bed-4fe3-8ce5-e8c4cf1666d4",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Hyper Beast",
+        "value": 430,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_hyper_beast_light_large.31850937661935a062d5f6faf5a1f02fdb90b861.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "8525ee16-e3f9-4431-99ce-4ee52b465d19",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Cyrex",
+        "value": 360,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_cyrex_light_large.144b4053eb73b4a47f8128ebb0e808d8e28f5b9c.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "c64af764-c464-400a-acd0-bcd50c72fcfb",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Imminent Danger",
+        "value": 1073,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_gs_m4a1_vertigo_light_large.a144750a6903c3bdd9808e740d274648ae26c71e.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "3761f6ee-ef24-4751-8ca7-5e0c358d1b68",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Welcome to the Jungle",
+        "value": 1001,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_snake_light_large.fcdef378938398a506d3e173e766322579867e74.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "14f51e60-0a5e-4171-ad23-e8befd3b5b29",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Nightmare",
+        "value": 714,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_nightmare_light_large.68e892eb4dedad809205a5fd06f175297d1be1cb.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "a32d718a-ece5-446a-bdd6-c013a3478d53",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Leaded Glass",
+        "value": 681,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_gs_m4a1_shatter_light_large.f4d487cbf956eb13a505b8926c8f0f63cb3604b3.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "8a9c4808-026d-47d6-85c4-e4984c112227",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Decimator",
+        "value": 644,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_gs_m4a1_decimator_light_large.5af82e99273fcc0a4ad35b2971b63787ee989d6a.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "79239a3f-a9a1-4a5c-83a5-53a728d95608",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Atomic Alloy",
+        "value": 301,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_am_m4a1-s_alloy_orange_light_large.82bd272d0256f17eb86029a8d1411c4e5bf2bc9c.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "de1e7bf5-4cc7-4071-9fe5-6ac08a48c1e3",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Guardian",
+        "value": 257,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1-s_elegant_light_large.1acbb0060648091ac532de68cfd720b7ad980564.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "70321acd-91b8-476e-96f6-ad32588760d6",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Blue Phosphor",
+        "value": 1017,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_am_m4a1s_bluesmoke_light_large.20c39cd69587cfed699f1e1ebb05f4dc735e06d6.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "90273202-fc1b-4ba6-b570-61ed738a4bc2",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Control Panel",
+        "value": 792,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_operator_light_large.1e257113e58841ad0613b4e268d51d239df69a0e.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "e0366fcd-7091-451b-b179-9974dd7fb50f",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Hot Rod",
+        "value": 445,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_an_red_m4a1s_light_large.ec59e9b09e1e9f46af18dea65ee90e5bdfe9ebb1.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "0222640a-d1f5-4ed3-b8e2-7c1c8e4156fa",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Knight",
+        "value": 326,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_am_metals_light_large.1ef1155c712349b2aaee8172a3da7fb1e62e1362.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "d2df99c2-9553-42fb-a51f-fe2bf2a27639",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Master Piece",
+        "value": 321,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1-s_silence_light_large.e48d06783e5c6c99b2f65d6c82891ce9739f0181.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "964723cc-403c-4b8d-89ff-15cd19c78e01",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Flashback",
+        "value": 631,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_flashback_light_large.5e6c2d582d33006425b61dc0e0e8c28ecda9f853.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "f0ae14c6-e0b7-40e8-8e3e-ae2736cf8d58",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Basilisk",
+        "value": 383,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_aq_m4a1s_basilisk_light_large.18370d6557500376e137c7f6b07c7ed46c9dccf2.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "ac782b7f-034f-41f7-ae00-4d90fa1c2b5c",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Bright Water",
+        "value": 189,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_hy_ocean_bravo_light_large.7a942449926153575269af174733edc7bed5faeb.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "f9263f34-dcf0-4293-b7af-c55386fe7553",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Dark Water",
+        "value": 60,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_am_zebra_dark_light_large.f484368a478f5e02d1b9d5e2816354fe705503f3.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "2624f743-07e7-4df3-9e10-aefa3a024167",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Icarus Fell",
+        "value": 440,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_hy_icarus_light_large.4af0a9b1122471816242601013d478ade6a0697b.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "e5d3bcf3-b0b1-49cd-a4eb-7f4100662259",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Nitro",
+        "value": 254,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_large.625f58cdc5641f440ccf2fe866c3152b5803d1f2.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "2e30049b-f765-44a7-a437-3529540ac37a",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Briefing",
+        "value": 663,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_metritera_light_large.ec9c5f86d6788402519be7bd51b849355fbf93ee.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "45fcfe22-a929-4932-98b5-2c6430fa09dd",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Blood Tiger",
+        "value": 217,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_hy_redtiger_light_large.0b40a51b0020fa1781ddb7368e3b39c03263b2dd.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "93422d93-a8e3-419e-8f47-b548e0c08e1f",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Fizzy POP",
+        "value": 1059,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_sp_technowar_red_light_large.8b95f916513ef9d3ceab3f8b87acd23779aeef0a.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "efcee6a8-b97a-46b9-b64e-1097e1ebfed0",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "VariCamo",
+        "value": 235,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_hy_varicamo_light_large.794803daec1d6d6cd2c47d8e8520d9f5f0b1fc1b.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "04981c2b-76b0-4eb8-8ded-49e1ef43f2e5",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Moss Quartz",
+        "value": 862,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_am_crystallized_dark_green_light_large.d9fbf93df4fb38d302a7dd8b2783ce738035a916.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "88703395-fff5-4e2a-898a-7cdb24b8db7a",
+        "id": 60,
+        "weaponName": "M4A1-S",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_hy_forest_boreal_light_large.1a7f334b65d1ff1a4ca0bb4a1b164d643169f982.png",
+        "quality": "Industrial Grade Rifle"
+    }
+]

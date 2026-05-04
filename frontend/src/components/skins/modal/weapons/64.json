@@ -1,0 +1,164 @@
+[
+    {
+        "uuid": "22b2f294-a1d9-47fc-aba5-9de02b90aafb",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Fade",
+        "value": 522,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_aa_fade_revolver_light_large.af77aee9f82936e7510b89e7f0c1bbf6bfaaff45.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "7dc9cd67-5753-4a93-8191-ca87ee16c634",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Skull Crusher",
+        "value": 843,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_cu_revolver_oppressor_light_large.59414a184bcf3310d43528701292ba4f68ba55a0.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "cb30779b-041c-4112-9ba0-9032d69f0106",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Llama Cannon",
+        "value": 683,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_r8_llamacannon_light_large.ae4ce84764b4892a2ea2d3f9f0afc57023f7bdc8.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "7131c3db-6551-4962-aff4-97d29d6636d4",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Amber Fade",
+        "value": 523,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_aa_fade_metallic_revolver_light_large.d56e81f58bb716ac6ca130bd41802bb8962dd0cf.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "7c135ec1-7075-4ffd-86b9-a928db4d984b",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Reboot",
+        "value": 595,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_cu_r8_cybersport_light_large.d5eb827f99a401915b8377eda7b81a0bc9cae4bf.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "74d41d29-8e1c-470d-8b64-1f59477a85f3",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Junk Yard",
+        "value": 1047,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_r8_rustking_light_large.5245178cf84e1bf8d77eb7a3ec19d108a70131d3.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "e1f5e9dc-5c33-4577-8de5-8525744f9a50",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Bone Forged",
+        "value": 952,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_r8_leviathan_light_large.656b77eecd4ef8f55f11866cce3da2778d6cc7d5.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "ebdf5dce-2323-49ab-93d0-4a2550909524",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Memento",
+        "value": 892,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_r8_memento_light_large.8ca600a94c72b5a3b33bb826a1a588f7e48d5e78.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "163781d5-5a1e-4ea5-81cd-09539a97ee1a",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Survivalist",
+        "value": 721,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_cu_r8_survivalist_light_large.cda482f11a63c89c574211b8d5ea9a60703e3cd2.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "424af6af-5943-4beb-9b81-66e22a67bea5",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Grip",
+        "value": 701,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_revolver_tread_light_large.7c3bd1302f62853e5694aec2d70cf1c7140b3fc0.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "f43b45b7-0c4e-469c-a11d-2ec001f58e94",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_hy_webs_light_large.2a0bbba44388502060a910b5a18f5b64b5be0b3d.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "b8cf1155-83fe-4b82-88e3-d6de5a350077",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Blaze",
+        "value": 37,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_aa_flames_light_large.190d9cb7b8aad31d105fe838664a7fd99ebf3535.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "dcecf966-c472-44b0-9ca5-186885534943",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Phoenix Marker",
+        "value": 1011,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_am_phoenix_tags_blue_light_large.c98c31a965c8c89fe1c7ee5c5774daebef5a5c27.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "d0f9d816-640a-4a07-a386-57874eded78d",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Nitro",
+        "value": 798,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_so_orange_accents3_light_large.00867f70c109a7934345f92aae1be055b6a98abb.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "b6f18ba5-78b7-4ac5-8e7a-13f7b44879d4",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Desert Brush",
+        "value": 924,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_hy_brush_camo_tan_light_large.4af5232b57afac32a9eb2f056cf6fdf968a94966.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "ac4b05af-6702-47eb-add4-43efcac84b08",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_so_night_light_large.02c1852bc16e1c3bcdb2daa681fdfe043d31293b.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "77856a1d-8d92-4220-9627-b4aad0b6affa",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Canal Spray",
+        "value": 866,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_sp_spray_water_light_large.0f7d074b7c53419d9475b0eb68e7215d7f9dcc66.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "90cc7565-7fb7-47a6-8721-e4840d863078",
+        "id": 64,
+        "weaponName": "R8 Revolver",
+        "label": "Bone Mask",
+        "value": 27,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_sp_tape_light_large.c8f9124ff70ca2a6e8867920cd39e4fb7308ac87.png",
+        "quality": "Consumer Grade Pistol"
+    }
+]

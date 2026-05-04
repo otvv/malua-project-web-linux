@@ -1,0 +1,272 @@
+[
+    {
+        "uuid": "2366c5a8-cd3c-4979-8bf0-cf9ddc9e969d",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Justice",
+        "value": 948,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_gs_mag7_justice_light_large.fcdc73ab779ab093ee7d90d91c1e3c369bbc8d65.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "3ed6c192-9628-4010-a529-0df81a6fc575",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Cinquedea",
+        "value": 737,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_gs_mag7_glass_light_large.beadef0a6bd24e7ba3ed051b2b092c27119ce075.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "244160c2-df34-4165-9b79-84a47e70bf6a",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "BI83 Spectrum",
+        "value": 1089,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_gs_mag7_bismuth_light_large.f5df59b5024b23a1ca187985b7650e337adda4b4.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "22db40d9-902c-4ea4-aa08-a34d25a6ebe6",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Monster Call",
+        "value": 961,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_monster_call_light_large.8bd66022cda47ab85f73e765dc35526e6a2ce7f0.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "b5061140-23b5-472b-ad70-a16fe373a022",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "SWAG-7",
+        "value": 703,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_aq_mag7_swag7_light_large.20341e396db88a5ecde84f8b803a500f4aec3b55.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "57c02ed9-34cf-4c35-a699-5d26f0d80281",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Petroglyph",
+        "value": 608,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_tribal_light_large.c226728af447f07808ea5954eb9a24528092d972.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "a835cc18-c605-44c2-af97-7e3820edb4b0",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Praetorian",
+        "value": 535,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_gs_mag7_praetorian_light_large.55d96fbd30315911a2397ef950887e8fda43a3ec.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "cfc93afa-f8af-416e-8f5d-981f4045e0fc",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Heat",
+        "value": 431,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_redhot_light_large.76087a836e8c98fd10765a4b56dca946ba5acb4d.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "3b4405b6-83c2-4f25-8ccc-8f4e7fc507a8",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Prism Terrace",
+        "value": 1072,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_hy_geometric_steps_pearl_light_large.f31672cbe64c23d7d340199143758c8fc537ffb3.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "0eb230e4-e321-4baf-818d-e39a6dca862d",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Core Breach",
+        "value": 787,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_hy_nuclear_hotorange_light_large.35367773b8501fa045ad8c58387c6f48fc848045.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "10ec7e61-baa9-4971-8e0d-14e8cb2a6484",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Bulldozer",
+        "value": 39,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_so_yellow_light_large.bb2e6280c1d92a574c93123d79d5724276db69f3.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "547528b3-dbc8-461e-8f9c-04ffdab314d1",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Popdog",
+        "value": 909,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_gs_mag7_popdog_light_large.3c45fd23cd1947bb9b1747e36823980a44feaed4.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "5e11ac58-e02a-4310-9cc7-c06cbfc52bc0",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Hard Water",
+        "value": 666,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_am_mag7_caustic_light_large.133bbfa9f3cf8220f8eb5556d4d54a766cf1c9e0.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "66ef6e6a-b8bc-4768-8220-319a873f4c22",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Sonar",
+        "value": 633,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_am_mag7_malform_light_large.8a87c99550a4f609e7357bb4f63facf86279afca.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "4bf7296a-65d1-4434-83d1-a8ac454e0366",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Cobalt Core",
+        "value": 499,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_myrcene_light_large.7cd0ed89db7accc44d3289f9f1529e0a75f4643e.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "6b9839a4-f850-433d-b6ed-426cbe543573",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Firestarter",
+        "value": 385,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_sp_mag7_firebitten_light_large.640af2edb52a7f170620e175ddaa5f5cf763325b.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "1afd18d0-10d6-47d1-a9fa-634b4bd0c901",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Heaven Guard",
+        "value": 291,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_heaven_light_large.ea002eaa1f984e278f59a934ca9016f038d06120.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "8b0f3453-57fe-4b8d-a081-2410ba53becc",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Memento",
+        "value": 177,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_hy_icosahedron_light_large.f7ea8cca0b48a0463d0877af9c94e7f54d0f1d79.png",
+        "quality": "Mil-Spec Shotgun "
+    },
+    {
+        "uuid": "029d23c0-bdc5-4c18-8f24-1165acf14d71",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Counter Terrace",
+        "value": 462,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_hy_geometric_steps_green_light_large.542348e3effe63aae75b070cb1ca7d193e8356cf.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "f12e8d86-8cce-4028-8bbc-e3d6f80489c2",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Hazard",
+        "value": 198,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_sp_hazard_bravo_light_large.51f8430aea46a8f93e504fb9ea950cd772930d6d.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "744dc8cf-306b-4068-9680-549ccddaed43",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Carbon Fiber",
+        "value": 70,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_am_carbon_fiber_light_large.226aab440e6e6041b5b4b09f907695aa854bcce0.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "3d65bb51-cf48-4fdb-87d5-8e108c79b3ca",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Chainmail",
+        "value": 327,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_am_chainmail_light_large.e6d6e648f7b590f64af2805f59271a364f1b2283.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "993208b8-40f9-4503-8def-bce21f0bb194",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Silver",
+        "value": 32,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_an_silver_light_large.ffb14b93d930ff95920974edd78cf6b31b48fe43.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "b8e5a19d-7f7b-440e-98e4-a251a272ae4c",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Metallic DDPAT",
+        "value": 34,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_am_urban_light_large.49c3b842a021265e8dd66f05ebe20fc76a6dfdba.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "b4d0f63d-6519-4b4c-b78a-72adb7b27e88",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Navy Sheen",
+        "value": 822,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_am_navy_shine_light_large.fd2f1241ce0bfa16bbbd8971f72846429cc874d0.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "03ef2ac7-ceff-46da-8e1f-d4eab76a65b8",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Rust Coat",
+        "value": 754,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_aq_steel_inferno_light_large.4313699bf1fb212a490703f11b20dab3479ebe9c.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "cb88c6ea-2294-4e16-8582-78361b9f311c",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Seabird",
+        "value": 473,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_so_aqua_light_large.fee69dfe94d0158d2e7d8d049accdb967b8a924a.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "971c8f97-3015-41cb-84db-fa0adf7863e2",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Storm",
+        "value": 100,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_so_stormfront_light_large.40f72ef6782f32f64bd883923fedfe0d1512d582.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "9a26d31f-69f1-4f16-ac54-ed3a22585242",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Irradiated Alert",
+        "value": 171,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_sp_nukestripe_brown_light_large.e1d7540ba5131a2e2cf36a8f7c6edc98d0cd431a.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "7b63f417-4276-433a-a46a-015a6d04fd22",
+        "id": 27,
+        "weaponName": "MAG-7",
+        "label": "Sand Dune",
+        "value": 99,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_so_sand_light_large.9dfc46fd60aa92768b02d39371d5aac04b892ff8.png",
+        "quality": "Consumer Grade Shotgun"
+    }
+]

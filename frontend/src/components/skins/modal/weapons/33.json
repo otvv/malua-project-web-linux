@@ -1,0 +1,281 @@
+[
+    {
+        "uuid": "2739046d-d718-4d33-9ebd-cce46a419994",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Bloodsport",
+        "value": 696,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_gs_mp7_bloodsport_light_large.ab5c304901ceb320482742b041815e7b5e3ccb95.png",
+        "quality": "Covert SMG"
+    },
+    {
+        "uuid": "881cf863-aa33-467a-97a1-8fe958c9a855",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Nemesis",
+        "value": 481,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_nemsis_light_large.72074e71a27827f41dc5d6f511d2f003c1b60d8a.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "73b27710-37f9-4c51-ab9e-cf2edcbc8d68",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Neon Ply",
+        "value": 893,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_replica_light_large.f56c050cb5147918efb6872ce61fda358a684cf5.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "482814a7-58f3-4fea-adca-70d7655be27b",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Powercore",
+        "value": 719,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_gs_powercore_mp7_light_large.cff12134204aef1ddc67e142088a2b7cec911960.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "d6cf9938-fef9-46e1-857d-4f2d06fd1c6f",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Impire",
+        "value": 536,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_mp7_impire_light_large.aee431bcc2114fbc9f5cf46ca9735c86ddb450ba.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "753b3c80-5b1a-48f6-82a6-00f0c75b7501",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Special Delivery",
+        "value": 500,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_classified_light_large.231ba61751c2976258bf96b3d1db5ae6ecb03b95.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "235ed761-86ca-4277-95c2-90a85e1f1299",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Ocean Foam",
+        "value": 213,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_am_ossify_blue_light_large.b2c077afc23ddb48381629155713816dbf09fb84.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "11829dc1-47bd-42c5-93c6-2e1324e94cbb",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Fade",
+        "value": 752,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_aa_fade_mp7_light_large.ed53795666c445f3b00a4968062514b3bb5dd166.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "3fb4db10-d91c-4f1e-965b-531c52e60510",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Guerrilla",
+        "value": 1096,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_khaki_light_large.c9fb92fece0f425328e2c5c8c536302ed2dbcf99.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "088e186d-8c86-4b5a-94fc-a114c777a5e1",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Mischief",
+        "value": 847,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_racketeer_light_large.ba5b3641b7b309cdd16d9f54fc2bc2331e738929.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "f2541c00-3b37-4171-8502-da5a2e0d122e",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Akoben",
+        "value": 649,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_mp7_tribal_yellow_light_large.1c05d27487feb5d82e8165721942ea3a67e6ba33.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "b2f60658-2cca-4609-8e2c-f99da3cc5fc0",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Cirrus",
+        "value": 627,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_gs_final_pooldeadv2_light_large.30ea2c8c934b49fa0a5e2b8c50ec880c10e2f295.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "64e52300-6df4-4158-92a0-999802f5c7dc",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Armor Core",
+        "value": 423,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_aq_mp7_ultramodern_light_large.5351e1926e4a9599d149c4941a8603f4143ff999.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "27d22ef6-2181-4ddf-a1ad-001da054909f",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Urban Hazard",
+        "value": 354,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7-commander_light_large.260d3f2765c83f75eadac5abd6ef4187ea2c2089.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "2639c254-9faa-43dc-ae58-7bd8777efd72",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Skulls",
+        "value": 11,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_hy_skulls_light_large.3e38912bdbea8a2b03b149e619f9f141e54facfd.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "b6ae8697-f6c6-4fce-a9ba-4d970993021a",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Teal Blossom",
+        "value": 728,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_bud_green_light_large.9b06527d579a047b676e49001fa16b39208f9149.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "1aa065aa-294b-4c7a-a62d-fae9e9a8e464",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Full Stop",
+        "value": 250,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_hy_varicamo_red_light_large.7110895d0ad1626929f361598b7f201a5ef3701a.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "06bfa077-c9f2-4eba-81db-3d6eb87b2eda",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Anodized Navy",
+        "value": 28,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_an_navy_light_large.7b705336c3ee472db933931597f0ab191217b3dc.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "4c4fecd2-0001-4c1f-aaeb-6811fe0b83d7",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Whiteout",
+        "value": 102,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_so_whiteout_light_large.1f27273c189c19b42567bdd44ffc3e5be70ea3a4.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "84d8ba9d-aa86-4cfa-8bdf-fa68260918a6",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Vault Heist",
+        "value": 1007,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_am_heist_plans_yellow_light_large.5d416001244a233cd2e9feabc4046b5788c3b051.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "a1a3bd7f-f3d4-4416-a4a5-9dfb6661afa0",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Tall Grass",
+        "value": 1023,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_hy_drywood_green_light_large.a2a57b124a5e8a3ad61912649f472f2b477bdad9.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "426a1f7d-64fe-4bbd-9eb6-23263cbc0030",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Motherboard",
+        "value": 782,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_am_circuitboard_green_light_large.0df678715d2256928d817c2e89575879f03ad68e.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "6472db9f-f7a6-4f4e-966c-11788a4d95b2",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Gunsmoke",
+        "value": 15,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_hy_gelpen_light_large.e19dd688c21ae094ffc3649e80ee1c1f0959125a.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "0e0ee6a7-7eef-47f4-a44e-35ee6442dacd",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Orange Peel",
+        "value": 141,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_tape_orange_light_large.5870d3d214c5b4cd923d68c4a016b72596808db1.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "464319e4-a031-436f-b8d6-ea4ed056b53a",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Prey",
+        "value": 935,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_zebracam_red_light_large.d55be83c6281f9d9bf4125173dcea870cf9ca0b1.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "108f27c5-efa3-4dc5-a22c-a2c028a04602",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_dapple_light_large.d78eb500eb366b42a585762582f34009835dd946.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "20710a2a-a3f1-43a7-9a67-ec40ef1c037c",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Asterion",
+        "value": 442,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_labyrinth_light_large.05382e4a98099c6747e1a3d636b47bd617b8866a.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "278d24c3-edbe-42d6-b72a-b9a1fd5c80fc",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Olive Plaid",
+        "value": 365,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_hy_plaid1_light_large.56b2f9cbc6d9a7aae3c1eca41151a2067a1427e8.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "ba9b0550-4ee0-4c90-95d7-8a07307900dd",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_hy_ddpat_light_large.0207fb5fe0a1e21cdda28e005f7960f2dc4728b9.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "047198c5-1814-401b-a816-f1677be43df3",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Army Recon",
+        "value": 245,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_sp_spray_army_light_large.e879b8808f8c967e4f08fde194d6d58f64dfdb2d.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "08c5acb7-6959-406d-ac17-87261cdcad0e",
+        "id": 33,
+        "weaponName": "MP7",
+        "label": "Groundwater",
+        "value": 209,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_so_olive_bravo_light_large.fd49ae0c11fa44fb6110f4ec9d34651d4e6f9185.png",
+        "quality": "Consumer Grade SMG"
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "uuid": "9b7cbe6f-51c6-4ede-827a-4a33480cc3e5",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Cobra Strike",
+        "value": 658,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dualberettas_cobra_light_large.0c2576234d95cb12089d9fdad47d1f7eed7f56c8.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "e356eada-a6c4-469d-a8ed-8ea6293f1442",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Twin Turbo",
+        "value": 747,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_dual_elites_rally_light_large.5b3cf9c54a4e7927724560a210955a77887ecb2e.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "42903889-537d-46d4-a294-3d2487e1028f",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Dezastre",
+        "value": 978,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_elites_dezastre_light_large.9b7aa9accd1e31a202b0f2ab66d0cf8d3039ee7d.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "606fad33-5f48-4e2f-ae86-8c127df58ec0",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Royal Consorts",
+        "value": 625,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_berettas_golden_venice_light_large.23d73db6cf2b2a7af26414d26373171dd3be06b1.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "357a7dd7-6f15-4aa3-b9d9-809dacbfd03c",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Urban Shock",
+        "value": 396,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_elites_urbanstorm_light_large.d33c9dd65434d8b9f4e7b5092fcc2e07a874e625.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "ee60d2c1-5190-4a4a-a6df-ca506ddcbd08",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Marina",
+        "value": 261,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_hy_marina_sunrise_light_large.bcdf31f5af4a5b9bef2bb0d5336715a3a0407b92.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "d48efff8-9da7-4154-9527-a4d52b79edbe",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Hemoglobin",
+        "value": 220,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_am_ossify_red_light_large.9da21d3dc7b64952d853818075f524a9e4c1dfd3.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "d12c3663-aaa8-48e5-a1cd-aea9e537063b",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Duelist",
+        "value": 447,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_mother_of_pearl_elite_light_large.2023e44b16f064c32962b691bcdb5d45051744bc.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "eeac6d0c-ea9f-474c-9532-44ea46ddedc0",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Cobalt Quartz",
+        "value": 249,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_am_crystallized_blue_light_large.5756d02f9908e1c4d70e6f1d9dae53b3731fc0fd.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "ee0621b2-e9e8-4b60-862f-be46f16898d7",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Demolition",
+        "value": 153,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_so_tangerine_light_large.3fd8ec1b63079a11e24d78228ad989b51a30b0ca.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "24161748-931b-4110-820a-94cb6a2ace94",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Tread",
+        "value": 1091,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_berettas_tread_light_large.c48f5d783dd8f91dabffcd64cd2d95690b309ce5.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "c230c8da-6eec-4fa8-b535-535d2076404a",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Balance",
+        "value": 895,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_elites_rose_light_large.8df8980203b198879875be44656361ccbb41791e.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "37f150c9-4240-4130-b694-0364120e9101",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Elite 1.6",
+        "value": 903,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_elites_classic_light_large.a899ad9f2e1bb8522fdeb022c99c64c2456826d1.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "bf0ba8b9-de4b-4670-875b-81c3d34daa7c",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Shred",
+        "value": 710,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_sp_elites_winter_raider_light_large.eddc2e91d0081e57588b745589209094a6b3e9b6.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "37fc5de9-8c77-4acf-93b6-8aa5b1923b21",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Ventilators",
+        "value": 544,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dualberettas_ventilators_light_large.45cb1ffd25de1ed5b90ba104b1f8e0a8eb2eb255.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "8c5f33a3-2f32-4f6b-a9df-66f7268250de",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Cartel",
+        "value": 528,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_aq_dualberettas_cartel_light_large.52ed24116db8a7254a366ea9f4f49b3ceff9eed3.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "98ec1ae2-0e45-46e4-b015-7a278d58ad63",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Dualing Dragons",
+        "value": 491,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_dualberretta_dragons_light_large.2742674cbf237d1ba5fb6ed9f0d90e00a03570f9.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "49621488-75bf-4f81-b851-90a3194985d9",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Retribution",
+        "value": 307,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_retribution_light_large.8527b45e34039b45dea9d304bb5892a1d0de5268.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "25fb7cee-4353-4a9b-b4f1-63dc60f228f5",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Panther",
+        "value": 276,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_so_panther_light_large.019431b3fca18b027d07fe29d0ee7bf88df75576.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "453fd99b-e4d6-488c-82c6-37e4c09fce8b",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Black Limba",
+        "value": 190,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_season_elites_bravo_light_large.03b5f4afcbffb80f73ce009da240f4aa1455c15f.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "db12a50e-68b8-43ec-adfd-a02f8e9d7d27",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Emerald",
+        "value": 453,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_an_emerald_light_large.242c719bcbe22fa3eb64b7ba15f48989cc9200d8.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "a75160ee-fce4-4323-a702-cf7fe176f59a",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Anodized Navy",
+        "value": 28,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_an_navy_light_large.87999cce45a03f8e83c28db98874810a5c990c10.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "b1f260ed-bf5d-4f6b-8b1c-3d055fd73326",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Drift Wood",
+        "value": 824,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_sp_dry_wood_light_large.89fee2f97c3722747a19dcc269397d71fd7fddc1.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "0c68d8a9-425f-43cf-8079-6c2b12035b33",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Switch Board",
+        "value": 998,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_hy_numbers_green_light_large.e970f5a91033a85fc8a380b1c621ea633afb258b.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "18d1263f-5fae-40ee-b599-8dcbe4e8453a",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Pyre",
+        "value": 860,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_hy_gelpen_dark_light_large.064bcecab3cc87140e4a6e6f0f34cc3e00675d77.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "7ee0b28d-6c98-4da3-b623-8b98492c08bd",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_aq_forced_light_large.c654256613e0893b16be27a7621ec469a63a9955.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "f6fff839-845d-49cd-80ba-cc57f4d96a3b",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Oil Change",
+        "value": 1086,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_sp_engine_dirty_light_large.0e7876df94dfe920abf273e75ea62e041100de4a.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "dd51f9a2-3f67-4322-be2b-4ec70b351b36",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Heist",
+        "value": 1005,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_am_heist_plans_green_light_large.a4c7acda57bfceac6b4e25708bfd4881e9bed5e2.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "a580a73e-7894-4352-b886-1a578667b19e",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Moon in Libra",
+        "value": 450,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_hy_zodiac1_light_large.cedfe5166a361ccc3c32a28847addcdc66ad25d7.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "51552630-a021-4e92-91a4-91dc3f90ea07",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Briar",
+        "value": 330,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_hy_vines_light_large.bb506f02418403c8a48f7829bdc065a71c3a77d0.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "13b45d6e-74ad-4d21-aeeb-7650726ca3c5",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Contractor",
+        "value": 46,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_so_pmc_light_large.eb0b65f961c27f233d8846c80301666925712e93.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "c0087278-aa1e-4858-b769-6ff895c60d79",
+        "id": 2,
+        "weaponName": "Dual Berettas",
+        "label": "Colony",
+        "value": 47,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_so_space_marine_light_large.101c6b29315d37db050a4c7817a4c11517baa167.png",
+        "quality": "Consumer Grade Pistol"
+    }
+]

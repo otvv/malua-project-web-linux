@@ -1,0 +1,74 @@
+.navbar {
+  height: 5vh;
+  background: var(--color-background1) !important;
+}
+
+.logo {
+  color: var(--color-text-accent);
+}
+
+.logo:hover {
+  animation: shakePill 1s cubic-bezier(.36,.07,.19,.97) both;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+.cloud-dropdown-items {
+    display: flex;
+    align-items: center;
+    color: var(--color-text-colored);
+
+  }
+
+.dropdown-item:hover {
+  background-color: var(--color-foreground1) important;
+  color: var(--color-text-accent-hover)
+}
+
+.dropdown-item:active {
+  background-color: var(--color-foreground1) important;
+  color: var(--color-text-accent);
+}
+
+.navbar-title {
+  color: var(--color-text) !important;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+}
+
+.navbar-title:hover {
+  color: var(--color-text-hover) !important;
+}
+
+.navbar-title-secondary {
+  color: var(--color-text-disabled);
+}
+
+.nav-link {
+  color: var(--color-text);
+  font-size: 14px;
+}
+
+.nav-link:hover {
+  color: var(--color-text-hover) !important;
+  text-decoration: none;
+}
+
+@keyframes shakePill {
+  10%, 90% {
+    transform: translate3d(0px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(1px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-1px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(1px, 0, 0);
+  }
+}

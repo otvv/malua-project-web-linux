@@ -1,0 +1,371 @@
+[
+    {
+        "uuid": "4966888b-df90-4a8e-9659-048342f65574",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Leet Museo",
+        "value": 1087,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_abstract_light_large.c0eca2ab0cee2c60491b9b64358f72ae4398e78a.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "6ea309dc-4a18-4e49-a5e7-bed731e41233",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Legion of Anubis",
+        "value": 959,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_anubis_light_large.77994b9d6a2f3020c0c5aa8c9c7f70357d460bff.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "8188e2b0-bb00-483f-8e0d-fa920012925d",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Asiimov",
+        "value": 801,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_asiimov_light_large.665fc3b83c8046398787a57d2ef7a9d938244820.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "cf333c4c-90a2-41bd-b1e3-349b6da62510",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Neon Rider",
+        "value": 707,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_neon_rider_light_large.9209192b514c4ec98146b4747dec8ce407a977c8.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "cae8bd22-e724-4cbb-8381-b754d3a5a37f",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "The Empress",
+        "value": 675,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_empress_light_large.f81d0b07dca381635c89f74bcdb6b64a6da6e81c.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "298ebf2e-e24f-421f-b0df-bc50ada84915",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Bloodsport",
+        "value": 639,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_bloodsport_light_large.40f076f6b92e08acc37860923533aa9768795b2b.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "115cde1a-2369-4a15-ba2c-77ae8631e5ee",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Neon Revolution",
+        "value": 600,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_anarchy_light_large.6e98f0c6fcb81aaeca03c56eed68962f50c9ef94.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "a13a2407-4bb9-4872-9a8d-ebbe0c2aa83a",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Fuel Injector",
+        "value": 524,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_supercharged_light_large.8a0d53e84b7049366a3e3dbb25d29f473d76dceb.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "24eaa6d7-d4b3-4b6c-b464-be9d3bf91049",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Aquamarine Revenge",
+        "value": 474,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_courage_alt_light_large.27e4e7d38dc2ce36ffe86bd6ec65d6f525751eaa.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "4d26a9fd-cb3e-4283-8c35-d34481052fc3",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Wasteland Rebel",
+        "value": 380,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_tribute_ak47_light_large.f0ccfeea8a432a82cf4fb7f0411a724dbb43459a.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "5988da18-f43e-4a8e-811c-1eae09310e4c",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Jaguar",
+        "value": 316,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_panther_ak47_light_large.6b7c82083b5fbb71631ad7961ac1543d1fc2a5cd.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "3a1a3a76-c39e-43c0-9f57-66253366f04c",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Vulcan",
+        "value": 302,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_rubber_light_large.5836c38d3037a5a1f90ffdc8c9d0b94367ca8efd.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "3a52bcf8-a026-4784-9bfe-73f8f999e5a2",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Fire Serpent",
+        "value": 180,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_fireserpent_ak47_bravo_light_large.9390e7fd091ea8a0434fd2143e0acf0d5d1bbc97.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "63f0874e-5c22-4cb4-aac4-5e5d02a538c9",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Gold Arabesque",
+        "value": 921,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_gold_arabesque_light_large.0d1b0b2bfcafe8d214837077367e7dd42394822e.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "85f71266-38e6-4603-93fa-8eec7ac1245d",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "X-Ray",
+        "value": 1004,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_xray_light_large.a16215bb471dac8cc257c13dbc03e24514a7f018.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "c17817c8-28d2-4b33-92f2-85e2af3c45c2",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Wild Lotus",
+        "value": 724,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_island_floral_light_large.1303e76d0a77ab164a46a7aba5ab1dcaf1acee6b.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "742bbf12-f28a-4148-9fc7-c30b3bb93b74",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Phantom Disruptor",
+        "value": 941,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak-47_phantom_disruptor_light_large.c14fcebe17a4c1a509edc597b33dcb9b5dcda32b.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "5b1adc53-f59a-47de-b754-6083abdcb72b",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Point Disarray",
+        "value": 506,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_point_disarray_light_large.ba0f6ccdcb917aa2bde2ef0312c57d763a61d341.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "46010db3-1f65-4aac-8367-972816fb986a",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Frontside Misty",
+        "value": 490,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_winter_sport_light_large.785a08aecd996dcffc6f38373fdc73697e601a6a.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "1843bd89-a9f6-43e3-8ce7-00dbda809986",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Cartel",
+        "value": 394,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_aq_ak47_cartel_light_large.2e7be9f4c7bda304f2a7c374260d95affca93f0b.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "b77e9826-607c-4364-8197-93595e9a9a39",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Redline",
+        "value": 282,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_cobra_light_large.7494bfdf4855fd4e6a2dbd983ed0a243c80ef830.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "13c3784c-901d-435a-a2ec-21f2d167b0eb",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Red Laminate",
+        "value": 14,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_ak47lam_light_large.199620e808579639264cf753d0650721b4bc1f37.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "aa5a0737-ec8e-4f21-b167-dc5a497afb63",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_aq_oiled_light_large.92c8d125e4e54758d37e946496030e9a18833b58.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "383852d9-95fa-46c2-8b99-7d7e996613d5",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Panthera onca",
+        "value": 1018,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_jaguar_light_large.92dd85d59d2615eab90bf86d7e4df6ee9e095132.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "b369ab4a-3ec8-4554-b2af-44d517261505",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Hydroponic",
+        "value": 456,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_am_bamboo_jungle_light_large.98cd023e9d2207ad765b600b281352cbc5009051.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "ef82fefd-2525-46d8-ab87-1395f2d16bd5",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Jet Set",
+        "value": 340,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_well_traveled_ak47_light_large.708a53ac473d7cd02037876a82b6b4c004bf9a31.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "e9ca2376-882a-41c3-8231-1c5aa1edadfa",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Slate",
+        "value": 1035,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_professional_light_large.d09d623d0a725c63e8a3905f66bba41ba2ed59e8.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "52d5622f-df10-4442-a55a-224ff399cd17",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Rat Rod",
+        "value": 885,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_nibbler_light_large.1c402d395b628aa5667239eec44640d7f603d754.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "0e50f7c5-1e10-41eb-97f8-c9b72237beda",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Orbit Mk01",
+        "value": 656,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak_colony01_red_light_large.b688da7615b6e76fa34f775e200914dc44d5336c.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "1d78e70e-2ad3-44d4-b16c-57c45e7cea0d",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Blue Laminate",
+        "value": 226,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_ak47lam_blue_light_large.9f8ec5103efa5b7a0b3919a13b4de78e1bd612a0.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "a9491929-1007-4532-878d-1454a6ea6037",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Safety Net",
+        "value": 795,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_mesh_safetyorange_light_large.f4ee68bc3bbd972ded65ec36b66259199b7fafb7.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "8577f22e-e740-4ea3-84de-a05df3a7f272",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "First Class",
+        "value": 341,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_green_leather_ak47_light_large.9622f0d289d98aa50238c0c956631b73bc3171ed.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "71f3a599-db38-477c-be88-7ffa74de9e1e",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Emerald Pinstripe",
+        "value": 300,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_pinstripe_ak47_light_large.2123421a26fbe673eea7c0238c7441a83b97aa17.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "761bd1b8-735a-4d0c-a5cb-75c498cc667c",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Uncharted",
+        "value": 836,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_aztec_light_large.368d90ba7bc01aa56489792a8962df5343238c5c.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "36bcf783-22c1-42c1-9726-3679f4585d4c",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Elite Build",
+        "value": 422,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_mastery_light_large.4305c0ba4b02ce531fc08c275fa6a9d87da2cf7e.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "6d2807bb-58bc-4fe5-9fca-348acd5eb05f",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Green Laminate",
+        "value": 1070,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_ak47lam_green_light_large.ecbaf85e35ca08156cc305017d4dc4276a742a8f.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "6848e0d8-5f27-4ffe-b2fa-da1e21ee140a",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Black Laminate",
+        "value": 172,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_ak47lam_bw_light_large.c504cab278a4955e92255ee2022340be2d0982a4.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "c5bafe7c-129f-4c0b-94d7-790377ef7429",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Baroque Purple",
+        "value": 745,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_veneto_purple_light_large.4d9f7f4ed3034ce7d712c68640eb33f9f66f5daf.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "2e31b882-cc94-4dcd-a5bd-0740552d1c30",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_sp_mesh_tan_light_large.0372a5d37f473b9cf5e2ee32d2f5d36247f24a3a.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "77e20cbf-499b-49ba-8366-9b9dee4b02f1",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Predator",
+        "value": 170,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_sp_zebracam_light_large.5f15c9e41b9ac135b87cdadb407c9872e31c1f29.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "f14b4883-335e-4cc0-9394-443e21e47286",
+        "id": 7,
+        "weaponName": "AK-47",
+        "label": "Jungle Spray",
+        "value": 122,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_sp_spray_jungle_light_large.af524ea61be29ab81dfb321277b98a211338de37.png",
+        "quality": "Industrial Grade Rifle"
+    }
+]

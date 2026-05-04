@@ -1,0 +1,317 @@
+[
+    {
+        "uuid": "eb35cf00-b9cb-4167-b048-3aeaab7e116a",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_karambit.8b491b581a4b9c7b5298071425f2b29a39a2a12f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a3749fd7-1058-4c3d-a8d1-7a6fea0218da",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Autotronic",
+        "value": 576,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_gs_karam_autotronic_light_large.5af6c108ce38f71f0964f1bbd06bc48c1d3e5462.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "af7b0093-6f8c-45c5-8712-3ea70ceed8a5",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Lore",
+        "value": 561,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_cu_karam_lore_light_large.7090aea57b3a2abd82e09f0cdb840ac72f41df73.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "35f63133-2d5a-42df-82b2-81701914e11d",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Black Laminate",
+        "value": 566,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_cu_karam_stonewash_light_large.a45dfc7db5703c23ef3e5733fcc4a7b2a9bf6d73.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0002da8c-e648-4978-b4d7-a34d70a07098",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Freehand",
+        "value": 582,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_am_marked_up_fine_light_large.8814a38afa2383489a723019fc9e6e43f021f047.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "7ce259b7-0fc1-4fc7-b947-90c26445c440",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Bright Water",
+        "value": 578,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_hy_ocean_knife_light_large.f108e6440259472084635566f62d7497b9d5ab51.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4703d2f9-5eaa-46f5-a6f3-75a8e97a8aff",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_am_marble_fade_light_large.e5d0f471cc4aad8ddd6ede429afe8cd2d80c1cf2.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "62fad00a-54d2-4e60-8853-b2c5a7b329e5",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_an_tiger_orange_light_large.cd5a9d7da1f15b5360e825b7d8261210ce717643.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "448e30a6-6255-438f-809e-a815bc5fbb0b",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Damascus Steel",
+        "value": 410,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_aq_damascus_light_large.47a76f786c10dcd8e0cabbf7d0ffaec93ea9960a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4e791d36-998a-4e3c-bc03-b97d4fcead64",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_so_purple_light_large.c30d6c61e9ec2e808b845d594a615e4623d56ee5.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6255487c-12c2-4044-9c25-4594ec621469",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_aq_steel_knife_light_large.fe0b528138096b68d213ad497a76396483f68f50.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0ecb843e-ea76-4bd0-b712-2e425e1d0e7b",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_aa_fade_light_large.c91680d753adc2fcc5ed2e45daf815f6d4ab50b7.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "73dc916b-39ad-44ea-8264-7a6d549b5fff",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_am_zebra_light_large.88457fbeca42e9dc1767983c76219d34b46abf14.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "02763f9d-2e6f-4455-9eec-dd6bd1363d2e",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_hy_webs_light_large.61217494aaae26081c31d87f15739f42b4c1444a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "849335dc-0645-4211-9847-0225cd697868",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_aq_oiled_light_large.52f9229d2960f5557a893a99cc679f1181b48d98.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2a0b7f88-ca5d-4d49-a494-583f36fc68d0",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_hy_forest_boreal_light_large.8be99b9b53275463ecac09d080359af3526c4e81.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d4893432-c63b-4d32-871b-e231175989ac",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_aq_blued_light_large.14e928cdede91a05a47656bc1a470cd515b9d735.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6c611bde-8dcd-4bbf-be14-8f3312f95deb",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_aq_forced_light_large.548f11f88cda9d7dd2915bd53d17e319d28a60ed.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4c4e4a4a-112a-48b5-aa35-d5153b520c17",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_so_night_light_large.427484b82687b9eb24e38125f5ea9e983847f68f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5dba4551-23d0-43a1-81b8-46d97b3de9e5",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_hy_ddpat_light_large.4ce3d0d597a1481ff4cdc9ecc8c171748d492832.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0fa6e352-234f-4cc3-a03b-0030909c5d1f",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_sp_tape_urban_light_large.d36d1cf81823ad0463a42ff3a8d9b1aff4910a73.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "678b380d-775e-4f76-9869-8a6914b5f8aa",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_sp_dapple_light_large.88adf51bc8d53efc0d8c04114bd03d388e00d2b8.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9cd8547f-6379-41cb-83dd-8d20fd1cf45c",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_sp_mesh_tan_light_large.a2d4ccf9954b957c819ade72a1cbea7ca0f0ad1f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bde5ced9-4c77-4f0e-9d08-6033625e168c",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Gamma Doppler - Phase 1",
+        "value": 569,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s782_phase1.png?id=40a8ac36051bedd881fd",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f943e361-4a4f-434d-95d4-870c59fa3fdd",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Gamma Doppler - Phase 2",
+        "value": 570,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s782_phase2.png?id=3e27528bcd6721c50647",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "fec2ca04-a912-44c6-8bb6-833e6590e49a",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Gamma Doppler - Phase 3",
+        "value": 571,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s782_phase3.png?id=7c36d22a6f119f27b845",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "83764b13-7006-48bd-9e8f-5d3180d40bdf",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Gamma Doppler - Phase 4",
+        "value": 572,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s782_phase4.png?id=4d9633cb3d5ac7927bf1",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "41013491-0d3a-4cf2-bf27-7827112a7339",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Gamma Doppler - Emerald",
+        "value": 568,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s782_emerald.png?id=413d1a4e2a1bd899954e",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c15d9604-108f-4d68-9925-8751ab6cc627",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s548_phase1.png?id=49bebfd3af8ac96d2275",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1890dd5a-52d1-426f-a526-7ff9da078fe3",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Doppler - Phase 2",
+        "value": 419,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s548_phase2.png?id=b3664b8077bb3fcdda54",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "68e7d26f-7291-4401-8ac7-dfde5abcff46",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s548_phase3.png?id=55937f1b79405d4e2ab7",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6adbfe24-b279-478f-a67d-b46b2f4ca812",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s548_phase4.png?id=3aaaac7513fd26a1369f",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c037f022-0e3f-40bf-b4e8-bb1770635c95",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s548_ruby.png?id=b1d0d76a9fc50114f96e",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bc78b2ef-3d93-48d5-a40e-48bbad2ed0f5",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s548_sapphire.png?id=8f31e5488b783e8f5d36",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0f8f0f81-e1f3-4898-8231-d6e80fe48fc4",
+        "id": 507,
+        "weaponName": "Karambit",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s548_blackpearl.png?id=afaed1682a513be4df77",
+        "quality": "Covert Knife"
+    }
+]

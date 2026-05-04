@@ -1,0 +1,119 @@
+[
+    {
+        "uuid": "3a2b9963-5d4f-4554-be81-8433c7d12036",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_css.0b33071c28c02e6f19e363dc9a838566c6557389.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "27e5cb37-759d-48fc-a63c-b2744d7dee97",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_aa_fade_light_large.f39aed45b6599c0e5850cb948b81f45268febc83.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d51feb54-6ea0-41b5-9b86-4630f12d4ccb",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_hy_webs_light_large.9f0ea28d7a29034eaade735f0bfd5d8bc5600e99.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ab4be65d-5570-4e51-8e5a-971bbaa18b62",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_am_zebra_light_large.ae26f920f022f2dc8d700bba2dee4e7003552a4b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5041e290-2a2c-4dc7-8ffc-74278118aa94",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_aq_oiled_light_large.20001c41e9bf3e1c1da9938c9f72a935241755c8.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2e34ae81-b3bc-4f6c-8817-5d25182096f0",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_sp_tape_urban_light_large.441ee120340e931006889e4848c673200d44b476.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d151e92b-640d-4f48-a80a-db4908fc9727",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Night Stripe",
+        "value": 735,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_sp_nightstripe_light_large.464a6d76bcc6c3648aa079ca346ee3076783b55b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "401ee445-cd54-4338-85c2-7ea19cdefdac",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_aq_blued_light_large.917fe4fc323042ac09109c9185742ba228539985.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "320c7534-b8f8-4c8a-81c6-9102e88cdb16",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_hy_forest_boreal_light_large.6139ce1d3498601b6114389dcdb2835157ef618b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "12f49b57-cc07-4812-a233-799c8cfbf53e",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_aq_forced_light_large.7f67fec75394666e6df6aa8a31aa492d4540fc94.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "60ce38d8-096a-4010-a755-d4ddcd4e9119",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_hy_ddpat_light_large.66740db6797133d2d2d7240b3ce70f530e9a0a81.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "3dcdbd7a-4dc1-41e0-b927-21092319d1a6",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_sp_dapple_light_large.4ff8fd82fa685fea7a2d243eecf8b7a230c46ee9.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "75b65695-6b51-4aed-b9fe-b8f4995ad9a8",
+        "id": 503,
+        "weaponName": "Classic Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_css_sp_mesh_tan_light_large.1c0bd9203662ac57a740117d1c22fead6e7863df.png",
+        "quality": "Covert Knife"
+    }
+]

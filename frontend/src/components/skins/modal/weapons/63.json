@@ -1,0 +1,290 @@
+[
+    {
+        "uuid": "851b8c3a-81da-4c09-ae67-ae0a2b1863a8",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Victoria",
+        "value": 270,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_aq_etched_cz75_light_large.5fa7e4f56600efeaceb99a948c6fa5dc3648a3b9.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "2c690796-0260-4bed-9827-786d28a3db26",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Xiangliu",
+        "value": 643,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz_snakes_purple_light_large.a06599fab1d73352fd970fc0356c215c50ca7e9a.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "3028392c-34a0-4451-b47b-8f382d8271ac",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Yellow Jacket",
+        "value": 476,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75a_chastizer_light_large.d3234c712c3c068adbbfd5718c468c778f2351dd.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "757ac7f3-e73b-44ab-bd33-ca8e94a0c718",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "The Fuschia Is Now",
+        "value": 269,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_am_fuschia_light_large.9ca4218835426c791482a3d7cc3b00d00c958d40.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "d493e8b5-d70c-41ba-888e-d3ea194418a6",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Eco",
+        "value": 709,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75_eco_light_large.19aa7b914ac71968e73ac48b112b9f4c8116c767.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "ec9d1cdc-7455-435b-9745-42ebf7abb182",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Tacticat",
+        "value": 687,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz75_tacticat_light_large.ed9ba2f6cb8fd5e2a2b6cfb1b9a0ba4c87c93ec3.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "7779060a-d6a7-4c18-995e-33fff5747596",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Red Astor",
+        "value": 543,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz75a_redastor_light_large.e00e688986c50877a103fe66d70fdf1fc13bbe8b.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "728a942b-ebde-4a9c-91e7-599bcc15dcde",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Pole Position",
+        "value": 435,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75_precision_light_large.a0d0ea9d92ff9c535cbdaa9c07a1a95a5181a82b.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "421fac43-54fd-4b66-9c30-536b95522312",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Tigris",
+        "value": 350,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_c75a-tiger_light_large.b754b5a73c8f2b207942eb046efdbd4cade04513.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "de41e2e0-2195-4e03-9197-64af49dba29b",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Tread Plate",
+        "value": 268,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_am_diamond_plate_light_large.ef425c82bae5d971bd5e1e9c54b9cd2f992e4e16.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "0a322c0d-31bf-49db-a4de-552135d5ce29",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Syndicate",
+        "value": 1064,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_train_cz75_light_large.d0178b0f2c40cd44a38d5c0215a7152214cb1ce8.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "df3322a8-b58e-4de5-b2b0-31dd2758b173",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Chalice",
+        "value": 325,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_am_royal_light_large.f9f7bd8e5321fa0572adc2b77050608e5570cdaf.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "e632cc03-3666-4c5e-a8be-d5f7f00f17ad",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Circaetus",
+        "value": 1036,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75_whirlwind_light_large.86609770746655c350bb7b087a8c0f1f1b55d01f.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "20d461b6-e0a5-4a6f-8b5f-578c6453f6f3",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Vendetta",
+        "value": 976,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz75_vendetta_light_large.0c3e295e82d8131b10e8daa2a1568e578fe01541.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "d9151e0a-a304-4670-8810-ff6be0a1d6a0",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Distressed",
+        "value": 944,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75_cerakote_light_large.2f8286a9ca2313c23c6d9ad8d1c94650ef856c37.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "ea37837c-c6f2-4127-aa56-bb7c63f9296b",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Polymer",
+        "value": 622,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_am_czv2_mf_light_large.e99dde293e56f61d77908b8326d2a89155389783.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "b84ea117-31a3-41ca-b099-379f306f2807",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Imprint",
+        "value": 602,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz75_tread_light_large.8c276db730bb33477aaa52f7a23825f295e14364.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "eb258921-e44b-4479-8fca-b46341054a15",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Hexane",
+        "value": 218,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_hy_bluehex_light_large.032e4b0999830a45d7439d07faef66b8299a105f.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "c48abeaf-eeed-4a28-8478-906e67f72927",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Twist",
+        "value": 334,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_am_gyrate_light_large.90f97369a79695a7fdcb633a9c9a9e56f29a05d5.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "9c7d743d-72be-45d9-8107-ca5f4304645a",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Poison Dart",
+        "value": 315,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_am_nitrogen_light_large.ea1d17f7e0ba9fa71126a46b3ba99bf258dffe25.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "b6beb544-81ac-4bec-b07b-01a5734115c9",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_hy_webs_light_large.2093b43aefa82ee6713c472384ea283fdd44f023.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "30b9333b-5519-4ef7-89e9-1da52465d602",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Emerald Quartz",
+        "value": 859,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_am_crystallized_green_light_large.6ae192cbf47b2cb11ec47fcdcbad07a6a78fb3f7.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "6e831d59-9ffb-4d9c-b9c0-a6564e87ffcf",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Emerald",
+        "value": 453,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_an_emerald_light_large.5c4734111477a884851cae6998871cbf7c870cc6.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "2ba3ca84-b625-4187-aab0-d1e3cb538c51",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Nitro",
+        "value": 322,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_so_orange_accents2_light_large.844bd6d01ce7c69486327ceb44b65b8c7cc49f2d.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "cb12e034-9738-4204-931d-01a8906e0083",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Tuxedo",
+        "value": 297,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_so_orca_light_large.8490865eba36c09ccd75a9b1f93445ff2e9f2b8f.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "667570ab-e756-492e-803b-c4f06bad5bac",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Midnight Palm",
+        "value": 933,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_sp_palm_night_light_large.9fd0e13c6cfbb14efbdd81732ca52f64f337e8e7.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "309adafd-9fed-4226-930b-aa293e5854a7",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Silver",
+        "value": 32,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_an_silver_light_large.d966656a4fc5b18b33ad34bcd8a5f8cc50b1f88e.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "2e7df679-3839-4615-a580-950cc95d081b",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Framework",
+        "value": 1076,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_hy_vertigoillusion_light_large.1e2ff66fbdd2d5aea56659a7ede1cc3fd570f00d.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "3e3edaa5-6c4f-4f54-a1a1-2b3a971db988",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Jungle Dashed",
+        "value": 147,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_sp_tape_short_jungle_light_large.501137d165eddaa23fc4d2a5eedf51fbcfe1bcb2.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "9a40af54-35b0-4fd6-acf1-e273bec3864d",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Indigo",
+        "value": 333,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_so_indigo_and_grey_light_large.2d4d90e760b199522064e9635d1efdb11cdab34f.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "e1e0343a-4a39-4816-976c-e2f6128cdda0",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Army Sheen",
+        "value": 298,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_am_army_shine_light_large.26736d48ea09a5284aeb1cf11292bc3e87a56251.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "81d2f391-8fc4-4c1f-bd04-3277b1b5490d",
+        "id": 63,
+        "weaponName": "CZ75-Auto",
+        "label": "Green Plaid",
+        "value": 366,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_hy_plaid2_light_large.82e391ba61c092ece265e3bde16237ab5a510130.png",
+        "quality": "Consumer Grade Pistol"
+    }
+]

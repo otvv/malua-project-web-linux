@@ -1,0 +1,272 @@
+[
+    {
+        "uuid": "c4d089aa-2031-4417-bdb4-577976cb14a9",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_falchion.adcc43a018fd4fe315dbdbc7960cfc52c5d63e3e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4c8a39d3-9b50-4c79-90e1-505ba65089b0",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Lore",
+        "value": 1106,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_cu_falchion_lore_light_large.fba0529146c0e183190f1503b416a8e9fd287559.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "8552262e-3a65-44cc-92f1-72718c5095bd",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Autotronic",
+        "value": 1116,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_gs_falchion_autotronic_light_large.6bd228d144c25d432c94cd77a5c41ecb8a31b8fb.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "874fe6d6-8bb1-4a14-bb53-0e5ee02c6fb1",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Freehand",
+        "value": 581,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_am_marked_up_90_light_large.e65fca4dd2721b81b733edfef05d4408418ba163.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "95844280-26a9-46b8-823c-6e1e5c40f7c7",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Bright Water",
+        "value": 579,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_hy_ocean_knife_90_light_large.751cd471f5ba17b199108d44ed9a5044c7bab732.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "517125a7-0777-4f1f-9523-489823a5483c",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Black Laminate",
+        "value": 1111,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_gs_falchion_black_laminate_light_large.f03942bc21e426af403c2460771932675c584b44.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "00b2a929-6028-424b-843a-566cb983f7cb",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_am_marble_fade_light_large.6702e01c69bbdd050ed27964385eaf57fd96d579.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0944199b-06a5-4b8d-bff1-e4da2d0fe243",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_an_tiger_orange_light_large.c467ce8f738dd9bce8cd7af54610f9186dadd362.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "75f313bb-e26e-4c21-8f7f-6d380c703235",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Ultraviolet",
+        "value": 621,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_so_purple_falchion_light_large.010830e050576efeb80b3e046d9dccf6ee21c31b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "24b03568-08ee-46d9-95f9-516272108bfc",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Damascus Steel",
+        "value": 411,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aq_damascus_90_light_large.9bd7e0f1d32a177ab01bc8c52a51dac9ad61e5a9.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9974186c-5139-4cdc-a4b5-cd7d784ea1fe",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aq_steel_knife_light_large.6d5b1f9bbc924ae1335175a262a69b1587448ccc.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0abf1ebb-91c3-4629-addc-c95c131bdc32",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_hy_ddpat_light_large.3b2857b99bb2aa1b1337248d8a1ae24aae1bf450.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "3e7db97d-0758-455d-8e64-10020c96a159",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aa_fade_light_large.1db6bc12f4b49677b330382c3e5af21f46d0c124.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e161643f-859e-4370-a6db-edfc2e0ee69c",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aq_oiled_light_large.ddcd8f4a87e08ab50fe3241e6791896125c48e03.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "66da114b-c359-4ce1-9d7c-44c3d204c02a",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_hy_webs_light_large.9c355c7819b8fd993b543bceec976e798e6e8633.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "360f0e96-db3a-48c5-866a-4c9d02c5664a",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_am_zebra_light_large.3cbce2191d2a20b88e610d8180c2f4a9ee0066ca.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0bb2a49d-8af8-4ae8-a30b-f43a00d32814",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aq_blued_light_large.ead09a065b115e707a59aa49689af0ed3dd8d1f3.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2be9b93f-cdbc-49dc-89c8-328323b473d7",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_so_night_light_large.535e93982805360eacc5969e1b28fe64f15216fe.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5c06122c-543b-4cc0-8e80-cc5fce78cead",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_sp_dapple_light_large.072bd4143a0c769f2d78835eaee88de49c849bd3.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e601ef66-b164-4a72-8d37-33baacc46e88",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_sp_mesh_tan_light_large.eccb7999f574f5e1080dfef159c3903c4e6db0de.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "98a67dcd-997a-4db0-931a-cdde11c6c723",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_sp_tape_urban_light_large.c3904e816bfc30cd130a7a1865ef37a32ed03434.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1a538e4c-d5d9-4d39-9bf8-398b1279e88b",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aq_forced_light_large.3b986dfc395e6607d1f05fcd1f3e6b8c2c2c1f59.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4dfb8851-c63f-48f2-bb31-42ed98300d82",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_hy_forest_boreal_light_large.9bf4abd73deee0ae82ce0a8670e1056d3a546107.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "47915e53-d328-4365-8539-dfa545029da1",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s863_phase1.png?id=9ca8755eb4edd629ceb8",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "361ef40b-f37d-48ec-9d86-ddc8df8cf976",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Doppler - Phase 2",
+        "value": 419,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s863_phase2.png?id=6805295e178c78c94d94",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9587a2e8-cf4f-4c47-96f4-a06a0663b4e0",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s863_phase3.png?id=dbd2d8389b655ff561d9",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9f8abb7c-37bc-48dc-af30-e030ba1c2ae3",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s863_phase4.png?id=612b0649a4b1feb6e916",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9754b9f3-33e6-49e5-9983-ea63db6f538a",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s863_ruby.png?id=e2c1fd1b9a27043d0f26",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b3ebf4e5-330f-4294-ad65-610ab84dd8d3",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s863_sapphire.png?id=a2634bb7f39d68d51bff",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "14bac61f-29cb-4d88-a507-c2d6708a493a",
+        "id": 512,
+        "weaponName": "Falchion Knife",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s863_blackpearl.png?id=2223a709eae17461ac1d",
+        "quality": "Covert Knife"
+    }
+]

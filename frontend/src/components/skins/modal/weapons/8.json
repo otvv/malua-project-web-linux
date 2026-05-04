@@ -1,0 +1,326 @@
+[
+    {
+        "uuid": "53234cb8-7086-41a7-8bf5-70b5b14ce18a",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Chameleon",
+        "value": 280,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_aug_chameleonaire_light_large.ad1d2f62d1481931d8e23e0ab0fbd4e7a61135f7.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "6998e423-e617-45b6-8392-31a582771f84",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Akihabara Accept",
+        "value": 455,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_anime_aug_light_large.f049075c645871ee67b0b47253f59c26143efc49.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "a2819a01-2c11-463e-8343-6100d5cba86f",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Death by Puppy",
+        "value": 913,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_am_aug_death_by_doggy_light_large.eb9b56273d30c50b93d2cb0a2e2843b525012878.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "d8caaeab-5f42-44e9-9b97-dc7fe00ffbc6",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Momentum",
+        "value": 845,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_aug_momentum_light_large.1f36037cec707a957785625f04b3740bb5286d16.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "b42c0d9f-0c2c-41be-9c11-07ca04cf0d2b",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Stymphalian",
+        "value": 690,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_gs_aug_stymphalian_birds_light_large.0840c45db138a07275c2250a0881fe752f27c601.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "b27ba7d3-8e23-49cc-bdf5-37389e2d4c48",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Syd Mead",
+        "value": 601,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_gs_aug_syd_mead_light_large.333597e0555639f5d77541c363a9bb38d95055f3.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "61065a1d-b67f-4625-bb71-2b88ea2b65bf",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Fleet Flock",
+        "value": 541,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_aug_swallows_light_large.29e48baa4086b20e4a5f714b5f8cc6350de7c758.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "3a41e91d-6205-4007-a6fa-85c513772417",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Bengal Tiger",
+        "value": 9,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_hy_tiger_light_large.d2fe957d3903dc5779403ed1c95947e18fa7e6fd.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "4437ecee-f0d7-4abd-bbee-67156b3357f5",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Arctic Wolf",
+        "value": 886,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_aug_whitefang_light_large.051b21da4e56c64ad78ee8a67a0e9e237a4e01b1.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "984eb336-f4dc-4115-b258-fe7646e4c528",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Aristocrat",
+        "value": 583,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_gs_aug_aristocrat_light_large.4004dbb20c03d1a210ff9a98968ddb251bdfddc6.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "6c4a8a71-51b1-4542-af97-cce0a20db91f",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Torque",
+        "value": 305,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_aug_progressiv_light_large.f712baf9253bd357c71a1525dac51e30298c9535.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "ea291a63-9bde-44c4-a4a1-8eda38c4a4e8",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Sand Storm",
+        "value": 823,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_gs_aug_sand_storm_light_large.d5dd546bc762c78474aac4b7733af0e4e5f7f376.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "7d21bb7e-1d59-455e-bfd0-251735b92c85",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Flame Jörmungandr",
+        "value": 758,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_am_jorm_orange_light_large.1df28085a1bc10ff726b8a54f5c94cca1880fd19.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "4633471b-d6a2-4c05-9311-52e44bf06e27",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Midnight Lily",
+        "value": 727,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_am_bloom_blue_light_large.02cb11a89ee5a7f3d39fbec15757eba34691e526.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "6baa8279-7c94-4623-a6c9-12855a526e13",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Random Access",
+        "value": 779,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_am_circuitboard_orange_light_large.da9f7304f48f9f02cdc452bf7761452f8fec6bc2.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "65d53a81-8ac4-424f-9dbb-6b7ac687b603",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Plague",
+        "value": 1088,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_gs_aug_plague_light_large.d7c01b0e4e2bc1e890cf3965874fad8a1bb27a17.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "007a3aa5-f3e1-469f-b2ed-3bec31ee7be4",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Tom Cat",
+        "value": 942,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_gs_aug_thunderstorm_light_large.127ba1a9f7c7eef6b701bf01ad50b3b146f9b951.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "30a6cee5-561f-4f60-baf1-08f102dfa85f",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Amber Slipstream",
+        "value": 708,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_hy_aug_torn_orange_light_large.53b51a022d38ea39eff5ffbed92551dc741e17c3.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "b03bf41c-6c35-4479-9e43-352d9f3ab7c5",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Triqua",
+        "value": 674,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_aug_orange_triangle_light_large.793eb05ec841c2664b8482565e5d080c731d6ecd.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "53afefdf-3a66-4945-8336-a06112e7c866",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Ricochet",
+        "value": 507,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_am_aug_jumble_light_large.d86901a42f239ddc39cd645d2a17281881fe37d5.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "5618be46-5a2d-4ad3-984c-a491dd99df77",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Wings",
+        "value": 73,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_hy_feathers_aug_light_large.e1419b52a3ddd4bed5328f438ea5dea07b0ba248.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "e274f16e-a817-4a49-8ccc-83090fb40bbf",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Amber Fade",
+        "value": 246,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_aa_fade_metallic_light_large.a43dbbaa988dd53a72ee6e06701c7e0cb1a225e0.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "5e112ec3-3e34-495c-9636-8c08b8421eb8",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Carved Jade",
+        "value": 1033,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_am_jade_light_large.e7c37922ef1bc669b9bd16d5bee5d309d97aa0e2.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "4e6ff07c-6a76-4187-a88d-4c4c8589d2d1",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Anodized Navy",
+        "value": 197,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_an_navy_bravo_light_large.8057388b1d777096c036f1b2d8ba9ce15103678d.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "f1405f86-80cf-4f3e-8711-77270cc776ed",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Hot Rod",
+        "value": 33,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_an_red_light_large.9adb894f02aff778fff9188a24eea1f0c8b66685.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "ff3a7722-78ec-4286-9dea-bb8b2c6265b4",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Copperhead",
+        "value": 10,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_hy_copperhead_light_large.166fd555b0075feb698783999d906c4529d2d631.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "cf54d394-0598-45e3-af44-794d9bb9d8ad",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Spalted Wood",
+        "value": 927,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_hy_dry_wood_light_large.e42f196cbcf1e4cf9bb0b382eb06b651a2aed038.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "cf584788-ba6d-4c14-bd46-01ad82cfb759",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Radiation Hazard",
+        "value": 375,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_sp_nukestripe_orange_aug_light_large.4309138bd5b9e518628d517a275747ec9c2207d3.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "c10e18af-50a9-409f-969e-4c9d96abde62",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Condemned",
+        "value": 110,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_sp_mesh_forest_fire_light_large.eabf7b69ca1447bee596cdbaf21b48cd7537dbce.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "831903b4-1092-472e-8936-14efc39ec33a",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Surveillance",
+        "value": 995,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_am_intelligence_grey_light_large.0da9eda4a07271263ffc58d032d52b8f0edeb78e.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "727bc94e-5479-4c34-a060-b28d64658936",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Navy Murano",
+        "value": 740,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_hy_murano_blue_light_large.b294cab668b3229243676838e2542b893b5dcbfa.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "a12e17e8-c455-4f5b-8311-efff48702c85",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Sweeper",
+        "value": 794,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_sp_mesh_safetyblack_light_large.41766cdb86c7b662a4c6316b2864751c54940faf.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "02bfcd3e-81dd-4a13-a444-ea46f47c97ff",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Daedalus",
+        "value": 444,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_sp_labyrinth3_light_large.86c4c77bbc59793e1bf632e1ef49101829a14773.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "c51d3e6d-f17d-4fc5-8fcc-eb5f2bda62e7",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Contractor",
+        "value": 46,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_so_pmc_light_large.e2a06ba5d6c412408d2447e162572817ee052bd3.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "6138da49-0e57-4f29-9f8a-70467c2cf964",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Storm",
+        "value": 100,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_so_stormfront_light_large.84dee43e41ff0fe95173b635e369b486848fe92f.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "75539a31-beb1-49fd-bb26-a824c89ee0b6",
+        "id": 8,
+        "weaponName": "AUG",
+        "label": "Colony",
+        "value": 47,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_so_space_marine_light_large.ee525f5aaf19c6d97af3b0378d3d3cac26476d80.png",
+        "quality": "Consumer Grade Rifle"
+    }
+]

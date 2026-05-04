@@ -1,0 +1,99 @@
+.skin-consumer {
+  background: var(--color-skin-consumer-grade);
+}
+
+.skin-industrial {
+  background: var(--color-skin-industrial-grade);
+}
+
+.skin-mil-spec {
+  background: var(--color-skin-mil-spec);
+}
+
+.skin-restricted {
+  background: var(--color-skin-restricted);
+}
+
+.skin-classified {
+  background: var(--color-skin-classified);
+}
+
+.skin-covert {
+  background: var(--color-skin-covert);
+}
+
+.skin-contraband {
+  background: var(--color-skin-contraband);
+}
+
+.skin-team-ct {
+  color: var(--color-team-ct);
+
+}
+
+.skin-team-t {
+  color: var(--color-team-t);
+}
+
+.container {
+  height: auto;
+}
+
+.card-skin {
+  width: 250px !important;
+}
+
+.card-skin-img {
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  padding: 20px;
+}
+
+.button-add {
+  background: rgb(106, 185, 53) !important;
+  border: solid 1px rgb(106, 185, 53) !important;
+  font-weight: bold;
+}
+
+.button-add:hover {
+  background: rgb(82, 143, 41) !important;
+}
+
+.button-update {
+  background: rgb(75, 75, 75) !important;
+  border: solid 1px rgb(75, 75, 75) !important;
+  font-weight: bold;
+}
+
+.button-update:hover {
+  background: rgb(45, 45, 45) !important;
+}
+
+.button-warning {
+  background: rgb(210, 212, 39) !important;
+  border: solid 1px rgb(210, 212, 39) !important;
+  font-weight: bold;
+}
+
+.button-warning:hover {
+  background: rgb(173, 175, 32) !important;
+}
+
+.button-clear {
+  background: rgb(185, 53, 53) !important;
+  border: solid 1px rgb(185, 53, 53) !important;
+  font-weight: bold;
+}
+
+.button-clear:hover {
+  background: rgb(143, 41, 41) !important;
+}
+
+.skin-preview {
+  width: 250px;
+  height: auto;
+  background-size: cover;
+  border-radius: 3px;
+  padding: 20px;
+}

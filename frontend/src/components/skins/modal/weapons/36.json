@@ -1,0 +1,398 @@
+[
+    {
+        "uuid": "1b6626a9-5e01-46bb-86b2-e28bb4feec42",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "See Ya Later",
+        "value": 678,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_cybercroc_light_large.396de1d53797f8875d242d1eb33d5b81dce2bb8e.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "4705dce1-c77c-4a0f-9ff0-953f602ba51d",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Asiimov",
+        "value": 551,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_asiimov_light_large.7ccf465f7dc55d2d960465d404c10cbc8c442cee.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "e155b58a-8804-49b2-b6ff-d0e8daaeac4f",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Muertos",
+        "value": 404,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_mandala_light_large.0acb51464cd72643c6a1fefaf8736288eb5d02f7.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "2f8a32d9-de34-4a8b-8bbb-0d0804db5bcc",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Cartel",
+        "value": 388,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_aq_p250_cartel_light_large.d63ea117934ac8f9a40afe027fa4a1438dbb1777.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "d9e496d0-bc66-49ab-b54d-6ffdd11ce8c3",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Undertow",
+        "value": 271,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_am_p250_beaded_paint_light_large.2ddd1d4b6dd6fa2082001802a60acfa9daba722d.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "d39aaa75-acdf-4f83-b6fb-519047c0174c",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Mehndi",
+        "value": 258,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_refined_light_large.9da38bc561b6576555b1700e9e10ddbc52994c67.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "6b4b8bb5-beb1-4602-8be3-7e677557051a",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Franklin",
+        "value": 295,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_money_light_large.a8632edd5846b8c9de09c711ada47f7decc739b7.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "ed585a52-a83f-45a1-8d80-9727c6cf67de",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Cyber Shell",
+        "value": 1044,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_gs_p250_cybershell_light_large.9f0408cde898dd81609541a8e68ff1ffe81320fd.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "b52c1a4e-65e3-4288-9cab-8415a9d0f557",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Inferno",
+        "value": 907,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_gs_p250_inferno_light_large.89b435cf4b1eab8a9fed8f7aa19228fe9421b4eb.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "0da60569-bb9b-4301-8f07-bfb02c69e4ba",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "X-Ray",
+        "value": 125,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_xray_p250_light_large.4b9f603e1a1dd4de2d64e05bf21168bc8b070bf2.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "14f2bada-e2c7-4cb6-a9d5-83a6d4d4a9bb",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Nevermore",
+        "value": 813,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_aa_p250_gravediggers_light_large.df680e4648f5e08ec6e92ed36a5b9c05ae8bc5f4.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "97b2b533-1218-4d83-b788-5fe65229ccb1",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Red Rock",
+        "value": 668,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_axiom_light_large.a9b34e0a93dbaa8fa60dfdb080827b919938d9f6.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "dcf11cfd-3523-40c7-8a2f-f0ce85d5ec54",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Wingshot",
+        "value": 501,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_p250_crackshot_light_large.538a33bb8d7af894f965257c39f699168e125cdd.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "ac7cf115-c791-432b-8b9b-7e8112ceba93",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Supernova",
+        "value": 358,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_bittersweet_light_large.83cd48968d79412e0cf2233b8e18602ff2790ad4.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "18a3728b-104f-4970-b80f-81ff8540749c",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Splash",
+        "value": 162,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_sp_splash_p250_light_large.9270d8d14c39aef83407ea50e51f0eb89c17263d.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "f1de3051-77de-41d2-b257-b4114ac9cd64",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Digital Architect",
+        "value": 1081,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_aa_vertigogeo_neon_light_large.e1e7730f0d6716a372cda4b973f71cdbb7a074cd.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "ab7ff94e-f6d1-4af5-bc70-11e32d7a59e2",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Vino Primo",
+        "value": 749,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_gs_p250_checker_light_large.ed544cb647f7bf4e4ccc103a0b687b562d2fb297.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "357e1999-ed2d-444b-8550-b1851cc1819d",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Nuclear Threat",
+        "value": 168,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_sp_nukestripe_green_light_large.099ce352cdcf83040aad712968d066f260439c22.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "73e5637a-d2eb-4cdf-a27d-30cbc29cc605",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Contaminant",
+        "value": 982,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_infect_light_large.235d9f1d0efc7fe74748085ecd87540a03a4551d.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "0c621bd1-1258-41e5-966b-5f8f52901a0d",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Cassette",
+        "value": 968,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_cassette_light_large.8e62f8c18421bceb377e95aa6a806b5767fcf731.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "2de1fd3e-658e-4d10-9f22-9d05493ee136",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Verdigris",
+        "value": 848,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_aq_p250_verdigris_light_large.379d19af038211ca3bf7d20c4c75726e9be36856.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "8cd52fd6-577d-4265-acba-4dcf94cea9d2",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Ripple",
+        "value": 650,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_am_p250_sputnik_light_large.38766530975aaa4006dda7a24533ac1b05a6b6a8.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "9df30dd2-5949-4c2a-a3b2-bcd3bcbc02d7",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Iron Clad",
+        "value": 592,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_gs_p250_metal_panels_light_large.a104ce12e50fa24711708782e5d7b23e1bcb7d1b.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "299e8db4-3a83-4008-849a-03bdc0942684",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Valence",
+        "value": 426,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_aq_p250_contour_light_large.faf5b305c68d8ea23814163b0a69dafa7318b818.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "e6e71c69-1423-488e-bbea-1123795fbf0b",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Steel Disruption",
+        "value": 230,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_am_ddpatdense_silver_light_large.36220b384099ed61c2b9ba64af899b892e4a4c58.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "6799561b-7743-4ff8-bdc6-eb3ca284e394",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Hive",
+        "value": 219,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_redhex_light_large.099092ccf56439b922b51569ce87f2f908abcc19.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "bd156aba-a9ed-4dd5-9a10-7450fea21b20",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Black & Tan",
+        "value": 928,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_desert_multicam_light_large.5e9064075a3dd4cec98f1fbb19372212ef94ec8d.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "3ef1b30a-ae24-4216-9cb6-d4bcfecfa37f",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Bengal Tiger",
+        "value": 1030,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_p250_tiger_light_large.c9afe189e84a6df33578138afddab06252e2621b.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "e413ba94-9ed2-46dc-8d7e-8038124a5583",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Exchanger",
+        "value": 786,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_ducts_blue_light_large.7e3036d2c146970842cfdd1e4b4529ee5480787c.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "8e41d308-d322-4669-bdb5-43db50aa2985",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Whiteout",
+        "value": 102,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_so_whiteout_light_large.ffd6e614b63d3af24a04a9f7710b55210a7d0296.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "5de3488a-9ce3-469f-a7a3-caff29753a49",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Modern Hunter",
+        "value": 164,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_hunter_modern_light_large.01e6755d9b42d1594837f60bad79e0f6295df8db.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "486c1f9e-3de7-426d-9aaa-6784cd325bc9",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Dark Filigree",
+        "value": 741,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_am_ren_dark_light_large.ce4d6a4807c1a3c78ed3853f0fb7900b181db0d3.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "2200236d-ef81-46a7-af09-03bff2d64240",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Crimson Kimono",
+        "value": 466,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_kimono_diamonds_red_light_large.99ecb66f68d6bba4e17bc30cd72d5041e838371c.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "fb665d06-c6b3-42fa-b536-2e91c7eb0fc5",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Contamination",
+        "value": 373,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_nuclear_skulls4_p250_light_large.83b7c2eeff0d6fd0e6d780be0815111d199a46d6.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "93410e9b-da47-4971-b772-b36b914de29e",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Metallic DDPAT",
+        "value": 34,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_am_urban_light_large.2f6ef478d97cb2887fc4106cf89768f6cccd8ed6.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "b8d6e4bf-b597-4bfd-aa79-b1ad910e8bfc",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Facets",
+        "value": 207,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_crumple_dark_bravo_light_large.159ee3e3e5c507d869c9089978a8ed82897fcfa4.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "5d7f2cee-ae45-4804-9f8a-225ba3fc66cb",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Gunsmoke",
+        "value": 15,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_gelpen_light_large.214a92b3bec9ab81ad0c13276fa4ac552530f31f.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "615547a1-fe9e-47f7-91ab-9a26b2a67469",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Drought",
+        "value": 825,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_sp_desert_skulls_dawn_light_large.0ef79663a917620d2ab91078115200bf2747269a.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "d8e79a5c-60e6-4e06-8fe4-b84b4e5e31d0",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Forest Night",
+        "value": 78,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_forest_night_light_large.f2ebb923126bf523ac2052755207d8c9d4dfa668.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "4c894462-a208-4686-aee6-221283ab5fec",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Facility Draft",
+        "value": 777,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_blueprint_red_light_large.aff5f9b0847413a1749e8636dfc9a92d1ed77f3e.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "5340ed94-49c2-4008-ae51-190f8770eb1d",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Mint Kimono",
+        "value": 467,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_sp_kimono_diamonds_light_large.f8b2d66cdc64e8860b36ac2d08060d04e5ec6ae4.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "47771107-19f1-4c12-a5d0-7227b043eae5",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_hy_forest_boreal_light_large.d805b3c56f74420ea25e14db86e7cf8181d98134.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "c883015a-04c2-43e9-a9f5-67f061c5b76c",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Sand Dune",
+        "value": 99,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_so_sand_light_large.c77b762093b4786e0c070317e6a2121c2e7b4c86.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "8a2c2f8d-e121-4ab3-852c-de7bcf81cd34",
+        "id": 36,
+        "weaponName": "P250",
+        "label": "Bone Mask",
+        "value": 27,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_sp_tape_light_large.8ece2047279c054325b0d2632559de145cef524a.png",
+        "quality": "Consumer Grade Pistol"
+    }
+]

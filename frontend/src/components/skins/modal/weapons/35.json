@@ -1,0 +1,317 @@
+[
+    {
+        "uuid": "4da50f37-0400-4e71-b7af-61e3ab459b7d",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Hyper Beast",
+        "value": 537,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_hyperbeast_light_large.ec64e1aa22dc78fa692a2269a99669842b91cc6f.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "5f73684d-68cf-4d59-b664-2e9b401626d5",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Bloomstick",
+        "value": 62,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_spring_nova_light_large.0be95a01dd54b579186464d0533c5195ffb14a8f.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "4317c2b3-186c-4768-bb84-4ba952604bc0",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Antique",
+        "value": 286,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_antique_light_large.3391e20bf69d1a630ab0551fd0c2fa196d028e44.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "c01efb28-dc89-4ddc-ae18-ac576666ab75",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Clear Polymer",
+        "value": 987,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_polymer_light_large.a45b7ef66f8e62eecf26687892e5c4a76966d7f6.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "9a9d5d05-6454-4acf-9d02-f8d34b8cf2d0",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Toy Soldier",
+        "value": 716,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_toy_soldier_light_large.e35320d18405b77fb9dd5e495fe4f625b8ab6c82.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "84d64185-3bbd-4208-a2a2-ed4238e7c852",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Wild Six",
+        "value": 699,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_gs_nova_anchorite_light_large.419b869b5316b67a6ed673edafd088a9d16c066c.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "fc7fd716-5ba2-4335-8cb2-35c88a4dc81c",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Gila",
+        "value": 634,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_am_nova_sand_light_large.0dcb0fc065477e01afda8ecbc83208551a5f2e97.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "fe8b3ce3-6f07-4628-93b7-66a530867fed",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Koi",
+        "value": 356,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_koi_light_large.28c3fe03f736b48dee10e1e88e77ac02132dcba6.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "01b11191-3abc-459c-98a4-dfed9b6aea55",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Rising Skull",
+        "value": 263,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_skull_nova_light_large.558d42424adda8cc3383b05d5388f75837b07efa.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "e4f5d945-63f5-4ff1-a724-fd36e52ca78e",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Graphite",
+        "value": 214,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_am_crumple_light_large.e46bab0dc8f8fe10b83c18ed9f9d9945352781af.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "a4699230-17b6-4774-9b88-5e6e7f10f2ab",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Red Quartz",
+        "value": 248,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_am_crystallized_light_large.a5390c1d1d4b0a879d739917bc3d9f576feb01f2.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "16c7daf2-4aca-4f3c-97d0-753ac88726bb",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Baroque Orange",
+        "value": 746,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_am_veneto2_light_large.51bfad5db3f49f28c0802f4696f6282e4781f4db.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "979ad18a-f449-434f-895b-3f3ee3f11b0d",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Windblown",
+        "value": 1051,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_sp_nova_wind_dispersal_light_large.9156d5a206e0e4b47f814bee9b6b54ac0a16b159.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "c71c9e66-11f4-48c8-bc12-2ad82d8e682d",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Plume",
+        "value": 890,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_featherswing_light_large.49e81792746dc7844ff18c45fb23030cd8b66d59.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "bf330756-9c42-452c-a1e7-58941a21086c",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Wood Fired",
+        "value": 809,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_gs_nova_hunter_brute_light_large.8e2520f25098056ccd03b679859458fdc006c0a7.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "c3c22510-0e84-4ad4-b598-3f55c292dcde",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Exo",
+        "value": 590,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_aq_nova_sci_fi_light_large.9cf268816cad5bdbe33bd4d1ddce1eb81f905164.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "c109ac08-ed08-4406-8c9c-b9203f6455ef",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Ranger",
+        "value": 484,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_ranger_light_large.e3e9d3d47d5707092223a268ef59adb53ce76278.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "4083d53f-11e1-43d9-b885-7c38598a8126",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Ghost Camo",
+        "value": 225,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_sp_camo_wood_blue_light_large.d63e06a38ef396a945defd7c1ad9da9ba79fe60d.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "e8689295-f0fa-44a3-a9d6-a6f3288c4de6",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Tempest",
+        "value": 191,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_hy_seaside_bravo_light_large.bad13bb67e67ee02b782a574376df5e7e4ff766d.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "52116d2e-eacc-4178-bb2c-d3231cfd1e27",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Interlock",
+        "value": 1077,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_hy_vertigoillusion_yellow_light_large.73fdfc85585fff74804a6f22179406a48ce74947.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "506ec9d6-0d61-4446-89f6-bc9f07141d7b",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Quick Sand",
+        "value": 929,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_hy_torn_camo_paints_light_large.d53ec6ccfa639f7263876a96b019d3b3946af751.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "32fa63ad-67a6-4b1f-9b10-caa495c1afe7",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Modern Hunter",
+        "value": 164,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_hy_hunter_modern_light_large.47b91ea74e82f6e041bcf2d03c117be62ae25909.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "cf240a38-fa8b-485a-8aa7-2b2cc040a2be",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Blaze Orange",
+        "value": 166,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_hy_hunter_blaze_orange_light_large.3aa81203583739ae361787f625976dee6b7a1f25.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "ffb039e3-16f3-492e-a9e4-e74f8a97844b",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Rust Coat",
+        "value": 323,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_aq_steel_light_large.01de004c646bf108c25c61e88af29720164da476.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "190ab43c-5d4c-46dc-85b5-977886ec5263",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Green Apple",
+        "value": 294,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_so_green_light_large.f6b21316c800bb19022612e4b965f7d312e8e4f5.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "94ff41da-d7cb-4082-b4d2-3357b68c22f7",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Caged Steel",
+        "value": 299,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_am_oval_hex_light_large.766118990b3726617ed6203e95abc71417dbd057.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "4123963f-3ced-4cf1-82fe-b0a3aee4f09a",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Candy Apple",
+        "value": 3,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_so_red_light_large.f19886d0d01e730fc1e050416a6642488526a94c.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "86223d5f-58bb-447d-a487-739d76b6255f",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Army Sheen",
+        "value": 298,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_am_army_shine_light_large.cbdf89414f6dd35c2de30d0cda9a6d84fbd32289.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "2ac71651-2d88-4de6-9296-ba5714f11651",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Mandrel",
+        "value": 785,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_hy_ducts_grey_light_large.5da9a312aedae8885ff2e4dec4387fe614ce4ee3.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "584656ca-47f2-46e4-abaf-96c9795625f1",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Moon in Libra",
+        "value": 450,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_hy_zodiac1_light_large.b06536b160c1807d7aa4c8e906771d3c5c2f7c59.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "a7effa57-e315-4529-b575-d84e181d303e",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Sand Dune",
+        "value": 99,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_so_sand_light_large.33854508338eb4801380c7d7d328f2285ad3a746.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "1732239f-9874-49f4-9b15-7eee8ea81be7",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Polar Mesh",
+        "value": 107,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_sp_mesh_arctic_contrast_light_large.b85fc46665b05c2a0eea955a7946e644a7618944.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "bbd7eef4-7e3b-431c-becc-97eeb89763f5",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Predator",
+        "value": 170,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_sp_zebracam_light_large.4a13bdc4fa3b5cd7d89c8cc83700d3a13326a6c3.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "adfabafd-72cb-4e5d-8bf2-d47398b884ed",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Forest Leaves",
+        "value": 25,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_sp_leaves_light_large.b75cb0c1b82c4c1a559f0b1de3113cf967029176.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "d5d9c112-cea0-4df3-852b-753e9047c79b",
+        "id": 35,
+        "weaponName": "Nova",
+        "label": "Walnut",
+        "value": 158,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_walnut_nova_light_large.38cd0f88162ed88eb81df71f5fb18139c3a36c77.png",
+        "quality": "Consumer Grade Shotgun"
+    }
+]

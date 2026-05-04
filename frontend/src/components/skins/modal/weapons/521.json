@@ -1,0 +1,119 @@
+[
+    {
+        "uuid": "d1d3ee0d-89e5-421c-8e7d-0a39d7db8782",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_canis.ae03aed81864dc2ee1e1118bb973418f910098ac.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "542f71bf-3752-48fe-9fe3-df477e8da314",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_am_zebra_light_large.9d7f3c4d11a4306e6e7802cc7efd3cfdd3e5a157.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b3b45a90-c2cf-438b-9bdd-b26d261f7af8",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_aa_fade_light_large.92876cf32de94fbd84b9ec16f405afa6858e61b5.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "da659f9f-0264-4f3e-aab2-a815dbc26f92",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_hy_webs_light_large.7261fc72cd4d29a022ff0007fb1979f677fcdda5.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2a7d8ad9-ae02-4b9b-a4ba-4217f6ca227c",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_aq_oiled_light_large.2fa47bb5d071d4c97891a46c1d8a809d5ed1df1a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "cc2e8cf1-01ef-4d30-b23a-59146debe265",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Night Stripe",
+        "value": 735,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_sp_nightstripe_light_large.e59d46c4c54c4982cf2032f740d9bccd2295c902.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0ff6a20e-f161-4740-94d9-a10d4b597215",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_aq_forced_light_large.5b36558b1d1aa73d1b5d932df92e27e9b4d7393d.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1cb6ee96-ad2f-4d14-aa4a-4e23ecadc79e",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_aq_blued_light_large.5ee9cc49a41041b4222e7411b10da359377a6c55.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "25bd286e-87f3-4175-82e8-126a34022ac8",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_sp_mesh_tan_light_large.ca71e80ebdca2d69c30123a0ee8eea716f80ef30.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b120b4a8-b8f7-4430-8118-936017f606f6",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_sp_dapple_light_large.6bcdee364f278146bb1740932a59da614d0db274.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "352fdef4-8855-4d44-aa30-7121e725b543",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_sp_tape_urban_light_large.a7a1b8f1c13416e109b5e9a6ba2c094af0df4317.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "67ceb020-c3d0-436d-9175-f67b580522ab",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_hy_ddpat_light_large.5fd606c2c6356afbebe401fef45799a782b30865.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "013dee6d-f625-485a-a155-f412a564d896",
+        "id": 521,
+        "weaponName": "Survival Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_canis_hy_forest_boreal_light_large.c6d09e409e9574e0aa69b6164feb7387ed7f3e55.png",
+        "quality": "Covert Knife"
+    }
+]

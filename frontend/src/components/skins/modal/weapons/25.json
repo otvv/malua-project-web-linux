@@ -1,0 +1,290 @@
+[
+    {
+        "uuid": "958e2b6c-981d-4440-8a57-c396aecbf6df",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "XOXO",
+        "value": 1046,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_xm1014_punk_light_large.8c6eb5bcf234179713a52b1a5e22c64c21c52007.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "bdc000d7-91a8-4f0d-a6ff-8b1cc84da357",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Entombed",
+        "value": 970,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_cu_xm1014_amulet_blue_light_large.1375467de64fba676253ac771bc9ce8f83b6a8f7.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "e35e44a2-e68a-4f5f-be04-e46951f9ebd0",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Incinegator",
+        "value": 850,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_cu_xm1014_incinerator_light_large.7649f64bbfea49d6f0d951320e0bdd98d6bee088.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "980f3760-5574-45df-9801-8abffa11c2a0",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Tranquility",
+        "value": 393,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_cu_xm1014_caritas_light_large.060e6378f5b5ab6fc53a2db451f3d68b8033f304.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "4b652a1c-1a0e-4718-a12e-d0271bb3eb5c",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Ziggy",
+        "value": 689,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_xm1014_ziggy_anarchy_light_large.7042642ba5043be6e1cb82d6bb9a05678402dea1.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "ef2392ec-4d64-4673-8aae-b22db7eec765",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Seasons",
+        "value": 654,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_xm_leaf_fade_light_large.f753b1b710a8023e299d1918ca150b42483ca1cd.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "34199319-4cc3-490e-abf0-390c19908eeb",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Black Tie",
+        "value": 557,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_cu_xm1014_spectrum_light_large.6318ee51c405fb5e8a40aedfc3d98d530f789a5b.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "f0a76bca-80b7-4aad-a124-f4b2dda3c117",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Teclu Burner",
+        "value": 521,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_xm1014_hot_rod_light_large.f664b036e9b4ec638574f17a9b7ea0905e8c57e0.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "aadd67ca-4034-494d-94fd-fd4d6fa3af79",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Heaven Guard",
+        "value": 314,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_cu_xm1014_heaven_guard_light_large.c7f3f8815f9caa92daa5ffe4390880c1606f4a81.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "6519dd80-c508-4570-8e12-d0db200fca43",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Elegant Vines",
+        "value": 821,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_am_moro_textile_bright_light_large.90d9c102cff5e50e56b5d4bdc9c967ab7ae7efd8.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "70978e72-9825-4f60-90b1-2cf231a38081",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Ancient Lore",
+        "value": 1021,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_am_ancient_warm_light_large.9a53c1b2db897b005c56b8f5e4a5b9f40730c85b.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "c4e018a1-66eb-4945-8a01-c975436f5235",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Watchdog",
+        "value": 1103,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_gs_xm1014_watchdog_light_large.5443196414c00a57b26d9af50d4a75a35dd8dbd8.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "c3b780a7-5f46-43db-b400-cdbff5351e52",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Oxide Blaze",
+        "value": 706,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_cu_xm1014_oxide_blaze_light_large.691be80b706e1ea4faf9b5c9bec40b3611b1d440.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "9a1db27a-6593-46e2-b78c-f477049f5b97",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Slipstream",
+        "value": 616,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_hy_xm1014_fractal_blue_light_large.e9720fb7b5928db8bcf79d62850af5bf475b9ec5.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "21733d0c-d7a9-4f08-95d0-2007991f8ecf",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Scumbria",
+        "value": 505,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_xm1014_scumbria_light_large.b8e79b3c4391784151d789edde360dbaaef7fd1f.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "4000efcc-e4d4-4a54-82de-0f3047458121",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Quicksilver",
+        "value": 407,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_xm1014_sigla_light_large.71c180cd3b8bdea7d0b119ab2b9d54792c51b3aa.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "0c386715-1826-4293-8ac2-2788ecb67ad6",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Red Python",
+        "value": 320,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_hy_snakeskin_red_light_large.d019a25e10fe53f2edf2958fb322c59621abc4de.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "d08983a5-4fe6-4d01-99d0-3ed87cc5d513",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Frost Borre",
+        "value": 760,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_am_knots_silver_light_large.73c743e4867ffc0525bc79c488dc90cc12ee53ac.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "34da90c6-b23b-4119-a1a9-cb0204437056",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Bone Machine",
+        "value": 370,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_am_nuclear_skulls1_xm1014_light_large.716e8296c07d3e6d5c9f5f20605c9608bbb78ca1.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "7bf73700-ac6f-4d85-baed-f7be7f5db6ff",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "VariCamo Blue",
+        "value": 238,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_hy_varicamo_blue_light_large.6b99e2f4d5092295c86b872e2a08d7ea698fe5b6.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "b639e7fc-94a5-4afa-bca0-f4c35a4b372a",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Red Leather",
+        "value": 348,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_cu_leather_xm1014_light_large.4b2f6f7df7d03f0bfb271d1d06c948bb8cdcb0c0.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "60d2adc0-ede1-4465-bc6e-11f5c948c904",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Blaze Orange",
+        "value": 166,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_hy_hunter_blaze_orange_light_large.def31710e14b573829a2138ffc7c3eadb3f49e5c.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "e91e0456-c8a9-4e49-af49-5c70ff8c5ca2",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Banana Leaf",
+        "value": 731,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_hy_leaf_green_light_large.347a54ae0c8292ff6dc506dcf1702de2040a7459.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "d23157b7-c87f-4886-b1da-43fc91b9400f",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_blued_light_large.322850eb06df5352f302b6d4dffb1d2472dac596.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "c407ac93-5816-4b4e-b621-5daa01c5872f",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "CaliCamo",
+        "value": 240,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_hy_varicamo_desert_light_large.8931cbff2aa329928977420d05616b306eb0a91f.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "d1062f47-4af4-4e72-85a7-9f7c4ef9f5a6",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Fallout Warning",
+        "value": 169,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_sp_nukestripe_maroon_light_large.8b6facf30ed6057509fcaf2c8a75a04c2629203a.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "8f3968d7-80f3-49dc-a40d-bc508039ea3b",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Blue Tire",
+        "value": 1078,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_sp_tire_tread_blue_light_large.c6107f07580de4c0d1440aacabbd8b47b788a687.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "41360d1e-5948-4750-8e76-131050ff5b58",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Charter",
+        "value": 994,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_am_authority_brown_light_large.37101767e4d0abbd0248f9ee6d6b73d8c2f0dbd6.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "c845e2fc-282f-40c3-88a0-9c1cdc093fe7",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Blue Spruce",
+        "value": 96,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_so_moss_light_large.5308796fa6ef2edaa45a6c6e73c59452fc265781.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "5cb384e8-6949-4c32-9ed8-0c45fca1a215",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Jungle",
+        "value": 205,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_so_jungle_bravo_light_large.0b0998c1c247ffc870bbdbc4c53696cd8a974f30.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "6e93743f-f609-417c-a949-0df0b3b91e02",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Grassland",
+        "value": 95,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_so_grassland_light_large.412e08f5f190db15e6118e19c6ea0752bbaed180.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "53cdefde-10a5-4750-a4c4-edce620de322",
+        "id": 25,
+        "weaponName": "XM1014",
+        "label": "Urban Perforated",
+        "value": 135,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_sp_tape_dots_urban_light_large.751c1e2059e1b9b8ef64b4cd94b22e35cccd0477.png",
+        "quality": "Consumer Grade Shotgun"
+    }
+]

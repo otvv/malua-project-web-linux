@@ -1,0 +1,344 @@
+[
+    {
+        "uuid": "eeca1c21-50f3-4473-b0aa-f280c2d69c9b",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Asiimov",
+        "value": 359,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90-asiimov_light_large.0ca7f7fc032c98c5cc506ccde92b33e5836a8a88.png",
+        "quality": "Covert SMG"
+    },
+    {
+        "uuid": "6f50db89-4740-4093-bd68-cc665346c991",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Death by Kitty",
+        "value": 156,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_catskulls_p90_light_large.0ff2c5c53a691e28de02cd7b40e395d53d8c6826.png",
+        "quality": "Covert SMG"
+    },
+    {
+        "uuid": "5fb4f806-7e4f-4b0d-86bd-7c575ebe9e75",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Nostalgia",
+        "value": 911,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_nostalgia_light_large.8d1cfe3582915ab9702b57e1376eb0d0ffab2331.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "adaa43e4-a90c-4c92-96e6-e63880d80487",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Shallow Grave",
+        "value": 636,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_gs_p90_shallow_grave_light_large.948019f5ffb76bcc24cfede19c992ffb34e3ecaf.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "bda5e0cf-1449-4806-9199-c629784cffb7",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Shapewood",
+        "value": 516,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_shapewood_light_large.e7744840c89b1b83be82d2f64beb5a6719c47bd3.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "a10a80e8-2db6-4867-ab51-d1584e1acae4",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Trigon",
+        "value": 283,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_trigon_light_large.9f93f859fe1d03dfced62e52c4cab39ae2f8a9f3.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "fbad21c3-11d5-48f2-8afc-f871ca7404d9",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Cold Blooded",
+        "value": 67,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_am_slither_p90_light_large.583a90c66858cf0cc20253d2f4a0be1168eadbca.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "6c52337d-5c08-4b8f-a225-05b3296d3326",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Emerald Dragon",
+        "value": 182,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_dragon_p90_bravo_light_large.200ef513ae29ae7651ad3f31e68b5b186279572f.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "2d1267bd-054a-4142-b8a4-540669be105a",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Run and Hide",
+        "value": 1000,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_jaguar_p90_light_large.7d9fe21106b83cbf10ea8cc7f8b4f6aea72af268.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "be1d246b-5cac-4578-bd86-4b7589d585d5",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Death Grip",
+        "value": 669,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_hy_p90_barebones_blue_light_large.c908d6fc6d53cb2f4168a64b9a32e4b6b5479fc8.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "2be2f932-30f4-43fa-93d8-3c6fca68d089",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Chopper",
+        "value": 593,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_gs_p90_full_throttle_light_large.70ef68d70617eb318e2df05e09f780448a1baf0d.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "5b3cea49-8156-475b-b62d-59d62be8cde9",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Virus",
+        "value": 20,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_hy_zombie_light_large.7f66b30e6902ae7722b7951fd7446ae7e9b3880e.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "6b6c35e3-0a23-4260-9406-3079840e9e99",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Blind Spot",
+        "value": 228,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_hy_modspots_light_large.a702b8feaf0e2568e60efb2ab722819b0521ea4b.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "2f8c4577-a3e7-479d-992a-d577e49986c0",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Astral Jörmungandr",
+        "value": 759,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_am_jorm_blue_light_large.4d15121e1a295202b46b7452b0a927c009cebb37.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "5ef3285e-3277-4bf1-b6a8-81392755f357",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Cocoa Rampage",
+        "value": 977,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_hy_p90_dino_rampage_light_large.2231742f05375d3370f5f8fbc7fd3f3f623af688.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "795fea7d-64cf-4517-a872-84eaeb9da3fe",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Freight",
+        "value": 969,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_gs_p90_container_light_large.ee8d779318fc1367b1c63bbfa202d6261a0171c1.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "add7f5c3-787e-49dd-a91d-d57b23e4ef8d",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Off World",
+        "value": 849,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_offworld_light_large.45f1db5b8b435574f46fffe77960d8ef29519eca.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "3aeda94f-e91f-444a-ba0c-07617c157809",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Traction",
+        "value": 717,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_gs_p90_tread_light_large.0acb87de3db60e1c07aa159fd5b8238b11bb8f8f.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "d74be706-bf61-43da-aa5b-30c77e47fa9e",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Grim",
+        "value": 611,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_grimm_light_large.59514d7b54f637f314329bb3fef1c7ffd1b153ba.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "394df411-5613-4047-888a-b24ca508aa09",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Elite Build",
+        "value": 486,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_mastery_light_large.f58ff489c92ffa8c6e4c42814bad01c352df0ab6.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "d5bc7423-20bc-4d18-8b68-5323e0a206b3",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Module",
+        "value": 335,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_an_royalbleed_light_large.58dfb4851908d78c31e205477793a620923737db.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "d0572174-ece9-481d-93b8-20e9acd83b6b",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Desert Warfare",
+        "value": 311,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_scorpius_light_large.8f1bc2f6afc4e7f9ffb7a451252461f5a1df07ad.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "43bbb819-a6f8-4c90-abc2-e1b8f4d31884",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Schematic",
+        "value": 1074,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_hy_vertigogeo_light_large.321d8068761b4b89e1e9f5916ba2cfca5068e080.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "add5a6cf-107d-4e2c-9f19-2a598659d9d6",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Tiger Pit",
+        "value": 1015,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_am_tigers_brown_light_large.853f8f5151285d07fa9e03527bf14dc40347c25e.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "fabb0dea-2f2e-40f8-b9a5-7a437cb2ab65",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Baroque Red",
+        "value": 744,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_am_veneto_red_light_large.3bfb2641e0b8e40c0c797a44bb448ec06eabe6b8.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "39d8a279-2894-405e-b8f1-893ef427325a",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Facility Negative",
+        "value": 776,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_hy_blueprint_aqua_light_large.35f86b3da01a31539d5a592958c96356f63d1675.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "6a49db13-5a7f-4278-a103-2f8595263966",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Teardown",
+        "value": 244,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_mesh_hot_and_cold_light_large.b1e759ec76815883bf3e293215e3858eaa0763b1.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "b67c5ced-e47d-45a4-9948-6dcf1d45e567",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Glacier Mesh",
+        "value": 111,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_mesh_glacier_light_large.742539900d5186f68defb5fac7e6a82771c302dd.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "86b952f7-55b0-4a18-a217-b5c4fa0d1fdf",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Verdant Growth",
+        "value": 828,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_moro_textile_green_vine_light_large.47d80a883c184629d2049f8a5e2046150b35e69e.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "cbde6cea-a896-4340-b4a7-199b20f8568f",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Sunset Lily",
+        "value": 726,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_bloom_orange_light_large.e3e14184d5d31c9484b7697d7f38aafa3a479e20.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "2fad0191-b6c5-4d8f-82ce-d34a3fc5ec93",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Leather",
+        "value": 342,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_brown_leather_p90_light_large.6943b782f1c00dd933ca3ee3c19749ea2494899c.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "e8c19e20-43b1-4751-a722-24eaa11fa04a",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Ash Wood",
+        "value": 234,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_twigs_light_large.32f929b66cdf34997897a48260a53946e786a531.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "508e0ed8-d4d0-4bf9-8a9a-9d61a5ab19d3",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Fallout Warning",
+        "value": 169,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_nukestripe_maroon_light_large.c3915e723b821c0d03fcaf506129b23f16bdff0f.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "28323cea-0598-4fb0-b11c-7e4202e6e961",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Desert DDPAT",
+        "value": 925,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_hy_ddpat_desert_light_large.acbbe87329d4f77b28d2cc15ce2e89c5d50436a6.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "622d41b6-c1fa-430f-a7a6-06f1ff5850e9",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Ancient Earth",
+        "value": 1020,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_aa_ancient_brown_light_large.69bcf9d19ae3f5b22e3382dbf07da0900f017967.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "d88b7fcd-6c2c-4beb-a4e0-ae5917dcd6a8",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Storm",
+        "value": 100,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_so_stormfront_light_large.60d73691845ad5ad0e5d8a15b488807d9c25a57f.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "1beb59af-341a-4d93-99d8-8687521379e7",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_dapple_light_large.6a715fc8b63ae569c2facb1607b5243c21a7280a.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "c4d91f5e-e8ab-47c0-940e-11606ef3bd63",
+        "id": 19,
+        "weaponName": "P90",
+        "label": "Sand Spray",
+        "value": 124,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_spray_sand_light_large.18ac7e644639b8756fa3984055a493c5d7fc8249.png",
+        "quality": "Consumer Grade SMG"
+    }
+]

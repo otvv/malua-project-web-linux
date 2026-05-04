@@ -1,0 +1,326 @@
+[
+    {
+        "uuid": "e3c9dddb-e94d-40cd-b545-24a03983cdbe",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Howl",
+        "value": 309,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a1_howling_light_large.c64a9fc9fa04b5d10d4b1e200135e59285c8a77c.png",
+        "quality": "Contraband Rifle"
+    },
+    {
+        "uuid": "a8b97426-dc43-4138-a132-0f80bcdf5dc1",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "In Living Color",
+        "value": 1041,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_love_light_large.5f7f6a3085aedc1a878dd10881144e7898a2db3d.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "5e74bb8d-bebb-4d47-8cd5-def42eb38331",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "The Emperor",
+        "value": 844,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_gs_m4a4_emperor_light_large.61be48559b0a5d57e04108f876f5cf755ec8acc8.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "d923d196-b64f-49ca-bf3c-0ced58ca97c9",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Neo-Noir",
+        "value": 695,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_neo_noir_light_large.b03bd6902c1d714af0bd4795dce8e653dd12dcc9.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "bb1aa4f2-2f80-45e5-998e-667ea4f86deb",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Buzz Kill",
+        "value": 632,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_gs_m4a4_sector_light_large.43ec111ef558f74c49e31621d455f93ba414714e.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "dde4b82f-eaca-48a6-aa6e-c801e0961056",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "The Battlestar",
+        "value": 533,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_gs_m4a4_pioneer_light_large.2dcc4c93ad184179e34b9359090d7398718d36e4.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "e92aeda2-f8f9-4f62-a4b3-d1a182315570",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Royal Paladin",
+        "value": 512,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_gs_m4a4_royal_squire_light_large.f802ec3cf9c1c6837d841384f6d112367340880b.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "e5f147d0-963f-44d1-86d0-ad88f30bbcfa",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Bullet Rain",
+        "value": 155,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_bullet_rain_m4a1_light_large.4b359387b8abcdb0ae92134ba0f2106c405d9222.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "d84206db-c64b-48c0-a9ce-c37a2e8b23da",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Desert-Strike",
+        "value": 336,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_titanstorm_light_large.a161ff6ea23af2d9bbdc0a757f5163fa1ad87a30.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "cb999ae7-66a1-4237-98ea-68100790b309",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Asiimov",
+        "value": 255,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4_asimov_light_large.af03179f3d43ff55b0c3d114c537eac77abdb6cf.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "f6ffb6c9-a4d1-4495-b247-24b4537cad03",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "X-Ray",
+        "value": 215,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_xray_m4_light_large.e929bb3998df4902c2bd6f6fbb775cec071558ba.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "b007db86-bf8a-4125-b69d-4f4af74e5d3a",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "The Coalition",
+        "value": 1063,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_gs_m4a4_coalition_light_large.313da3169bf32c427325ebc7f0aae1a0272e399a.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "825fd349-e060-4628-8708-afc5db54902d",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Cyber Security",
+        "value": 985,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_cyberpunk_light_large.8ed70290de88498fcfdc0c89f23ba2ad60bd13a5.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "0c5fd513-2b80-4013-95d6-9f92e4d8c1f2",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Tooth Fairy",
+        "value": 971,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_light_large.e5fb022145442cf85ba485d8c3cfd4f6391938e0.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "6138b45c-322a-4a9f-98a3-f802e3dfdd73",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Hellfire",
+        "value": 664,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_hellfire_light_large.d3675840da1d60e19ba26fc11539e9351a0ec892.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "0589254c-69e7-45c7-ac79-cdfcbc66a70f",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Desolate Space",
+        "value": 588,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_desolate_space_light_large.1fcbd5e124ae7c54cf12e6f76c431e6671a73845.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "ed60a59f-ff50-4042-b6fb-8ffac7dc0453",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "龍王 (Dragon King)",
+        "value": 400,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_ancestral_light_large.cbd9732689f42b7aec91bdb9166b1ee414974cb7.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "d3005818-db73-492e-ad73-2b0270ef3e12",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Poseidon",
+        "value": 449,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_poseidon_light_large.3db5688a5b47bd5720e7384abf13c45231a3cc03.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "3858d870-5754-4d82-98e8-fe8213a5dc7e",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Spider Lily",
+        "value": 1097,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_gs_m4_flowers_light_large.9953864326ad495e32b855ac45d96367b149be90.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "a91456ed-e808-479b-9b56-1aceedb1b727",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Evil Daimyo",
+        "value": 480,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_evil_daimyo_light_large.c208ba252c0d8902caa973a634cbfa945508a716.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "fe469c0e-b6f6-4e5b-af7f-37b8aca02c7c",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Griffin",
+        "value": 384,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_griffin_light_large.255bd83fd343ea8e8d84a1d5c94959d0b26cafae.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "7864dfca-771e-4051-a787-393f4e361796",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Zirka",
+        "value": 187,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_sp_star_bravo_light_large.d4a56abe885a1a03ea173a6aaeb4f10bcec6a0c2.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "c1aaff38-ca03-432d-a435-fde229f6f88d",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Red DDPAT",
+        "value": 926,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_hy_ddpat_urban_red_light_large.ecde1360b79a9d925495a523ee95eb9f4b4b17eb.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "2d5a422d-0535-4f9d-96c2-8b3960330a92",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Daybreak",
+        "value": 471,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_am_kimono_sunrise_light_large.f4c4233632fed7004ab4666aeaceab53233cddd6.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "0e8b661c-34d2-4f79-8c58-c0f3bf65c98c",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Modern Hunter",
+        "value": 164,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_hy_hunter_modern_light_large.9753bebcd2ed4bba8a432283f35c5d197912db9d.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "73e30a81-04ac-4c72-a0b1-5cb2e50cfa9f",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Magnesium",
+        "value": 811,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_gs_m4a4_chopper_ghost_light_large.374913da49233223de4ca1ff09a20cc2a7a94288.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "2979c27a-1d47-478b-b395-c8a5a9e72d0c",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Faded Zebra",
+        "value": 176,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_sp_zebracam_bw_light_large.de08ef2a6d7524e682118cef5d12124c5156dfa8.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "1565fefd-2c10-4cbc-a1dc-31f579872bac",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Global Offensive",
+        "value": 993,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_csgo_camo_light_large.9e1a644f88ce7ab73f63d5b90070b9993fcb14ac.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "ec5ec29c-826f-41e1-949e-259ff08c6249",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Converter",
+        "value": 793,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_hy_red_hex_light_large.cd2153af94a302c0293620289716a29d9fbfbeca.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "8d27d18d-9f92-4b9f-8cef-f788d77b70a3",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Radiation Hazard",
+        "value": 167,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_sp_nukestripe_orange_light_large.deb3995ec0bd7021cf33ca089f1d889fb92aba94.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "67f9af00-cdc1-4eac-9b41-459b6820c2e5",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Dark Blossom",
+        "value": 730,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_sp_bud_blue_light_large.f31b88226c77480548a0c1e62581bea8f3946906.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "46978e9d-1d04-427d-815e-ce0a8a9adfb7",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Mainframe",
+        "value": 780,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_am_circuitboard_silver_light_large.7a3b860966a77bcb8124a2c38cf4b0449fd542ba.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "9420d11d-8ac1-4ddf-980f-95f7bf1f58dd",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Urban DDPAT",
+        "value": 17,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_hy_ddpat_urb_light_large.7ced16120d54bcdc2faa66d215ae81041ab23bc4.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "7942e8f1-2d9e-465d-bcd5-30c4c8552c7a",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Tornado",
+        "value": 101,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_so_tornado_light_large.5e852b0952af47cde9b8c60edf137f34b81fe812.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "fb5c05c9-fd47-42e3-87a1-b25f1045fcb0",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Desert Storm",
+        "value": 8,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_hy_desert_light_large.30d1e3dcc03baca8d4a3f222b3b851ad12c77799.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "b32c4e81-af0d-4897-8391-bb0139ad4e83",
+        "id": 16,
+        "weaponName": "M4A4",
+        "label": "Jungle Tiger",
+        "value": 16,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_hy_v_tiger_light_large.cdf3f8e434ea36842fa520cabec812eaba3f2fa5.png",
+        "quality": "Industrial Grade Rifle"
+    }
+]

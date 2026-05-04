@@ -1,0 +1,272 @@
+[
+    {
+        "uuid": "3816fe51-ad48-4733-a14f-11d2661fc872",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Commemoration",
+        "value": 919,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_legacy_gold_light_large.34013884c12276d1c83ceb4ea9fb83428df02920.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "2a1fe334-95ec-44af-8765-febe9e71a3a9",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Roll Cage",
+        "value": 604,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_rally_light_large.538baee44eb772de95029e4267ea9c41101bbc94.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "0dae1663-b56d-4e04-9dc6-66b5ac4f0af6",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Eye of Athena",
+        "value": 723,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_famas_owl_orange_light_large.7cb3a86d36317530964f40d66b755789de7ca88a.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "deba265c-fac1-4450-b5ac-7a98addf88b8",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Mecha Industries",
+        "value": 626,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_mecha_light_large.c26d3fccc156fe26ba3325ed73b29092b3e18093.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "7a829f62-ae98-44cd-8eb5-2e96dd6cebd8",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Djinn",
+        "value": 429,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_aq_famas_jinn_light_large.a0e1b8e2a572c5e3d6472181d4a0d6ce7f51139f.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "f4acc880-1b0f-4c78-b74e-ef5689fca546",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Afterimage",
+        "value": 154,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_broken_path_famas_light_large.5d45539735d838ffefd26467a8c767b71807c785.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "93ae34af-73e3-4ce1-9c60-4ac1d64774cd",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Meltdown",
+        "value": 1053,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_am_nuclear_pattern4_famas_light_large.7e147f135728d6abd62f871088d69c1b2bd38076.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "6fe351ce-b469-4128-a6a3-ce2065d19f08",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "ZX Spectron",
+        "value": 1092,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_famas_spectron_light_large.5212ab188ec7d54b55d4280c3b508b11b1f567ed.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "11bb238f-02d5-4a4b-a796-5e6b6bb5dd47",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Valence",
+        "value": 529,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_aq_famas_contour_light_large.65d515ab34a6f50c8a5296b562a81da42663b819.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "d0143ca9-76d6-4e25-930d-bf906dd3c9d6",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Neural Net",
+        "value": 477,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_am_famas_dots_light_large.dc6f19278bac52ea06b8e3576fa324624f2f82b4.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "439878cb-0613-485e-a7cc-e5f264a37bdc",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Sergeant",
+        "value": 288,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_an_famas_sgt_light_large.5a9241d41a3c35a3fbb20aebcd22253a6a85f72f.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "d01b42b0-bf37-4f3d-81c4-5fbab0e08c8c",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Pulse",
+        "value": 260,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_famas_pulse_light_large.fad5dfcd7b0ccfe655c7c3903d091140904959ec.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "96664f1c-acd3-456d-8745-82dd8a6d7195",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Prime Conspiracy",
+        "value": 999,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_am_numbers_magenta_light_large.c3b086e3407aeb1bca1fb497bc2aee6dc7602a4f.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "41b83a16-ef43-446b-97c3-b12e573577f1",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Styx",
+        "value": 371,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_am_nuclear_skulls2_famas_light_large.ec9774f3b2a03f5411321dba792b05f19096547c.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "c7fcbc65-b953-462f-b877-b3cbd0b74876",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Spitfire",
+        "value": 194,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_sp_spitfire_famas_bravo_light_large.ac455b0749733b0bdce019c0e0c74270d689eb95.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "5a3427ca-ffec-4c30-9aa2-019a0ab772bf",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Decommissioned",
+        "value": 904,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_famas_nuke_tension_light_large.0cf9412e22f626e675b76506cf2f240a64a05b22.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "a3d3840f-c7bb-4417-be13-5ec0cbd6a9db",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Crypsis",
+        "value": 835,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_sp_famas_ghost_insects_light_large.727c7db3f6df4aae8b692f6966dba460acafb07f.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "de1fa495-382d-4b68-8925-8705ae0ce578",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Macabre",
+        "value": 659,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_sp_famas_macabre_light_large.7582150e24a69922b814d6b56004327e2219890d.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "683680e8-7d95-4b21-8679-ad565848649f",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Survivor Z",
+        "value": 492,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_cu_famas_lenta_light_large.7ab508a407e56ab541dae127ef5fc64f09f6ae08.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "a8b9d5e5-4bfb-49f7-a633-90865dd4b723",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Hexane",
+        "value": 218,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_hy_bluehex_light_large.fe87763b33ea8963cf87e9b8fd7b9bfc9014d747.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "b29df7c0-9e96-42c2-9e07-6a4084a92478",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Doomkitty",
+        "value": 178,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_hy_doomkitty_light_large.c9dd7b8fb1a44d5691684aae406d360433550468.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "bc576eb6-73e9-49ba-9237-553c64a86d95",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Dark Water",
+        "value": 60,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_am_zebra_dark_light_large.52703268beafba0b11ccfe86f32a332cdf69f9ef.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "9c80011c-8900-4904-a5df-c56cf4519857",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Sundown",
+        "value": 869,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_sp_palm_sunset_light_large.924bca1ce6c9034d6963c81c59fa72a2a4b45a07.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "f4f6bbff-c0a7-4393-9e61-4e822b1d9027",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Teardown",
+        "value": 244,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_sp_mesh_hot_and_cold_light_large.c93a700bb3cf4d14241d3c837569b571685b0b29.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "3bca1e52-d2e9-429a-8342-8f9c833e0bf4",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "CaliCamo",
+        "value": 240,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_hy_varicamo_desert_light_large.b650a2a051a809d716d4298d2387729456a404ce.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "fe7c6c31-522a-4c3e-a018-4ca23a5956ba",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Cyanospatter",
+        "value": 92,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_hy_reef_light_large.d3138f4491b5413241bf64a82e0545ddc4c9e80d.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "751a70f0-d615-4b7d-96d1-2df1a044a915",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Faulty Wiring",
+        "value": 1066,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_aa_wiring_yellow_light_large.c232a36fb8d6a691893132a0baf126d250d8d35e.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "c8b08beb-60cf-415c-9bc9-d186361f862e",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Night Borre",
+        "value": 863,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_sp_knots_blue_light_large.1a6a2c6fe90198a053410d364dd48441b51fb1a7.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "888a1563-67bb-4f68-b07d-7af24e029f2e",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Colony",
+        "value": 47,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_so_space_marine_light_large.bc0a11080c9b3b50c13ddbe4afa3f6f96311fec4.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "1ee4fc9b-4df3-4b61-ad9d-86cb97ccee19",
+        "id": 10,
+        "weaponName": "FAMAS",
+        "label": "Contrast Spray",
+        "value": 22,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_sp_spray_light_large.fe886d820746c0f4333c0e0ea6d308473e241c4b.png",
+        "quality": "Consumer Grade Rifle"
+    }
+]

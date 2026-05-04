@@ -1,0 +1,227 @@
+[
+    {
+        "uuid": "3a4a1236-3a56-4009-830e-1e465e51976a",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_widowmaker.a0842ad04cda9292483b8896d1dcdaffac9c2e5e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "090301cc-d52a-4afc-ba54-b41e4ed62b4e",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Marble Fade",
+        "value": 856,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_am_marble_fade_widow_light_large.122c3dd61683bf749d2e7d4b759d3409a3293822.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a1c85cd3-6bef-420a-9fdc-0591bc12c0a3",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_an_tiger_orange_light_large.f9c5d573a1f20baf81898db77dfa6fd0537bb92f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "49c38e4b-1f9e-4ad0-ae3f-bdb0f0543b77",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_so_purple_light_large.8338e07caf8f6c129754b605709612b5e3d1679d.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d02b4741-bd4b-4647-b676-3387ac90d93b",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Damascus Steel",
+        "value": 858,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_aq_damascus_widow_light_large.57ae6cb141a599ac36b47b9d4ff20f9f880a520f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2790cb89-42f2-47de-ae35-c8768d8ef98f",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_aq_steel_knife_light_large.09f8e1ffebb9345ae6293dc1734e855a1e83c0c5.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4c1aaf4c-70f2-4aca-9ca8-f348722dca39",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_aa_fade_light_large.54c2c841e44a279e001873f80f987885780bb156.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bd55e6d9-01bc-4caa-b8ac-7e1e0d905525",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_am_zebra_light_large.80afcfbe0e2aa2435c037524713ac9411c15cae9.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "42c41bf8-2a7c-4ff9-9905-2b3039cc616f",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_aq_oiled_light_large.795e56b68c0c7319470b7103b093dc48f9c47311.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "573dbc4e-b61d-4269-9ff3-400702a994af",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_hy_webs_light_large.875dbed68ca5405a6d2e66e5456a4e712c758342.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0dea71d5-a717-4eb1-9f0d-aca5fd12c15b",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_aq_blued_light_large.5f9fddb9d8623257d62f544027dcf305a087bab1.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b54d1d10-1339-46e1-92d4-c543978e060c",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_aq_forced_light_large.a0176c574002b3f41cdd8df96d61342bf6aa8c7b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "87f66152-84df-4b34-a800-3fadf46c84bc",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_sp_tape_urban_light_large.f667d0db45fdef79c8aae2c6dc922b91fd2e98e5.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "389db35c-a5f7-46b0-9547-cd1e82f1ee4d",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_hy_ddpat_light_large.2f4c3c3f6fbc43a980ab3e9dc173ad686655f8cd.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "8ece6f04-4728-473a-9740-72613f00cae5",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_sp_mesh_tan_light_large.d0fef03f781d895f204c4888463753ca250397a4.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ee32c920-9fd0-4030-8422-dacd71acf207",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Night Stripe",
+        "value": 735,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_sp_nightstripe_light_large.0c88154966c609dd394248e955a5db8b2c8bc5b7.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "3761ac6b-52f5-4819-a979-40e733967bce",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_sp_dapple_light_large.5910908e7cd893a87b6517b8f6eb439769a1f060.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e2da11d9-da65-4ba2-924c-a072fd10feeb",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_widowmaker_hy_forest_boreal_light_large.593dd2a8c4d229e052107a442d7922a4e6846c0f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "87e63fdc-e209-4eb4-b9a4-de355f4e6e3b",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Doppler - Phase 1",
+        "value": 852,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1086_phase1.png?id=46703fee7cac6f95f5dd",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "681e8a6c-fc83-4447-bc6e-6e556e1d765d",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Doppler - Phase 2",
+        "value": 853,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1086_phase2.png?id=c079179475a6060507e6",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5afbeb7b-3186-41a5-981f-962a59bf018a",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Doppler - Phase 3",
+        "value": 854,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1086_phase3.png?id=240d03d52ef6bfed6573",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6d95a039-d867-4854-8fb3-26eabc8bde0a",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Doppler - Phase 4",
+        "value": 855,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1086_phase4.png?id=e03997089d6072087277",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "37d3f6d5-4cf6-441f-ac54-6945b7d722e0",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1086_ruby.png?id=9bf808d2db1bd5cdd05a",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bdb23004-4b65-4a2d-b1d9-0d8208170d48",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1086_sapphire.png?id=8ac4634ed615d72da783",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f5aebc9a-efa6-421b-ab55-8cb45c0438bd",
+        "id": 523,
+        "weaponName": "Talon Knife",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1086_blackpearl.png?id=7cae6635aa57444d0528",
+        "quality": "Covert Knife"
+    }
+]

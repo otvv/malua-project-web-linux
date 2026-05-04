@@ -1,0 +1,317 @@
+[
+    {
+        "uuid": "42616e3c-60bc-489e-829e-3473cdc86474",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_m9_bayonet.1a55109e0c88792e5d56ea04dc1f676e44f9dec2.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4d07cb3a-1c16-4c01-a06d-d4248d34d776",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Lore",
+        "value": 562,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_cu_m9_bay_lore_light_large.b4bfa26d570d440ee4c04244605a81031909da2f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "afea6e2e-54d9-41cb-8c6b-91a564c0a485",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Autotronic",
+        "value": 577,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_gs_m9_bay_autotronic_light_large.f81f68f78b0b40717602fc88f62b4d7af346c430.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e3c11d08-ba9b-41a7-adf4-112eda258370",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Black Laminate",
+        "value": 567,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_cu_m9_bay_stonewash_light_large.addebdf2a1eb13e40ff7102e7a918d116653414b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "10471dfe-3868-4d33-bf22-1e901e060402",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Freehand",
+        "value": 581,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_marked_up_90_light_large.30a346e62c77a9552fe7ce89eca7c44e018aafd5.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "7901aa0f-0eb4-4e97-9861-e473a7d1bfa8",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Bright Water",
+        "value": 579,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_hy_ocean_knife_90_light_large.7c349b48ff79eb591eaa741aff78a0e086feaa4d.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d32fe6a8-2e05-40fc-b5d4-6f1c127a5d77",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_marble_fade_light_large.732b2c0e3c297968ccc0c7ecde0438ab995f9720.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1cb4d44d-9242-45fc-a206-2a339685045f",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_an_tiger_orange_light_large.49d5afb6d7f17cb0b384be1416a9533841174ac5.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "68cef29c-3304-4552-b7c4-dbc125bc8a3d",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Damascus Steel",
+        "value": 411,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_damascus_90_light_large.c8510c6e031c61d9c1c2421df3b912125547dc83.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2fb27ae6-f1a1-411c-b0ae-7418a7f45a7d",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_so_purple_light_large.5ca833ab51b7a972d9b5bb7792c88957a69c4b4c.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e76ce411-be44-47a0-921e-9d86e694f1bb",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_steel_knife_light_large.b89310b9d111f845adf87260417a732028154f27.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "eee955ee-b98c-40ff-99a0-811ddac67ab5",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aa_fade_light_large.66027f3a763a8b0a89895f3bdd55485d21d8dcda.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1385ce94-63b6-4a69-9d39-bd98d7e5eaee",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_zebra_light_large.53f9641b2b66b6587f779e5f222cc98a48489a1e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e2275f17-6168-4e55-bd0b-390e16a66a21",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_hy_webs_light_large.5beb986be2c0fd1a6dde6cc3f360fb1a4b77823d.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "74714181-7470-4ca4-9eeb-c99ab8c4277d",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_oiled_light_large.75bfecf8e9073c05ba21251889b8d49889f90669.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "50cafede-c6ed-446a-82b6-8987d5a33f75",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_sp_dapple_light_large.b810fef46499697606ff2c70139805beb784c5ae.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c5b4bd47-061d-44e3-b852-a46b778c26f0",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_blued_light_large.cf1eae5b0d42c0c265ee77addcd1207eba7a8a4b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0e8e898a-4a7c-4563-95e9-9bdbbd01220f",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_hy_forest_boreal_light_large.074a7a96a875a57e6ad16e8a678245f23e7d46bb.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "24235eeb-4669-4feb-8acb-f7b3cd336108",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_so_night_light_large.5acbbec44a12a3d5e53890c7a2e58aaf83ae2871.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "fc40f281-2308-4776-b531-9b29f7b5b599",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_forced_light_large.e409b18452030f3efa41178b439556d6f067fa52.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "7151307b-06ac-4f81-897e-17e76780cd1b",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_hy_ddpat_light_large.1f511e46981a71dc67aec2904af5c7a39de52268.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "85deb080-ad1c-446b-8238-8ae60ebbe4d4",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_sp_tape_urban_light_large.b940d9da196a99dfa10f08a89c6d2843b5844fef.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f372b944-bc01-48eb-8370-0ee051446cd2",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_sp_mesh_tan_light_large.10896c7c3028779b668885a229e5ba773637b69c.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1a6327b9-e5c8-41e5-b433-25e95a195ae8",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Gamma Doppler - Phase 1",
+        "value": 569,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s783_phase1.png?id=d5695bba9be4ebdb8278",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4246ef03-ca84-4948-b824-1ce5afa36f25",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Gamma Doppler - Phase 2",
+        "value": 570,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s783_phase2.png?id=1fe06ae707bca08b0d4e",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9f23439d-36f8-4a2d-90e9-0973da6c6261",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Gamma Doppler - Phase 3",
+        "value": 571,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s783_phase3.png?id=cffe2434d47c6475b613",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ee333201-60ca-47b3-ba19-a7a69c2572ec",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Gamma Doppler - Phase 4",
+        "value": 572,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s783_phase4.png?id=b7b4289bb47439c3f76d",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "88c0cd07-5584-4dba-9140-6cf99d596e56",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Gamma Doppler - Emerald",
+        "value": 568,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s783_emerald.png?id=e061696a5f83a23d2792",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c61945d4-344c-4a43-afb1-fd381ef21486",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s542_phase1.png?id=cd60990380a8a012eae3",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "22d3ad12-bd05-4f1e-949a-fc3c051e7df9",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Doppler - Phase 2",
+        "value": 419,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s542_phase2.png?id=9771e71a829ec75e126c",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0c946366-ec37-4283-9171-e42e152f3ab2",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s542_phase3.png?id=5f3751c1474533e6c076",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "3ae46cbc-06ff-4600-ae1a-4abf3d9d3e69",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s542_phase4.png?id=0b51b1551374c681e662",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f9bc664a-ba1e-413f-bbf9-310fdc160393",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s542_ruby.png?id=563ad91bac9c65fdef5a",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1c6c1db5-ff63-49b4-9b47-dfc315a617c4",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s542_sapphire.png?id=cc9e12ff8c86ba08a118",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a4f8bbcf-1c9a-433a-adcb-85816bc722ee",
+        "id": 508,
+        "weaponName": "M9 Bayonet",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s542_blackpearl.png?id=5a8587ec8055d8763c91",
+        "quality": "Covert Knife"
+    }
+]

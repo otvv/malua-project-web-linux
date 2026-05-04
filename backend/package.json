@@ -1,0 +1,19 @@
+{
+  "name": "malua-backend",
+  "version": "0.1.2",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fmemory": "^0.1.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "worker-farm": "^1.7.0"
+  }
+}

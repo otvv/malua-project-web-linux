@@ -1,0 +1,290 @@
+[
+    {
+        "uuid": "5c2fb77a-37ab-4269-ad51-62311a595395",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Judgement of Anubis",
+        "value": 542,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_curse_light_large.c19cf584d3e28db4914d1559cd387999457944d8.png",
+        "quality": "Covert SMG"
+    },
+    {
+        "uuid": "17c11c2a-4df0-455c-9aa5-0b8e03f586fe",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "High Roller",
+        "value": 676,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_all_in_light_large.d31ae97fe448b550cfe06d617daa3575c77e8c2a.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "9acfe702-f2c2-4c6f-81c6-2484d15b9158",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Embargo",
+        "value": 884,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_road_warrior_light_large.92dd3aa0346010a6e3a625d01ae4f965195a05d2.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "fad53733-1a0b-4d72-a7cd-9e5ee60b2eae",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Fuel Rod",
+        "value": 508,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_noxious_light_large.dc3af57fa024448b24e4ddb8838a0a339cee46ce.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "ff342bcb-13d9-4c7c-8bd4-938982916b1e",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Blue Streak",
+        "value": 13,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_splatter_light_large.7a7417d95485ceb2148bdd3d228219307082ea8a.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "0f721458-1e41-4ee8-9136-19d1321e66ad",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Osiris",
+        "value": 349,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon-osiris_light_large.269e03e1ad598b76adb884704c4f48d725beb5fc.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "bd76d6c3-d34c-417c-b83d-a9e5f452a0f5",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Antique",
+        "value": 306,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_antique_light_large.06467175511976dae4219e9cb2fc8ab20df0e653.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "07b438e4-c4b3-417f-a8a9-7798698896e4",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Lumen",
+        "value": 1099,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_gs_bizon_flasher_light_large.a200d5213d5fe9f2e74b5ca5b9ce8eeb7eee4d5f.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "fddce9f4-394b-493e-bbc7-9ce2bb6fe4c2",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Runic",
+        "value": 973,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_gs_bizon_hellraider_light_large.c7aa487268b1e88b2e7fb1ff3c8c2eeeb24d4500.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "8d757136-710f-4af0-8e53-2ae72110ddf3",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Night Riot",
+        "value": 692,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_riot_light_large.2f0848b27a917287062306f49870cf9ec06bbbbe.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "d4f6deb8-72d5-4a44-9ca5-22f5cb10de20",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Jungle Slipstream",
+        "value": 641,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_bizon_torn_green_light_large.1aa076ede6a2511bf676ffb1c5a3eafca71c58a6.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "55bca655-4b9f-43fe-8353-67e9a385bd93",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Harvester",
+        "value": 594,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_gs_pp_bizon_harvester_light_large.654d26d43d7e4583a0ede5e0ea6bb697858698dc.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "a8625189-fe3e-4949-90b1-1c15f9eb4277",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Photic Zone",
+        "value": 526,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_citizen_light_large.c33a99fe761fc52535224e73d2af91b92ac77637.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "54cc825c-bd89-4bea-b88a-baa879cd1e1b",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Water Sigil",
+        "value": 224,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_water_crest_light_large.c4d0aad9cb87870f84f3709ff3b8ecc9fe489d89.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "cb924fc7-5b74-4eb2-b856-8ebcf860b334",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Cobalt Halftone",
+        "value": 267,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_am_turqoise_halftone_light_large.e34dc4bab2f1da66b04bd2d3cadb51339ce81f4d.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "1e6c5d5e-7def-4fcd-80e6-2c20cebef168",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Brass",
+        "value": 159,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_aq_brass_light_large.afcbbd3e31fd3600ddb45b4a0c48b6350ab761f9.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "54df3c76-cd79-4d39-bcac-cac44b036022",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Rust Coat",
+        "value": 203,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_aq_steel_bravo_light_large.ace529ee6d0eefe9159eaf040b364ad853ccf893.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "c9776847-f7f0-4075-99b0-03a02fd02586",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Modern Hunter",
+        "value": 164,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_hunter_modern_light_large.04891176bf0284ba4f8002c2c32445cbde50a8c6.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "ad52603b-5714-4824-a786-6cb232996a78",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Breaker Box",
+        "value": 1083,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_aa_wiring_light_large.5ec614e6c258dd17db3f7949292008a2f466f2db.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "d7e52d02-970d-46a4-a22a-b0c454b7ed70",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Candy Apple",
+        "value": 3,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_so_red_light_large.0ee9cada135b87096b447521a05c0a2d437bf9ff.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "40ddffea-6f4a-44e9-8927-af891c5eaca4",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Chemical Green",
+        "value": 376,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_so_grey_nuclear_green_bizon_light_large.072e25b1fa34f50da3850310424b8b96983cf684.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "460ec7d5-bf05-4d1d-bb0e-f56a863ef784",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Night Ops",
+        "value": 236,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_varicamo_night_light_large.f0593c24d14333e68c7eb0e916385270d5612b46.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "e24db37a-9479-4af8-b204-828bcc239ac8",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Carbon Fiber",
+        "value": 70,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_am_carbon_fiber_light_large.bc4fbdedf71b3b922a2596dac8df3c50306ecf51.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "c10818d3-5452-4426-8883-5afb8eab77a2",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Anolis",
+        "value": 829,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_lizard_skin_light_large.4731c7f1d21196c4971405a722c36911b1d23aae.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "2d72e09d-81f0-4047-bf66-cc2785b7307b",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Death Rattle",
+        "value": 293,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_nerodia_light_large.6bef659d5403a53618b7bf7f5448d537395114f9.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "479b627a-a177-47fc-82c9-f156bc001f5c",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Seabird",
+        "value": 873,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_so_aqua_stmarc_light_large.19036e4aeafdaeaa9c22cd0b86af514562c1761c.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "5e1bbbb6-6c49-4263-9bc6-908da77a7187",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Facility Sketch",
+        "value": 775,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_blueprint_white_light_large.5a8bb5711fec1758844f92beab8a1ecb054f91bd.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "7c7fd6dc-2820-42d1-bd81-94ed5bb38773",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Bamboo Print",
+        "value": 457,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_hy_bamboo_jungle_ink_light_large.0f9ee611e9b667e90923e9fc0da89430881ae7ae.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "9aeeab0b-8b22-471c-906a-6acb47ff7b75",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Sand Dashed",
+        "value": 148,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_sp_tape_short_sand_light_large.dcf913a3a4fcd421012482e8c1cb55d05d9828f9.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "ff4cc547-1ac3-45dd-81e6-ab1eb23b1a8f",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Urban Dashed",
+        "value": 149,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_sp_tape_short_urban_light_large.141f3b1f24bc6c964a78ca58b38c01ad773fbc12.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "b97b1ccf-a910-4811-af11-397a60e0c5fa",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Irradiated Alert",
+        "value": 171,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_sp_nukestripe_brown_light_large.993c1c6ed6bf4a239268651e4150bc4a615f2632.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "bd112b06-53f0-4b0d-b393-10a312ea3d7a",
+        "id": 26,
+        "weaponName": "PP-Bizon",
+        "label": "Forest Leaves",
+        "value": 25,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_sp_leaves_light_large.ce2a773d74c050c18f99daaa39d4b670878abd99.png",
+        "quality": "Consumer Grade SMG"
+    }
+]

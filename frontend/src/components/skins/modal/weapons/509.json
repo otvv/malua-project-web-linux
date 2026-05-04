@@ -1,0 +1,272 @@
+[
+    {
+        "uuid": "80fb5f69-cb89-437f-9d08-a2605c9e864f",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_tactical.7621bbad70410deb629d60ed98ef248dac525356.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "67bb9492-c2bc-4df8-a081-8d2b9240206a",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Lore",
+        "value": 1107,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_cu_huntsman_lore_light_large.0747f41411d209fdb94618313d6e350eb32dd3b8.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c82d41d0-e7d8-433d-afae-b8cc726cbb59",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Autotronic",
+        "value": 1117,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_gs_huntsman_autotronic_light_large.b9187e80330af454e3ec7d8aa3a3522f64025ebb.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "fb55e6a5-0797-4e7c-9fc1-736893c113a2",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Black Laminate",
+        "value": 1112,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_gs_huntsman_black_laminate_light_large.5062d0442cbc9627a5968a1b863188f508436b51.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5f89aa2f-80c3-43d6-af08-47ff1fd1adef",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Freehand",
+        "value": 581,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_am_marked_up_90_light_large.cd9f689ef3a0d38cd51dd719a3c60e30583826f7.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f382152e-9431-4439-bc5f-7d143b9af7d3",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Bright Water",
+        "value": 579,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_hy_ocean_knife_90_light_large.bad5c8a03078670bbd69cc054129b9aa5194bf77.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a71dc43f-196a-4797-92f4-a4dfd80e756f",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_am_marble_fade_light_large.3efc76764c1aa62477fee4b4df1a380b115f5103.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9c2f9615-3591-47fc-ab33-f4dc22c513a6",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_an_tiger_orange_light_large.961c75c287d5cba0859ef13ed8eb638d707b1129.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "dec7e338-32fa-4a0c-8c74-328a207080f6",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Ultraviolet",
+        "value": 620,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_cu_purple_huntsman_light_large.3d9355c0a0c0c170d10856ebc2492fef61832fbc.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bd83f90c-2138-4fc0-84ed-55b09eed8044",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Damascus Steel",
+        "value": 411,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aq_damascus_90_light_large.f81def489661a18ae741c49011d70f163552cdce.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c94e866f-6a91-4f2f-8a66-e228c4d9b1c4",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aq_steel_knife_light_large.1e93732da4a5534deaa88e65c22274c57f2cd924.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "68609591-e680-4b0f-a6a4-777bdd5a2b3c",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_hy_webs_light_large.ef2461c032877bf7d6b1600cfa1c21317bc9c460.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "246e94f5-0d29-44a0-baac-38a688cb1798",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aa_fade_light_large.6f2163cce4ff116224f809200c9e928dbfe1c92a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "df488c7c-f815-4790-8799-aabdfd7ac6e8",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_sp_tape_urban_light_large.b1741a783b7017d5bf191ec9ab8f3a5427718294.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1184e843-59a1-4966-8deb-10631140cec2",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_am_zebra_light_large.1296d76d34f1e5738524c808f365584a38aaf6bf.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "cd1592d5-ad86-4008-8a4b-2d6812bfd413",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_sp_mesh_tan_light_large.314ea654cdba9c910a3872442245d2268be404cf.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1fd55b8c-2906-45be-b82f-6fb2a2ad135f",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aq_oiled_light_large.b43d1ca603f2c69764001a6b5f24f2856a6f0a65.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f01bd1a4-dc8a-4ab1-b8c5-448b8ce8e790",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_so_night_light_large.b0f1183807fcb10c3592200d569dcc79073d1515.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d85578c7-4091-413d-ac03-9e3a2e505c27",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aq_blued_light_large.7c438b3c70933dd0e6b807a5690a777c3079843f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "8484fbd5-46a1-464a-a793-7d50141e2423",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_hy_forest_boreal_light_large.b67d3d1910d57252f27749a5e275354a7447e8d3.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f667680b-2d54-4735-bd09-99077d2c2b81",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_hy_ddpat_light_large.109687895d7275eb80f4a78f212ecbeb81b3bdcb.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "02525e56-6dba-4379-a3e0-77a7fccfb919",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_aq_forced_light_large.ba0ab23cf7421f130454b3e1816eb3302b588712.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ac76f1e5-3f99-4949-809f-91598375ca8b",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_sp_dapple_light_large.f1e2b1478299963ebdf9c822bfc6efbabc1ec1c8.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ac08a0e8-9d53-455f-b247-16d0b3088470",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s869_phase1.png?id=736c93e4d8b7168b086a",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "88d5ea76-1111-4988-809e-afa0498fb989",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Doppler - Phase 2",
+        "value": 419,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s869_phase2.png?id=4b2455dac45f5ded26b5",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "abf5ac9e-0e13-4a32-b292-fd6769e868f6",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s869_phase3.png?id=4d0995662d05c594f3cb",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0d6021ff-aa33-47f7-8e03-c8f499efeda2",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s869_phase4.png?id=6e44ac3384f03961c8db",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "aadfadd4-e0c6-499b-aa1e-73e5b7a42107",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s869_ruby.png?id=300d438e49353ee17430",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9f679160-beeb-448c-a841-73a5e5d98126",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s869_sapphire.png?id=5f52e0e52520f402bba7",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bc2018b4-46fd-4b4a-bee2-ec05cd7bad4a",
+        "id": 509,
+        "weaponName": "Huntsman Knife",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s869_blackpearl.png?id=fa8f7e900687e45a2f3d",
+        "quality": "Covert Knife"
+    }
+]

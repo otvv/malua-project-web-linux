@@ -1,0 +1,290 @@
+[
+    {
+        "uuid": "e8c3334a-41a7-421a-85ab-f42b07461270",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "The Traitor",
+        "value": 1040,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_gs_usps_hangedman_light_large.a01890fdeb8335437df7af6641a7b4f6e2fcca34.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "3d249b56-ba67-499b-a1cc-4e09e2463719",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Neo-Noir",
+        "value": 653,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usps_noir_light_large.ed0f4245c1b9031c6d410300ce6de1f1efb75481.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "924da8a1-c712-437b-a5c5-f8d48240c7b1",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Kill Confirmed",
+        "value": 504,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_kill_confirmed_light_large.a3a7b8f19c9fb931b18c1edd7dd21d44e2c3c2e0.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "e7b81c9f-694f-47f2-b32c-3453944c46a9",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Monster Mashup",
+        "value": 991,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_krokos_light_large.ef94a997db4a990e55bc44d4b07b25f0f420e59e.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "e2d0f6d6-9830-44bb-94bb-eb25a159a608",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Cortex",
+        "value": 705,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_cut_light_large.573fc8c594667e378f3ed9890ce48bbb586e8de0.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "52c557df-cbb3-433e-8069-1eb62d9d3df3",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Caiman",
+        "value": 339,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_kaiman_light_large.8ed168478e306bd382a90afb1b71ad9f7551b342.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "a494865b-81b5-4687-88a1-52de43681cda",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Orion",
+        "value": 313,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_spitfire_light_large.883b877a8a57c9dd1128f2550ddd694d959f3150.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "51de68ac-6057-4936-a384-d6b1f9598d6a",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Serum",
+        "value": 221,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_am_electric_red_light_large.ef8005beba74458fabbe8f664e0b210b2ef3a007.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "6ec44920-0b85-46ae-9a91-35dc635ff622",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Whiteout",
+        "value": 1065,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_so_whiteout_riptide_light_large.87d3b82c83ef28ff06955915907d062376be31ac.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "c285f725-81a8-4d7f-ac6a-a254014300ae",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Target Acquired",
+        "value": 1027,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_am_intelligence_magenta_light_large.5d8fbbd462701928467530e6c7ff81b8c7be65a1.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "3407aa61-a33e-460a-bdbc-67d558b5a0bd",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Flashback",
+        "value": 817,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_flashback_light_large.47e10129af33303bac557560400c33e4fe555680.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "124bdc05-977d-4bee-b4fb-5a38e100d5b6",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Cyrex",
+        "value": 637,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_cyrex_light_large.caef5e9fa7e19c3a4fd6f135d7ae122459b348d0.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "c9daef0c-645c-4b69-a0d9-d96104d35796",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Guardian",
+        "value": 290,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_elegant_light_large.416f607cc5faeb52be0f22e1b98450391f452ac2.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "b51e7c1c-fc08-4bce-a52d-7c754365423f",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Overgrowth",
+        "value": 183,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_hy_siege_bravo_light_large.517b89e78bfe8bad7ca1aab7edf1d02a56b2da26.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "f2c6610e-5282-4f80-9950-b69629b34942",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Dark Water",
+        "value": 60,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_am_zebra_dark_light_large.add709b2eb683853f9508ddf9c22503d7efb9925.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "48d5444f-36a6-4538-8797-d78e8f4f5f31",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Orange Anolis",
+        "value": 922,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_am_lizard_red_light_large.8028fa8c551ef6e26b3fff892e8138b5294ad7fd.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "1462ec1e-ae83-495f-bdf3-b82127f7b6d2",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Ancient Visions",
+        "value": 1031,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_sp_ancient_bright_light_large.794efdc565345a758d9a6fd673db4a42e01d59c8.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "ce8eb2a4-853b-4b8c-a115-b7e65eb1c97a",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Road Rash",
+        "value": 318,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_sandpapered_light_large.8de907fed2d0036e0c6c1f326c20915e846227a7.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "de2cbe02-78b8-4df1-a7ce-7ee8a0dd053d",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Black Lotus",
+        "value": 1102,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_black_lotus_light_large.d40de54b67e255871a2a31a15e871e8d185049ea.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "09d50acb-2d45-410e-b294-8b45b766761a",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Blueprint",
+        "value": 657,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usps_blueprint_light_large.e4195098bb3a105e6545d32c4d72888f673bd761.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "9217dadb-86c0-41d3-a8e4-cbd361e6fea0",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Lead Conduit",
+        "value": 540,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_gs_usp_voltage_light_large.11e40b4d4fc09043d4fa513f3913ca65ffcfbb41.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "9194fdf9-4048-427b-b295-04df4d984875",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Torque",
+        "value": 489,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_progressiv_light_large.91cde781cd0c8502bbbb66f37cc7f1baf2a10c05.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "587e6f35-355e-438a-b934-07c33a9b0a92",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Blood Tiger",
+        "value": 217,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_hy_redtiger_light_large.5d778f6030de49296f349081781d84ef215a9b90.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "6ff71b27-d15a-4532-8489-1bde898a23d7",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Stainless",
+        "value": 277,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_aq_usp_stainless_light_large.3f6edb8ebd4138742504859e0d3e7c51a23c39db.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "603c433a-5560-42b5-ad38-dc834e81b61f",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Purple DDPAT",
+        "value": 818,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_am_ddpat_purple_light_large.993825dcdc1100cdaf92b119e82b2ba756a38bea.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "72e5fe77-6fd8-4f64-8653-c8f1e8c4f31b",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Check Engine",
+        "value": 796,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_sp_mesh_safetyred_light_large.2236c5b787e251c103ddf44209b4b7731b3d9a43.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "e8490b70-6b1d-45c4-8938-4d305b08fe57",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Business Class",
+        "value": 364,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_luggage_usp-s_light_large.3adca3c85f5ae2b083489a1059e1254417ff73c8.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "3ed16366-381b-46b6-9b88-db8270b4e2d6",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Night Ops",
+        "value": 236,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_hy_varicamo_night_light_large.df1cac3f27ea81237acbc9d56137f5e3ddf072d5.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "adf099ae-cd3f-4bc0-a239-81a021be0ace",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Pathfinder",
+        "value": 443,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_sp_labyrinth2_light_large.62697e5210fe32fc1b5bc3d525b197d53508950d.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "f3fc125c-8890-417e-bcb5-b142363bfc99",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Para Green",
+        "value": 454,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_so_khaki_green_light_large.546b3eb856bbf2aeece29e2852688ddae13531b7.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "ff6949b9-59a1-4bc7-81b5-4ea215061512",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Royal Blue",
+        "value": 332,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_hy_indigo_usp_light_large.aa460050dc0fd2d87522a869cefbf5d5ab442f27.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "82b0ff70-47a5-40f0-ba8f-2001a788b222",
+        "id": 61,
+        "weaponName": "USP-S",
+        "label": "Forest Leaves",
+        "value": 25,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_sp_leaves_light_large.a71c8dc482fea4aaa1c6b5c115e370a7e134ddfd.png",
+        "quality": "Industrial Grade Pistol"
+    }
+]

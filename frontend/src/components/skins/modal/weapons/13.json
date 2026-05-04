@@ -1,0 +1,290 @@
+[
+    {
+        "uuid": "5a65dab8-86d5-4894-9c32-123c5ac421d7",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Chatterbox",
+        "value": 398,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galil_abrasion_light_large.8398e4836a0c26add3514a6af2262704d85fec07.png",
+        "quality": "Covert Rifle"
+    },
+    {
+        "uuid": "b4060a6a-7c9a-4459-a882-0767a626c57c",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Chromatic Aberration",
+        "value": 1038,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galil_chroma_pink_light_large.e29cb838de1fc6318d36ed2d7263b7fcef10a4d8.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "b4763442-2b90-4de8-88f6-5ae1c941e2db",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Sugar Rush",
+        "value": 661,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galil_candychaos_light_large.70c1dba6c2de996ec666a260b604c760e01bb20d.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "595a78a3-333f-43a9-ad6b-8fbe5e51b856",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Eco",
+        "value": 428,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galil_eco_light_large.7f64e2d77423b3c4263a74caeda18383c2e487d5.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "ab5dcb68-0909-4505-b561-02fa0d89232a",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Connexion",
+        "value": 972,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_gs_galil_phoenix_light_large.62909a6e708a56e8679b9aa9225ba438b1539511.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "d20633b5-572e-4351-9039-a9cf652e6658",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Signal",
+        "value": 807,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_galil_signal_red_light_large.d7c26f54fd72ec451094ea7791e921346e013197.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "9a9af5eb-c4ed-4a99-ad79-d8eb56a6fce8",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Crimson Tsunami",
+        "value": 647,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_sp_galil_wave_light_large.0a4761ebb660428a77a622885054e1c44cf03959.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "ffa518de-aa15-4951-9407-ecad95348d0a",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Firefight",
+        "value": 546,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_gs_galilar_incenerator_light_large.669901b842361b46108ced0a555f5575839d093e.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "61328a1b-c8df-4bf4-a84b-81753d103eb1",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Stone Cold",
+        "value": 494,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_gs_galil_nightwing_light_large.bc71fb0b9102f22348f39015b7de5affd60829e0.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "7f4c3d79-54cc-4fac-9c9c-5732254f552d",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Orange DDPAT",
+        "value": 83,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_ddpat_orange_light_large.8499a023e61f6d3f7d03012521422bedaedd6c2b.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "3d836e4d-12e8-43c3-a411-8d5be4020547",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "CAUTION!",
+        "value": 1071,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_sp_galil_caution_light_large.f70544059dd7c3ff5709c8a1493643d1ef2a5dde.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "58449375-9665-4b4e-b1d2-9975bf092acd",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Phoenix Blacklight",
+        "value": 1013,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_sp_phoenix_tags_purple_light_large.6b71292ab21580860b1dd716c5ce956bc99132ec.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "c42effe3-bff1-41d8-8628-04b6c3197852",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Cerberus",
+        "value": 379,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_cerbrus_galil_light_large.761250f955c66cbb100400e2fc1459ce74320282.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "5647929d-7140-4785-a2c1-909a9f733a0b",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Vandal",
+        "value": 981,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_gs_galil_vandal_light_large.5144c3d7d0d1789bc5a25d3a62f15ccd876c9855.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "970a40ac-1e6d-440f-b4cd-e5c7714411ce",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Akoben",
+        "value": 842,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_sp_galil_akoben_light_large.35a9e7a0fa943ac20d1b145d36bf3d4ccf33cc84.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "634f8d30-bd2f-4898-8417-f2cfdd25c624",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Black Sand",
+        "value": 629,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galil_ar-camo_light_large.63272b54e93d40433f8ceec41efec2004d51941d.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "0abd8af7-7f01-42fa-a786-27847a7d412a",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Rocket Pop",
+        "value": 478,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galilar_particles_light_large.8732f64d53dbc9b0c732641655d4f99124d8cacc.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "91b14b11-2977-4388-b571-d2ba9c548736",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Kami",
+        "value": 308,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_galil_kami_light_large.f1783721b5318ea51bcb7890bf9cd0084afcd3e3.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "971ae893-40ad-4a16-b466-39972c27ad7d",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Blue Titanium",
+        "value": 216,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_an_titanium30v_light_large.4264e8ec1cedb3bce31a89c934c630bd56d480c1.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "019cfc9e-6690-4406-bf80-fe41570d01a5",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Sandstorm",
+        "value": 264,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_sandstorm_light_large.008937727e75bf840d2b511d3d8493a12b5ed2ac.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "a9a99f34-25bf-468b-9983-5499ecf56458",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Shattered",
+        "value": 192,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_crumple_bravo_light_large.fcf25827c0ef88bac7e5b0567ecd5a7dbee01791.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "0a3dc734-aba3-44e7-9789-bd45423b432e",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Amber Fade",
+        "value": 246,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_aa_fade_metallic_light_large.6910731d5c0d857052afbba2d24416156a6a96ba.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "dd3a0a7f-7f36-4962-9719-6fdb3fea7a48",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Dusk Ruins",
+        "value": 1032,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_ruins_red_light_large.560982e001f4ba6ec42ad09f913e33c1fda8108f.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "bbf79c26-ce32-4311-b821-1f8e55823086",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Aqua Terrace",
+        "value": 460,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_am_geometric_steps_light_large.fd64d3b26b97da3c03ab009e91d3f53c95e86cc0.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "b0d98b1d-e538-426f-8cf7-6f606f4913f4",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Tuxedo",
+        "value": 297,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_so_orca_light_large.5db78708464e031c686ae2e730e997e01526a7ea.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "38a2e961-1c79-478e-aef5-09a45bd03840",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Cold Fusion",
+        "value": 790,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_nuclear_skulls_aqua_light_large.7a9f8497a5e17485c2dcd09ec23da307bc3c06c3.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "79fa5714-948d-4781-b7cd-7f7694cc4cae",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Urban Rubble",
+        "value": 237,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_varicamo_urban_light_large.04b4d709f1a3de109c7173d5ef55181138b247e0.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "3349ce35-97e3-46f2-ba96-ebe46fe29114",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "VariCamo",
+        "value": 235,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_varicamo_light_large.4893edef6838528fadcc0a790a0ed132cdf2f1b9.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "8875385b-9baa-44a8-a99a-2a678b349180",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Winter Forest",
+        "value": 76,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_forest_winter_light_large.2a0bc5c784fc6782304eb3ef68e4f07c6c92d3bf.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "96a2a5a8-5a2a-4a41-95f9-5a4e7962cddf",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Tornado",
+        "value": 101,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_so_tornado_light_large.afda126687661b7907d69932f66a45d3e7c85573.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "2c689777-45f5-4f7c-8b7c-fb2a62be41fc",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Sage Spray",
+        "value": 119,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_sp_spray_desert_sage_light_large.34f1268c2cf12e7794538b7140456d3716d81142.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "7792dcbf-260a-4063-85c0-b8756232abcd",
+        "id": 13,
+        "weaponName": "Galil AR",
+        "label": "Hunting Blind",
+        "value": 241,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_sp_mesh_slashes_light_large.f3c1ef94e52aa6cfe3c3ba2890e0d5ac0764900a.png",
+        "quality": "Consumer Grade Rifle"
+    }
+]

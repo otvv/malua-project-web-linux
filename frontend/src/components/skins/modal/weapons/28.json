@@ -1,0 +1,191 @@
+[
+    {
+        "uuid": "9c7d9e73-d24d-4e54-a01b-0b8789eb43be",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Mjölnir",
+        "value": 763,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_gs_negev_thor_light_large.5060a7a913b1716faf7e81e145d65e0b4081b20f.png",
+        "quality": "Classified Machine Gun"
+    },
+    {
+        "uuid": "9830fad1-8ea6-40fc-bc25-874e437af727",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "dev_texture",
+        "value": 1043,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_devtexture_light_large.a0c6f2fcbac9d473d7b9d0452773843c284683e3.png",
+        "quality": "Restricted Machine Gun"
+    },
+    {
+        "uuid": "a3e8c8f2-ad21-4e30-84c9-2524ac14d373",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Lionfish",
+        "value": 698,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_sp_negev_lionfish_light_large.f8326a67617c5138ab8b6f6afc81375fbd091033.png",
+        "quality": "Restricted Machine Gun"
+    },
+    {
+        "uuid": "534a1eb2-f5cf-4559-b34f-1b29e00673a1",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Power Loader",
+        "value": 514,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_impact_light_large.3315f6272c9bb790f96731643232008b4b8c7296.png",
+        "quality": "Restricted Machine Gun"
+    },
+    {
+        "uuid": "5ca6bd43-b681-4640-be83-632714dad681",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Loudmouth",
+        "value": 483,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_annihilator_light_large.421039357ccbbcb9ba1456caa1ed2ae4829b5495.png",
+        "quality": "Restricted Machine Gun"
+    },
+    {
+        "uuid": "ff4efe01-7c90-46e0-a207-470656eb4297",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Ultralight",
+        "value": 958,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_ultralight_light_large.f47680cfcd5c2eb1594fd5ae51ed9caf1bb6d9cd.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "2d10ea1b-703a-4951-a73f-440db54e6f30",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Prototype",
+        "value": 950,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_prototype_light_large.d1e542d85756bfc96bb32e6d2f8b548fbb26b2ad.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "8fc29bac-e9a6-4964-b908-cfaaa6d7727d",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Dazzle",
+        "value": 610,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_hy_negev_dazzle_light_large.3558ece2a70252dcaa8ea9e324539ae1a4fc1bc0.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "aa9efbbe-54d3-4779-a286-4bb0f7476388",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Man-o'-war",
+        "value": 432,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_am_negev_glory_light_large.11ebbe525e92bd0a56dd4d3a7795a31a01823ba7.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "d14376f1-bdc1-4569-bc11-d28325d627e0",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Bratatat",
+        "value": 317,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_bratatat_negev_light_large.b7589c335fb7066d53b1897e000f031d316641e6.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "a6c0b967-2618-4f73-a726-3237ed5b06b4",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Desert-Strike",
+        "value": 355,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_titanstorm_light_large.eb7badc75ecbb1b4cdf35bfb53088731bbe11cb0.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "fab23c98-78b9-42d5-80e5-bb7b7914159e",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Terrain",
+        "value": 285,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_sp_negev_turq_terrain_light_large.9c6c678b0e6bc949c0688f3e1cf39ca73e0a44ae.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "b3c52584-aca2-487a-9ce8-155493a03599",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Infrastructure",
+        "value": 1080,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_hy_vertigospray_light_large.1e6d69be2dc5ac7290ef815ae6a53bb2143103c3.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "1b4bea4f-75a4-4187-bf34-fd2bb2536abf",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Phoenix Stencil",
+        "value": 1012,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_hy_phoenix_tags_red_light_large.6d8ee0ad8e74ea1a6c6af60824445bd1450e34ac.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "920b8f45-ba2c-4bdc-bfc6-554d0ef6040d",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Anodized Navy",
+        "value": 28,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_an_navy_light_large.5dafc320a35bc04e03bbe0c4e4b1b293398d1bda.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "01b45eb1-2799-4492-b16b-ede26a2c54d0",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Bulkhead",
+        "value": 783,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_hy_ducts_yellow_light_large.9d9335325a4a696ec6c2ef704ec1d4b3112c8c87.png",
+        "quality": "Industrial Grade Machine Gun"
+    },
+    {
+        "uuid": "71d1e2ca-60e2-4193-b0e8-d24530ac566a",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Nuclear Waste",
+        "value": 369,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_sp_nuclear_pattern3_negev_light_large.2d4cd96f9a94367d4c22991250eb9350437d8be6.png",
+        "quality": "Industrial Grade Machine Gun"
+    },
+    {
+        "uuid": "2caa8be9-da19-440b-af31-dd834e854c37",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "CaliCamo",
+        "value": 240,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_hy_varicamo_desert_light_large.169bd7cc986fe8b3411c2f8dc484dad4ee9fff71.png",
+        "quality": "Industrial Grade Machine Gun"
+    },
+    {
+        "uuid": "841f330c-90df-4952-80fe-3ee041c0e6ce",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Palm",
+        "value": 201,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_sp_palm_bravo_light_large.3271a8edfb42d163f18a957bc162ddf01f29d30a.png",
+        "quality": "Industrial Grade Machine Gun"
+    },
+    {
+        "uuid": "d197fe85-25bb-4519-b80c-0ead76853c57",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Boroque Sand",
+        "value": 920,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_hy_veneto_tan_light_large.f8a6e484f7ebc5dbf1f52e0ef9b0c4d7c5054a0d.png",
+        "quality": "Consumer Grade Machine Gun"
+    },
+    {
+        "uuid": "e9c50ea2-1a14-4364-ad1e-b16778498ad8",
+        "id": 28,
+        "weaponName": "Negev",
+        "label": "Army Sheen",
+        "value": 298,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_am_army_shine_light_large.884085f4a13b786f0ac7234d616ff01a848f28d5.png",
+        "quality": "Consumer Grade Machine Gun"
+    }
+]

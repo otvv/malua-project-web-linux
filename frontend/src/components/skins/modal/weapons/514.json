@@ -1,0 +1,272 @@
+[
+    {
+        "uuid": "4dc1d14b-b247-4513-af9b-deafd9bfcd26",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_survival_bowie.01addb54d400815308b1d312290594a3177dd55f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "262176da-e409-42ad-a0a3-91db73896558",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Lore",
+        "value": 1104,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_cu_bowie_lore_light_large.83091fde14cb5dea85805779420387bdd18c6126.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "7b875954-f549-45a8-b201-220f98e60a5f",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Black Laminate",
+        "value": 1109,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_gs_bowie_black_laminate_light_large.8a560187eab8572277baf66df778ec7c7f44ee4c.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4751324c-4e1b-4415-b11b-35d9c2d4e524",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Autotronic",
+        "value": 1114,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_gs_bowie_autotronic_light_large.a46c7016c6c3f560a37d1b275d75eb13409b3bd0.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "8c3e3633-2cc8-49c0-bb9a-844cc4dc45ff",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Bright Water",
+        "value": 579,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_hy_ocean_knife_90_light_large.d668984765aa68bc3aeed67b82500c41a8e2f172.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9102c164-3a8b-4f6d-99a4-a64dbf75be41",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Freehand",
+        "value": 581,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_am_marked_up_90_light_large.bd2b6bb2dd167a95ec825080b3d660d30bb0746b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6ec09151-403f-40b5-95fb-e3e1f9056bb1",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_am_marble_fade_light_large.ee64f39331b11b42f6ef7e00f570bc0da09cf0ee.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "cdeafd91-d521-4e67-9a8c-a0f745ec15a7",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_an_tiger_orange_light_large.a8cf2f4214c950f59798f15d0013f7a33e6972fa.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "27c3c0f2-9a43-4b50-9e07-ac6bb93a0ed5",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_so_purple_light_large.af202da5d81b8667477667b6db332769a96bf80e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "daf24a9f-0c94-4154-888f-8e704f485b36",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Damascus Steel",
+        "value": 411,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_damascus_90_light_large.b53066882790815ba15f508ac268f29cd6cedf2a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "adfdd3f4-e3ae-46c7-bc29-76e548458911",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_steel_knife_light_large.3a61b0cf23bfa737be1cac012f4cdcde14347921.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a948ff6c-90da-4d45-a1de-084931d1c9d9",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aa_fade_light_large.fd85e3d9fbd875ca2551b3758f5374e33d167fbf.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f9b89f59-1961-4624-81c9-2772536fb815",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_am_zebra_light_large.2ecbba9bd0e985ca0ae66ea95e7ef497358389d1.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d1591cdb-0511-4e45-bb28-2d4605eebcd9",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_hy_webs_light_large.d03e755f33f66df9ee9d8b1cf50b633ff458978b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "93c4749c-723d-4e8f-9fad-cdf2d12a2f04",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_oiled_light_large.5d61d6e094f21b2e857f06fc6123ad4d1fe96193.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bfb17a75-47d6-468c-8286-5bb0c1fb027f",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_so_night_light_large.d0d6c2e5a296631fd0531172663499095030c2b2.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2a22d897-31f7-4ba9-9e3f-76af6f2fed64",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_forced_light_large.dc9107ac17070401b6be113e1af07b1fe257c951.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "89ab4808-092b-4dcf-8016-510f71973d11",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_blued_light_large.d24c03eb5e7feb65ba397f5aaca5f1304acefc62.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "da6a53ff-ddde-4145-a13f-edad295033d9",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_hy_ddpat_light_large.41ce1d0d829bdfe39882a843045a2a940da6be8f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "aac3fedf-f9ff-453a-afb3-2f39bd42f474",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_sp_dapple_light_large.491c0483853ac7568ae0d98a09b5ba6e9b757411.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b2207d10-6557-40a9-b18a-b83afb206a19",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_hy_forest_boreal_light_large.439a6bd0f88b3caa73d7ea847452a116ed1ecec7.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6c0399db-9da9-4321-a266-7f5c91faa267",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_sp_tape_urban_light_large.8038d2ef3b412fc5151061528702309da2a71545.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6607356b-d7c2-4285-822a-7ead2776c6da",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_sp_mesh_tan_light_large.360aa198bded3bec8d3c051bd1d6dc7270b3b91f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "8356b679-fbd9-419b-a071-8cc34adfd329",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s851_phase1.png?id=0382d26238e6ffe32f8a",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5b75c020-8747-4305-bca8-205e54eb5057",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Doppler - Phase 2",
+        "value": 419,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s851_phase2.png?id=ed4606ebf3da64e28623",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5ae92b6a-e0a0-44ce-be01-02b9cd5fdc25",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s851_phase3.png?id=1d7440fb985319bbb16e",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "46d3b473-ef54-4e4d-bf80-0835985cc081",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s851_phase4.png?id=876a9d08455cc3503676",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5e53edd4-023d-47f4-9867-0784986ad0b0",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s851_ruby.png?id=7b405efaed5ca7ad61d2",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b59f4411-8226-4a9e-9b40-65bfd810d734",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s851_sapphire.png?id=bca889c714c336df6b6e",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ced2a40d-1918-4d1c-9f12-49fe188a4a80",
+        "id": 514,
+        "weaponName": "Bowie Knife",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s851_blackpearl.png?id=0f27bd1b7dcc0371168f",
+        "quality": "Covert Knife"
+    }
+]

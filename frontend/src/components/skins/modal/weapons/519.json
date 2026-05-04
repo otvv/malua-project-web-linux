@@ -1,0 +1,227 @@
+[
+    {
+        "uuid": "ef897a35-09f9-4448-943b-b48f8e8b5c4a",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_ursus.34ecda985c12503df5b88e9bda1826f61cc9e80a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c01edf3a-0ecb-4bb2-9197-94defd5d6064",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_am_marble_fade_light_large.9bb670990070eff6f22a1a358459fb69cece0b5b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "72589ab8-3c5d-438d-a8c9-8faaf1051919",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_an_tiger_orange_light_large.34be676a93f4d6f275e0690d64a3c601e1612dc9.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "24df5e9b-f453-454e-bd42-f7b0571ab951",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_so_purple_light_large.88bd0def19100cd3e17f1d568206d2816614daa5.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9523ce72-b5e6-4087-a801-9e64f447d751",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Damascus Steel",
+        "value": 857,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_aq_damascus_prisma_light_large.3d36b7616e102e1648b9b18ed186dd9a4f2f49ed.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "99b9b28a-8a89-498a-b97b-dfa0c55f6fbb",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_aq_steel_knife_light_large.cbc964450e298df0282216027edba827c45c0964.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "155404b5-a669-4e66-a933-f4f33437b280",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_aa_fade_light_large.0b6899d17a60306b6279e6fbee981acb530665fc.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "65763553-b44e-416e-90ee-81130eff7306",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_hy_webs_light_large.831c519791469faa767e2ab582d8e7a8f2631267.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "8e4f463f-5f12-4cc8-9208-b146c46e6845",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_am_zebra_light_large.8ee56f4ebe2527ddb5789f4e7be3352873f597fa.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a726fbb7-4ca1-46af-ba76-a2c009cc72ab",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_aq_oiled_light_large.531627867f18fc4a9ef83b92740d96c4099364df.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "daffab18-ff68-44c1-a129-6e77acc8395d",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_sp_tape_urban_light_large.4c9e7e5dc1c789a5a6bf4452e6111f3a667d4f65.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f2fb5a61-fac8-4966-9686-d43c1fa4e3dd",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Night Stripe",
+        "value": 735,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_sp_nightstripe_light_large.b92f5208e7dc6057d78a7e54b8856d202c899f49.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "fc7a2b61-2542-4b68-8da5-2ba817f036b4",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_hy_forest_boreal_light_large.40609f28dc570aeed3ef2906c0c2bd44665c5889.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "947a4b01-c8a5-4d0a-a244-ab36d7e20706",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_aq_blued_light_large.a9cbb774b7ca472768b3aee15700060f138ab7b4.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c9ef549a-5c87-4d5f-8ba5-963874012409",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_aq_forced_light_large.805b576db8e7c270129ebbf01326cacb00100f63.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "012ec35e-429d-4bb4-bf38-cd705ae6e4f6",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_sp_dapple_light_large.ea36749489631667cbad6045029f59b54a0705aa.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c2aae71a-69ed-4eac-9f0c-59686945ad4d",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_sp_mesh_tan_light_large.368b82e4e9f516c85137ff87782f3989541326a7.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9928b36e-845b-494e-88e2-86473ac56528",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_ursus_hy_ddpat_light_large.b32fccdaab716eabc5bdab046650f7c319d6d5b8.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a7768074-2789-4865-8fa2-e2e2689819a9",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1092_phase1.png?id=4bd55a600ec1ecad53af",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "883e6dae-a1f2-4ddf-92f2-5275927004ac",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Doppler - Phase 2",
+        "value": 419,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1092_phase2.png?id=10c2f739e8fdab72aa69",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "fc5d4076-bef6-4550-ac8c-ae77a4e72a92",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1092_phase3.png?id=b84d8c921d6ae559371e",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "818fb4c0-27c7-4e9a-b3b5-5d996c87ebb2",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1092_phase4.png?id=d89ae9d2f4da65e1c8ad",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "440bddcf-7607-4d68-b539-355d3c8d98f8",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1092_ruby.png?id=c7bce697a076a160cd64",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e6b72e00-b1a4-4e9a-9bfa-dd076858f06e",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1092_sapphire.png?id=0189bc32b85b26bf260e",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d7716191-727c-4ae5-9b77-efa957eefa56",
+        "id": 519,
+        "weaponName": "Ursus Knife",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1092_blackpearl.png?id=bb9556803e87c13196c9",
+        "quality": "Covert Knife"
+    }
+]

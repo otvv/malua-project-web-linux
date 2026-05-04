@@ -1,0 +1,299 @@
+[
+    {
+        "uuid": "2152fda4-0712-457a-b311-8faec910200c",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Angry Mob",
+        "value": 837,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_five_seven_angry_light_large.54986e86178e0462d34fe78b6b726292813541f5.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "89a3cb12-7296-4e17-8ad1-fcecc8c01d28",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Hyper Beast",
+        "value": 660,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_hyperbeast_light_large.d2ef18b57b0b821624e42830ee4c47e241ed4476.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "b7414afd-1f57-4718-9750-baf84410903e",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Fairy Tale",
+        "value": 979,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_five_seven_diary_light_large.e09a26df236581e02db30cdbb9c55adb2a4d2292.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "ae19ac89-359e-432c-8041-35b8a776f901",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Monkey Business",
+        "value": 427,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_banana_light_large.2d78a6614cb329ada893c8d028eb5c2b485f26f0.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "9b70f780-7331-4394-a19b-a5d63c78a129",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Fowl Play",
+        "value": 352,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_aq_57_feathers_light_large.aa942f28d5fd868643b54ba0c317703d8b615754.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "9d1f75e1-6424-4162-bfa9-9709043ae620",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Fall Hazard",
+        "value": 1082,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_vertigo_fiveseven_light_large.8d09586ce7da49599697204b4b7fc32930b47836.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "10564ff7-21fc-4cda-aa36-730d21d5ae9a",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Boost Protocol",
+        "value": 1093,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_gs_five_seven_efusion_light_large.78c44b69ab40456b90279ad0252463e9de816e78.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "71720f49-cd9e-4b90-ade2-2e95b79dff33",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Buddy",
+        "value": 906,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_gsg9_light_large.870dec48f951d3a6420bdb332f0acd25ee1254b1.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "b2375f82-6dcf-48b2-88b2-32b086dc74d8",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Triumvirate",
+        "value": 530,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_augmented_light_large.eb79857bc2e4b80f4edf61a0c5a72fbae80f3a20.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "33cb8213-3d60-4358-aab8-cbd35d338bcf",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Retrobution",
+        "value": 510,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_retrobution_light_large.7ef4b20b8c9aed4d6461861c9d93b81630f6ac71.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "c0d557a3-2626-4fa4-a02e-a85494417774",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Copper Galaxy",
+        "value": 274,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_am_copper_flecks_light_large.d2af814b76763880470bc7039d5569eb74b26978.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "b9cae386-bf57-4b2a-b451-101e5cd5f52a",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_aq_oiled_light_large.fdaa095453965b2be93f8aa90ae469d926fac4e7.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "9049dbb3-e3f4-4e8a-98bc-f3cd55012c56",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Berries And Cherries",
+        "value": 1002,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_aa_fade_red_blue_light_large.ad6d70f142cc5c31e577880088475e9f079a97a1.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "990fdf62-b0de-46ad-be57-2b2cf0480976",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Neon Kimono",
+        "value": 464,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_kimono_diamonds_light_large.c82060a31b7e4b17c73eb76fd87c09037a3eba42.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "d794cf48-2a20-4714-ac02-781207c4d815",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Flame Test",
+        "value": 693,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_gs_fiveseven_hot_rod_violet_light_large.66cb3d6336f4ea07a7f4ebbd3192c59f0afca3fc.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "4652d761-d04e-4d97-909a-fb5b3e26721d",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Capillary",
+        "value": 646,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_vein_light_large.464ec691b3c3c9c828aa1a8d4e2b076daa4b7a4f.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "5feb889d-0110-4f0c-9620-904dc2a46654",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Scumbria",
+        "value": 605,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_aq_five_seven_scumbria_light_large.bc05fc6435b84525a0ab140bc72e032a98dab710.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "9ff39875-a363-4a8a-adc9-04ab4bfb9808",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Violent Daimyo",
+        "value": 585,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_five_seven_daimyo_light_large.d394398cae1977546887145dcf6a4892d2ed29aa.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "74ad6d95-56f5-41a3-b9de-90b0c42a6d7b",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Urban Hazard",
+        "value": 387,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_urban_hazard_light_large.456966d23faf1034c51b8130b7a70294af087026.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "b8484e50-7f43-43c2-919b-a35b934ed81e",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Nightshade",
+        "value": 223,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_flowers_light_large.4f94edf6ac032c15fedafa6ba1f2425a4ca8bded.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "8bc8743b-77ac-4f9e-8570-cc6acbd7332d",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Kami",
+        "value": 265,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_kami_light_large.ce4939fe41b30c6143f487879a57e4f5f227e811.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "30f88ce0-15e7-4504-937a-3e1ce3d5e858",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Crimson Blossom",
+        "value": 729,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_bud_red_light_large.d149fac98ea236499e2fa159b82420a8eedefad4.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "e5aa2ae8-5b92-4132-b4e7-559178229635",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Nitro",
+        "value": 254,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_so_orange_accents_light_large.b5ab3af11de68b90ca8b18e359ac0338d1a2d7f4.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "31dd72c3-8aa3-461b-b31c-8aff433fcc7f",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Silver Quartz",
+        "value": 252,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_am_crystallized_silver_light_large.1c5e2fb5a3541523f1ff3a28f4138d83eed3a67f.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "7b1a55c4-fa52-4a58-be85-33056f5347b7",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Withered Vine",
+        "value": 932,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_sp_moro_textile_purple_yellow_light_large.47cc81847e4fd47b359bf0cfea09910d03a32bd7.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "6e25d996-2d1d-418f-a7ac-fa2e2ffd50e2",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Hot Shot",
+        "value": 377,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_so_grey_nuclear_orange_five_seven_light_large.1f99a49ba11741a36385ef0934d8066624d4d257.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "32590629-1e0d-4a19-8a5c-8de46cc5941d",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Orange Peel",
+        "value": 141,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_sp_tape_orange_light_large.d784ec0c92136e9f3f33ca09444ff4fe6a1f5300.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "6fed4903-af0d-43ad-ad29-b32a4f43a491",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Candy Apple",
+        "value": 3,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_so_red_light_large.29ae7b2264bd2a390ecf51a51293d2c2202fdea9.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "2f8a663a-06fb-4b86-a966-3a1a53b7eaec",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Coolant",
+        "value": 784,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_ducts_green_light_large.687c4ada7a094872eeb5b48cbff3ebac68a8d7ed.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "72e2845d-f721-4f98-abf0-eb135f1b9600",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Contractor",
+        "value": 46,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_so_pmc_light_large.eb6a08d487f3423d956898bae7b84433b1f46d25.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "8c1ac291-dd5b-4097-ba29-d7a049d9eabb",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Forest Night",
+        "value": 78,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_forest_night_light_large.fc245886bed9e789350127f844afe63f34f64936.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "8ec1ce74-4992-44a6-a4bf-577913326904",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Anodized Gunmetal",
+        "value": 210,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_an_gunmetal_bravo_light_large.6aaf03603a7ef748f5395af2a738f899f423522b.png",
+        "quality": "Consumer Grade Pistol"
+    },
+    {
+        "uuid": "62e26469-e7f2-4c4c-b234-ef27ff77da36",
+        "id": 3,
+        "weaponName": "Five-SeveN",
+        "label": "Jungle",
+        "value": 151,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_so_jungle_light_large.d98e255283a8cfd09aacb25405a26e580e3d129f.png",
+        "quality": "Consumer Grade Pistol"
+    }
+]

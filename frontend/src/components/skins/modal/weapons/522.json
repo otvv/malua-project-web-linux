@@ -1,0 +1,227 @@
+[
+    {
+        "uuid": "a0b5ad09-0314-46a4-b80c-80bf5853ccae",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_stiletto.1aefe4ca0e433fc8c3f924ba362283e0666b5f8d.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "81832de9-584d-44c0-93b8-db5fe578324f",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_am_marble_fade_light_large.2ef9080611c4539f02389c5d92af0bf626925a46.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2699be85-61a3-4ed1-8a1c-ec91c70f9884",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_an_tiger_orange_light_large.dd59dfda5a30c3e7b0dbe256831ec91c4405bc34.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0c9ea937-a781-4d27-82f9-889b1372d458",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Damascus Steel",
+        "value": 857,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_damascus_prisma_light_large.d7378dcf37ca47334e789fed3691b11c9571a3a3.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b618bd0b-e618-49be-9d9e-86415d94dea2",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_so_purple_light_large.2a718be5434a5ff1b2b1a2d271ae5cc30030d7ef.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "24ea4e6c-2c14-403d-931a-4837d0c30ffc",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_steel_knife_light_large.f714d7f3d6c1e0381dbfcd8f221f7edbe8bd2f28.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ac2f5a72-3826-4949-9742-e081a9a6f191",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_hy_webs_light_large.5faae0b5462955594df775952fbd16200c430af3.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "055dfc37-107d-44dd-9a54-76c7e7ecd80e",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aa_fade_light_large.ce3b2f6ddc0a2c5443128f535d8fa1be1a80d7fa.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "613cb26a-cf23-4fa5-a5b1-1a6fb864bebb",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_oiled_light_large.fe6a14eecfeddcf502472e7071aa7ee33a3fd727.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "23cada5e-e7d9-49ae-87c4-b57e54a46c83",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_am_zebra_light_large.1c3f0dc6443fdf2cd48cc7e8f7f8c1a3ebf20d9d.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f3b3cad5-6650-47ed-86ed-8b2642ad9f47",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_blued_light_large.0366c863267920e2d9155d01429f383c7d95b94a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "527f7254-ef39-4348-9968-5a3b2444dc53",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_sp_mesh_tan_light_large.6fb75993eb2008e63935a1e580aa8ffc8eceff9a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "70c1c211-11b3-48ad-9cec-84a616c7fd49",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_aq_forced_light_large.7c6f16082961e6365d54670283906c6b58da3c33.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "dd695306-daf3-47e2-9992-fd704d8f4aa1",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Night Stripe",
+        "value": 735,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_sp_nightstripe_light_large.e8a72a1a946f0853352ed95bd28bdde5e30be953.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bf8b34bc-250d-4651-a941-e1184ae23ae6",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_hy_forest_boreal_light_large.be53b843654a400a4c5a6787c6237f6909e296ce.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6f309719-207b-4e87-a59a-4c09ccd32071",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_sp_tape_urban_light_large.6471b71d87d11a53873fd901d17e689bf945c15e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ede8817b-d526-4523-b7f0-503f78020755",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_hy_ddpat_light_large.5299dd8f879d980863dbf503343dec7445d60716.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "3e73d4f2-e1e4-4693-aa6e-e9ec3749ee65",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_stiletto_sp_dapple_light_large.021b56519632ef7e817de82729f958d7729c613e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4286d180-986f-49bb-baa7-27a14e542b46",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1080_phase1.png?id=b510556b345f3b533e90",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "abc0090d-80b6-46dd-abbe-f7aeb9e9b25e",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Doppler - Phase 2",
+        "value": 419,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1080_phase2.png?id=279cb311cfd9dcf6bee4",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ab88c78e-779f-4160-80e0-e250e3fdeb52",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1080_phase3.png?id=3f2e5ee447f504169b9c",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "7b8d8d2f-b8f1-4a2f-9c54-5482f6438795",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1080_phase4.png?id=621c2393acbac9fa2708",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "3447d5ec-d083-4a13-bba2-4b741e9c916c",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1080_ruby.png?id=c854fa2faa4172d68008",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "eba44931-b3af-4493-ab86-88c587b466aa",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1080_sapphire.png?id=0c1b636b662d6ee5f2f5",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c3f66ada-1c48-4ebc-b562-b7ce4ee84952",
+        "id": 522,
+        "weaponName": "Stiletto Knife",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1080_blackpearl.png?id=493b8a4699bed349ecd7",
+        "quality": "Covert Knife"
+    }
+]

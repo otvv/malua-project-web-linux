@@ -1,0 +1,281 @@
+[
+    {
+        "uuid": "d3f72557-98c9-46c0-84c0-b9534a8dde6f",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Food Chain",
+        "value": 1037,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_food_chain_light_large.5895f4cc864387a61a3783470037e6ed1953f7df.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "259b771b-2de4-42fa-a5e3-c2640beea7f2",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Hydra",
+        "value": 910,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_hydra_light_large.b7763a811b3bc9d19d04502fba0edc6cbe355766.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "394ea8b5-eb43-4d97-b6fd-9cc12419336c",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Airlock",
+        "value": 609,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_narcis_light_large.c63eaf3fab8c65ec3ab22da8205cbe3c51366d7a.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "0ba4503c-e420-4db7-80d5-3469bb98f440",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Wild Lily",
+        "value": 734,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_island_floral_light_large.d8f6334a2905b146dd2107e592068bdb333f49cd.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "d806965c-290a-4965-b7fd-2e147f2c1428",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Mount Fuji",
+        "value": 1094,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_aa_mp9_fuji_pink_light_large.5c7bf05ff05d82c34b6d71a3aa97537e55cec97e.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "7e79fb30-2e79-4a10-b9fc-232b3871ba1c",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Goo",
+        "value": 679,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_goo_light_large.3cab8ecb356ee5f2549c1b148f5961fdf5d9cd76.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "545fd663-0766-4481-a293-9c4a7545129a",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Ruby Poison Dart",
+        "value": 482,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_mp9_nitrogen_light_large.3a0b5a7cd31a7cfd5f0d90b9a0a1dbfcdb642cca.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "c346facf-0360-4f46-bf15-957fd6886356",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Rose Iron",
+        "value": 262,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_thorny_rose_mp9_light_large.a187f13404eba96de622f4c94e85078fb18d8d7c.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "9ef13647-ea0d-4526-bc96-a11e37681e7e",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Hypnotic",
+        "value": 61,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_aa_vertigo_light_large.41a7195e0a6ba44c2fc64d64bee0635444b0c569.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "c0eb0d43-147f-443c-b0d4-5732faee5451",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Stained Glass",
+        "value": 867,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_stained_glass_light_large.24d1cb9e7a99e9b0e5663a245d65b56c42f36a0b.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "dc178a2a-9ce3-435a-b178-00157f862405",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Bulldozer",
+        "value": 39,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_so_yellow_light_large.dfa50bdf02bccb9002d09c891d41ba65b1ce2d9c.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "690dc7ae-1900-4662-80be-31de4c73ed3b",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Modest Threat",
+        "value": 804,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_gs_mp9_colony01_light_large.f8d9792131b786025a960ddeda2eeb77f97c55e3.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "73d83822-93d9-4dcc-94ad-ce5280b27157",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Capillary",
+        "value": 715,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_vein_light_large.d0189b21fba4603ff88d407d6af0e63093f22ba7.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "0b57661b-9451-4674-9375-2ee2a8f3c2c4",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Black Sand",
+        "value": 697,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_black_sand_light_large.37dce08f403ec73c1e16b3dc46068b22293e9514.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "6d8a4d63-1fa1-4d16-a152-977f63168274",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Sand Scale",
+        "value": 630,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_aa_hide-mp9_light_large.77be0c0ed8276383c6a2d42842df3108bbdd173b.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "27c8baa6-e45d-40cc-8415-9806b5248823",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Bioleak",
+        "value": 549,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_mp9_bioleak_light_large.d9b0d0e9fea2104871e0510bd704bfa03cdd6056.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "993a5eee-4535-4aa0-87c4-510e9e0900ae",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Deadly Poison",
+        "value": 403,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_deadly_poison_light_large.0776976e709ec7b503dd7e47b8c962338615b5da.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "af1becf5-3d70-45f5-addd-a464ae42abe8",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Dart",
+        "value": 386,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_chevron_light_large.698ab583537e3ed4b7661d3fcf75be62f0cdfab9.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "94799362-605a-4139-ae26-7b2334f2879a",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Music Box",
+        "value": 820,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_mirage_flowers_metalic_light_large.19bdfea08b854122c4e7e71852bddda9a59ed3cd.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "90b5407a-4646-471b-8812-d64574a73737",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Pandora's Box",
+        "value": 448,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_aa_pandora_light_large.837ea28260252a1f654c272289007ae3c4c3e7ec.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "1d61e6a7-9704-4698-9132-d280dcc67bce",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Setting Sun",
+        "value": 368,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_hy_nuclear_pattern2_mp9_light_large.d5f2b29c15286ea4c63cd60061d1073ec7e84087.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "18c32c9c-689a-4701-aa5b-b66f116720f7",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Dark Age",
+        "value": 329,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_metal_inlay_light_large.a49681fb3a39bd378051dd22ff9f988fd831d41f.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "52280319-6b98-4dd4-a2d1-2c1b31cd6369",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Hot Rod",
+        "value": 33,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_an_red_light_large.051bb03c037d5218c15c2b9f9797b21b5d0744a8.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "c8187e8a-eac9-4b9d-896d-919f67356c93",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Old Roots",
+        "value": 931,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_sp_moro_carving_yellow_light_large.c86dfd42974acb136ffd14f9b9a283fdb80ec135.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "8328b919-2baf-4504-99e3-402d93a8136a",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Orange Peel",
+        "value": 141,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_sp_tape_orange_light_large.77854282ffc131b7bbe878c140b3c41bfb735242.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "a5a39aa2-a222-4c11-a09c-8f8ed619ea3f",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Army Sheen",
+        "value": 298,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_army_shine_light_large.59520d9221e58bdc6b6946943cca0823b7460509.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "e8f5a909-894c-4db3-b5a1-77cbb97a7995",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Slide",
+        "value": 755,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_hy_splatter3_light_large.e87822a5caeb6a7181e0e866612c755f78f66be1.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "d91b2738-bd90-4ed7-8d59-b3e78607e5e1",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Storm",
+        "value": 100,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_so_stormfront_light_large.7ba67d4546c43cb6dfb9e46eb68d23d5b57471ae.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "5076f6df-fbf3-4acf-b673-d81c72b83a7f",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Green Plaid",
+        "value": 366,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_hy_plaid2_light_large.05b87c77e5f3c91c317f92fad7078891f44a4538.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "30e870f1-b1eb-4de7-bdfd-7ca84a229f4a",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Sand Dashed",
+        "value": 148,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_sp_tape_short_sand_light_large.893d0bacf03750448cef4be1f649591b9622907e.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "a4453b84-2599-420e-ada4-d23fa453cf9c",
+        "id": 34,
+        "weaponName": "MP9",
+        "label": "Dry Season",
+        "value": 199,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_sp_tape_dots_bravo_light_large.e6624212c506215295ff5bf1b4c9bd7523db3ab5.png",
+        "quality": "Consumer Grade SMG"
+    }
+]

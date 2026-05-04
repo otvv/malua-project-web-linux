@@ -1,0 +1,173 @@
+[
+    {
+        "uuid": "50264221-1166-4ba0-8bdb-bea2bbd8e5fc",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Aztec",
+        "value": 902,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_aq_m249_aztec_light_large.81173c5b61be806039e643a0c273e4dce33bd5ee.png",
+        "quality": "Restricted Machine Gun"
+    },
+    {
+        "uuid": "02f01c37-f81d-4b10-8cc8-1fe534da472e",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Emerald Poison Dart",
+        "value": 648,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_sp_m249_frog_original_light_large.7331eb3d676ebdf8df71adb58b43aea63660f785.png",
+        "quality": "Restricted Machine Gun"
+    },
+    {
+        "uuid": "7350db23-8efb-4e25-96bf-6bcf44870e28",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Nebula Crusader",
+        "value": 496,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_gs_m249_nebula_crusader_light_large.60f60c9e8203575e3e3f5574db51132e2b2fe7c7.png",
+        "quality": "Restricted Machine Gun"
+    },
+    {
+        "uuid": "e2c54249-f5b0-4517-8c7d-0b53b2bc05a4",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "O.S.I.P.R.",
+        "value": 1042,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_gs_m249_combine_light_large.6f8724ef896506ede0925a425da05969f19aafdc.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "6be107cf-23e6-48ec-8dd6-8fe8507f58d9",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Deep Relief",
+        "value": 983,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_cu_m249_deep_relief_light_large.227a01518f45cbb6a43981e36b76f60785f9085b.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "3bc880d7-1c3b-4429-ab47-ac2d83f8f2b3",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Warbird",
+        "value": 900,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_gs_m249_warbird_veteran_light_large.29a2ee22222b037e6825fb0c230aa799718e4115.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "b1e258a2-d6e1-4e3a-a6f5-a6cfb2d3005e",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Spectre",
+        "value": 547,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_cu_m249_spectre_light_large.b0a23c44e56390b4bbdc2c389911f6cc2b42da3d.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "964e4a58-6475-4d24-a92d-bf522e47e906",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "System Lock",
+        "value": 401,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_cu_m249_sektor_light_large.c957e70c656024b2c062f7af2031a76cb3c83f1c.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "cccb9f8e-4949-4dee-b4a5-835f023f2caf",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Magma",
+        "value": 266,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_aq_obsidian_light_large.c8a38c9354c2f4531f0802eaa49caa9878bbf9ed.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "cfad91f6-33c4-419b-84f3-c0803faa5305",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Humidor",
+        "value": 827,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_sp_moro_carving_burnt_light_large.665c8aa42875f46a38e1fe38d3ee4ea7ea65b1bf.png",
+        "quality": "Mil-Spec Machine Gun"
+    },
+    {
+        "uuid": "96235b79-8aa4-4826-97bc-8d805e1d0773",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Midnight Palm",
+        "value": 933,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_sp_palm_night_light_large.8d8112a73e3c854dce2126fa766ae8a93532f1aa.png",
+        "quality": "Industrial Grade Machine Gun"
+    },
+    {
+        "uuid": "f5e771f7-dda4-4e45-99bd-f4195554b7ba",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Shipping Forecast",
+        "value": 452,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_hy_zodiac3_light_large.299cb04c12c20280930562504161309fbb9c1e45.png",
+        "quality": "Industrial Grade Machine Gun"
+    },
+    {
+        "uuid": "0680db72-d8c5-4be5-85ba-8d24ea0cca97",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Gator Mesh",
+        "value": 243,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_sp_mesh_python_light_large.39f20f5499a7d68e8b90a9e064c993e9a803d721.png",
+        "quality": "Industrial Grade Machine Gun"
+    },
+    {
+        "uuid": "423c1286-ac1f-44d6-81be-284f05ba117b",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Blizzard Marbleized",
+        "value": 75,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_hy_blizzard_light_large.d247530ad94ee2a0c164116b89fd3f38a43dbf30.png",
+        "quality": "Industrial Grade Machine Gun"
+    },
+    {
+        "uuid": "e0861cd2-5980-4a2f-8997-a3b16b2fa279",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Predator",
+        "value": 170,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_sp_zebracam_light_large.d0d25a58f276d6a538eab874f1f4aa5724f37b6e.png",
+        "quality": "Consumer Grade Machine Gun"
+    },
+    {
+        "uuid": "9b79c10c-58d3-42a0-bdd4-d2e7d039057e",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Jungle",
+        "value": 151,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_so_jungle_light_large.1e5297273a0d6f70737aec6bf8ce370de6b87fad.png",
+        "quality": "Consumer Grade Machine Gun"
+    },
+    {
+        "uuid": "a25a5b98-e596-4ea3-86e3-1da33e4eb2c2",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Impact Drill",
+        "value": 472,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_so_keycolors_light_large.bf0fe2b5d5b5c65358519ebaeeed6da72032bf4b.png",
+        "quality": "Consumer Grade Machine Gun"
+    },
+    {
+        "uuid": "bdb27bba-9dbe-452d-8c20-7445ba5a9981",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Contrast Spray",
+        "value": 22,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_sp_spray_light_large.1954bdc0dc1e10eebeece7f34e2b9f8e51596d55.png",
+        "quality": "Consumer Grade Machine Gun"
+    },
+    {
+        "uuid": "cf40fd45-691d-4c9b-9ae2-dbf961fa0e59",
+        "id": 14,
+        "weaponName": "M249",
+        "label": "Jungle DDPAT",
+        "value": 202,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_hy_ddpat_jungle_bravo_light_large.d93812236444afc67a0d994cd3f6faa421a57114.png",
+        "quality": "Consumer Grade Machine Gun"
+    }
+]

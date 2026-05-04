@@ -1,0 +1,317 @@
+[
+    {
+        "uuid": "905f746e-afd5-4afe-a74f-0838b0312a34",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_flip.ebfc00735792b1e2947b30a321a07215dae8ceed.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "63520b79-bcf2-4eeb-ad3b-8f94eacdbab3",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Lore",
+        "value": 559,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_cu_flip_lore_light_large.df03b3186c105676470d2ac73e4bea375fedbf77.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e65722b7-cbdd-40a1-9b71-9155b9d61710",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Autotronic",
+        "value": 574,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_gs_flip_autotronic_light_large.882d012ef1e758c9e323dd5d6202c49fbe894e05.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e3a83243-85cc-4007-97b0-5edb19d8cadc",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Freehand",
+        "value": 580,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_am_marked_up_light_large.6420438f1930c72f9aee1fb6d2e1e41238caf340.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "fd170b01-99c2-40f2-98fa-c267bb84aada",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Bright Water",
+        "value": 578,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_hy_ocean_knife_light_large.6d35f9bc8d0ab2da7112155cf37ef782e542ef31.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "fa952b52-dcbc-45a7-927e-5f7b377ac634",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Black Laminate",
+        "value": 564,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_cu_flip_stonewash_light_large.e6f71d193d2965b443ede7015911feedfea6e5a8.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1ad93088-b9df-422d-b05f-84e59fb7058c",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_am_marble_fade_light_large.57a993ab6632bab742dc96e8ebedf98473fa5b48.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "73838a27-47d0-461c-84e3-fdc872a72936",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_an_tiger_orange_light_large.441c0d2cf427d90fb079e82af0d074c1bfad13e4.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "cda743df-b88e-415d-8729-e6a205d379d7",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_so_purple_light_large.6a76bb50dd3ebf15bd94cc5e0d39daf34b02270f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6b843f75-fdf6-4170-a1bf-df3481f7b2ef",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Damascus Steel",
+        "value": 410,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aq_damascus_light_large.9b08bc30249a431d8ea084daf7d9fcb8da5e0e19.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "333fcbaa-110b-4582-b8d6-5e17bce4a83f",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aq_steel_knife_light_large.3be134e0b20c32442d7b508a2ec065af3c59ea89.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f1c6a980-4fa6-4162-b4d7-45d955b550dd",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aa_fade_light_large.811f8e8af2e00675c047a9c1e9f04bbe5ace83b1.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "8d8c1196-6c09-472f-9b02-18ecc742f6e4",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_am_zebra_light_large.55467fb65475d82c452bc96180d101ffd7e76192.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "86ee09f8-187d-4a34-87fa-92637fe1ad3c",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_hy_webs_light_large.e0bcc9e1d004bff0af07abc34a609c6654835ce6.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "aaea20a3-e08f-457b-b4da-03f881e14646",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_hy_forest_boreal_light_large.d4878851507a64925cb11000bfdab55caeb3e07c.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f9eca426-f71d-41eb-bc9c-2cd987b2aacd",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aq_oiled_light_large.14589d4f366330490824f36e7f75219478e2cabd.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c2a79091-5e70-4392-86b6-b9ce56669e03",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_so_night_light_large.cd613460bfdf848992e25f0a45aa3ab17b6d46b6.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4f884fcb-7ace-4be4-8ead-9bd53c3b1fab",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aq_blued_light_large.495efc692fdc551331e407697152d98c990272c3.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a12819b2-535d-480c-9ae1-1067c3c213ee",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_sp_tape_urban_light_large.bd1c04395ea024acb863acb628becf77edd4e4eb.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "30613b88-85cd-40cc-a0a8-3a9fe3f2d9a1",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aq_forced_light_large.e9a6576a928a11fc3771b302f2b66539db29b503.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5359f778-0af1-4969-8cef-9574a381f4c3",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_hy_ddpat_light_large.882d1120e7e558969121902d618da80b88105c3a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1f669dac-2735-46e8-bc46-1e242d8f9563",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_sp_dapple_light_large.fdfee11d1148f81582f438cf1fdf175717c71a0e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "6a66b45b-af14-41d1-93bf-ce534b81294f",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_sp_mesh_tan_light_large.361c846ac7bce512f7077df8b8bd62da838ebe2e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d17898a5-d11f-4998-99ad-3fe18dece3ac",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Gamma Doppler - Phase 1",
+        "value": 569,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s780_phase1.png?id=d4b79eeee41204315450",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "91cb9cca-ed6c-4de2-a9a3-07bec8641476",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Gamma Doppler - Phase 2",
+        "value": 570,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s780_phase2.png?id=eca3c9604c28d027a355",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1e38f53c-0835-4853-a2d6-b2a3d79e8a0f",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Gamma Doppler - Phase 3",
+        "value": 571,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s780_phase3.png?id=303a339af3535f5cacc5",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "67f5c943-8dbf-4bcf-b78a-5f1321bba1f0",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Gamma Doppler - Phase 4",
+        "value": 572,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s780_phase4.png?id=5d1be650451bb6f660a5",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b41faec0-d768-46a1-8629-e2e38d126a84",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Gamma Doppler - Emerald",
+        "value": 568,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s780_emerald.png?id=460add29a32e9f096aad",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c203c8f5-3851-4368-a6c1-60726ed6ec5f",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s530_phase1.png?id=6227a4d0dad3abac3acd",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "586ce18a-83f4-4f13-a1ac-08bb845dd85d",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Doppler - Phase 2",
+        "value": 419,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s530_phase2.png?id=1136f61e719aa7382f14",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0ee2eb79-8535-4ba5-8af7-23981d9f0c0b",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s530_phase3.png?id=63b6bf7946978bc25a4d",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "f860922b-1b5a-4045-adf6-f27f167d5544",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s530_phase4.png?id=5aae80845ffd74f76e9f",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "02e07be2-e042-48c1-b374-1b697a95b11f",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s530_ruby.png?id=0738a9899b7ef4abc8ca",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1d14b06e-bafc-4056-ba5c-f396056f5ee1",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s530_sapphire.png?id=72acc655186b1df5d08f",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a11d1560-5b7c-45a4-b539-10f5aeb5c2d6",
+        "id": 505,
+        "weaponName": "Flip Knife",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s530_blackpearl.png?id=f40cef768d571d23dda0",
+        "quality": "Covert Knife"
+    }
+]

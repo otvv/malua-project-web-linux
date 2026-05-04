@@ -1,0 +1,272 @@
+[
+    {
+        "uuid": "52731c94-7c0e-43b5-b2b7-7cdd076fbc4f",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_push.13f409f23e653107c90711e5ab258b52b187ff6a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "10af7dc3-f9fe-4fe6-bc4b-99a82258769d",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Lore",
+        "value": 1108,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_cu_push_lore_light_large.75720207a6f8db9d7c8b6a92c111c776ebd35508.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "85f7edba-bc57-4004-9630-b2dfac0bb411",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Bright Water",
+        "value": 579,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_hy_ocean_knife_90_light_large.6e7dab80593b417dfa54ce18c0ed680a1e45f1f6.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4670401a-74dd-4225-9873-c91a0aaf2929",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Autotronic",
+        "value": 1118,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_gs_push_autotronic_light_large.1d26831dadf0671d84189d666e93dc7ed66a551e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "10f2d0aa-f1db-4cdd-9446-6052b44ba430",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Freehand",
+        "value": 581,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_am_marked_up_90_light_large.cbfa16ed4ffd00d17f847b46677d5e4cb58dd5f1.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a8c5467f-0825-44ce-9088-cce5ced31575",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Black Laminate",
+        "value": 1113,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_gs_push_black_laminate_light_large.bf834d934ea9cb25f7264958307e390d567b1581.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "3feebb0a-75f6-4702-ba9b-be0eefbf8beb",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_an_tiger_orange_light_large.dc3ed0014b7b2024a7fbcaaaca1fbbfae3331735.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c854af71-7337-439b-afaa-12bb6d24e3fd",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_am_marble_fade_light_large.fce3f43a307394dcfa71988787dbb5d2ef6a3611.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9c89d30a-929a-46d3-b4ee-cce954daafb7",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Damascus Steel",
+        "value": 411,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aq_damascus_90_light_large.682e0e63f745ebea76a093e8ff4f7cdb17d5d093.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bd107e32-ffb9-4af5-ac8c-308ea201d343",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_so_purple_light_large.af1841afc5146b836e87e6afab49f9a78d90ed1b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e2ff8590-e80a-4ef5-b6bf-b619cbb1a898",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aq_steel_knife_light_large.2753f1bc2008c99c34103b2b247801d3eb881d20.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "44c878c6-e7b2-49c1-a380-f1e9cb60a196",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aa_fade_light_large.f73d939a3358a126ffbb7b93c9f87b9b78a6c78f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "64acbef3-01f0-4a72-b8ce-0b3680d03494",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aq_oiled_light_large.cbcb75a234d66325b56318abcf1d1cc8ebe7b893.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "984201db-03fa-4244-91ca-98497ddca427",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_hy_webs_light_large.df749be6007a8df0ed8ee572e42151235ef7cfb8.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bbd7c7bf-d2c0-4ef9-b72d-cc9ad0264b53",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_am_zebra_light_large.a09a6cf348b102f80e87226cc71d03544e502703.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e5a00067-e035-4ad1-ad42-6171445b33e4",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aq_blued_light_large.e0b2ecdeec3fb3066cecaf5b2d9392bfe4dbc674.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "44a5961c-b097-4ee6-8086-408d010612eb",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_aq_forced_light_large.2ceafeb104afeb40f9ba4c7a7cc4d590bc36c3dd.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2b38ae38-56e9-40a5-bcf4-33bf85ee60c6",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_so_night_light_large.6bf4ccf0b4c054ad19beb4d3da884cae5fb2a302.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d193f632-60d0-4dbe-a2df-05de882f9e70",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_dapple_light_large.2f7cde55a22c5cd038bceb38533f5397a9fc8252.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "1957acc0-cfe1-4c02-99a6-46f5f2469066",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_tape_urban_light_large.b443359282b2cbc75c2cc765af8c9a00e4b2dfdb.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "05aa6a50-463f-4965-a5e7-146b8e4647b0",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_sp_mesh_tan_light_large.b6b390c3652c2bc1c074cd23b3ca921bf9870b4b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a83d2e06-c271-4ee1-a843-996e61e1acdb",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_hy_forest_boreal_light_large.81e69f4bcf6d0cd60f909a0b6722e8bc12b982ca.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "aa2b2b4f-f880-4bcc-b3a8-1d04c6ed104c",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_hy_ddpat_light_large.a5821bfe03d91034b78b0aaf1eaa50cf556645b3.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a59f7ce3-367e-45c7-8ff8-31436f099e0b",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s875_phase1.png?id=2e9da70a5747f0effd0c",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a09ff074-938c-4b70-b9c2-c83bdb2353b9",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Doppler - Phase 2",
+        "value": 618,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s875_phase2.png?id=a729cb55bfe22f96feb5",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "023a1932-5de5-4528-8b72-5e2772cf0614",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s875_phase3.png?id=75c3461723e1dca13b8b",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2ac3e8ab-5e4d-43b3-89e0-133bda969bd7",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s875_phase4.png?id=d00010dd88b51831baf6",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9fae26d2-5429-419d-895b-6f6fac8adaf3",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s875_ruby.png?id=822bc5a652c8c419a250",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "b13f2db7-6aca-4acd-82cb-35918fcb59e9",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Doppler - Sapphire",
+        "value": 619,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s875_sapphire.png?id=347fe64feead27daa928",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "c14d7893-105e-4856-975c-5d7abfb618da",
+        "id": 516,
+        "weaponName": "Shadow Daggers",
+        "label": "Doppler - Black Pearl",
+        "value": 617,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s875_blackpearl.png?id=5be61f77e7d1fa0e96e0",
+        "quality": "Covert Knife"
+    }
+]

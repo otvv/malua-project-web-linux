@@ -1,0 +1,128 @@
+[
+    {
+        "uuid": "2b459886-8d50-4a8b-8b35-38fa6dcf0683",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Phosphor",
+        "value": 810,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_festival_drip_light_large.c71af0a784e5ecd6e5d5f2f71961be155e283cde.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "a4b32840-5b1a-4c84-858f-b4e07ea48b13",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Oxide Oasis",
+        "value": 923,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_neon_flektarn_light_large.d76e6385501ee98562f3a5ce5fe08f7c68e10046.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "858866f5-c4ec-4b9e-a344-8cfbc6187283",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Kitbash",
+        "value": 974,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5sd_wasteland_legacy_light_large.95ba928dc2c910eb819194227aa9196fdf6d9eea.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "071bbddf-af11-4f6c-9f31-d23daeae4cbd",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Agent",
+        "value": 915,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_fbi_light_large.98c397d31feb201fd3d754a2e0b1d1508d75b2b9.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "4e32429d-e75b-478a-b305-8aa4299c62f3",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Gauss",
+        "value": 846,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5sd_astromatic_light_large.d7acba118f13e4b7b0d9146dddd32cf71da9210d.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "b44223e5-8963-4b18-ac1c-b3550248d678",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Autumn Twilly",
+        "value": 1061,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_hy_trainarchitect_light_large.9ba8cb9505f0b67e608050ce5aa307e32dabbe1e.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "c8d1916d-9c0b-4a6b-bf9d-47396a2f9dc5",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Lab Rats",
+        "value": 800,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_hy_labrat_mp5_light_large.bbdd9b7e1445618106b9709261787f8d800f7391.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "aee02d15-2531-47fd-a911-f39ded1900b4",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Condition Zero",
+        "value": 986,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_conditionzero_light_large.4ed0ebd4f909faf2e09b5e18ec08e0a093719f63.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "347adc78-e126-4f4f-bc0a-a3c16cc6f33f",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Desert Strike",
+        "value": 949,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_cu_mp5_desert_strike_light_large.44958e2a47446043d6c929d5f4b4e3bea10f41c9.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "1d9cc821-c605-4ef9-adbc-7363a0a0ae8b",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Acid Wash",
+        "value": 888,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_etch_light_large.a86867a43e3607c1826b6d106870bf69642687b0.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "1662c1f2-c5de-422e-944f-cefcbe8bfa65",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Co-Processor",
+        "value": 781,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_am_circuitboard_aqua_light_large.205e1ac1b5bfbbfa8f0449cc08b42daf3e4addd2.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "73d154b8-6164-4fe4-b575-9247a6626f20",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Nitro",
+        "value": 798,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_so_orange_accents3_light_large.0a75359a9c3fb4cd3084067358141b875f285724.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "05828074-0e0e-4fb1-beb8-2040c3b1d797",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Bamboo Garden",
+        "value": 872,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_hy_bamboo_stmarc_light_large.1d07511b139360d0e973f8c7e316dc1792a2b812.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "ce123942-7203-476e-b834-1f6ec6829ef8",
+        "id": 23,
+        "weaponName": "MP5-SD",
+        "label": "Dirt Drop",
+        "value": 753,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_sp_tape_short_rally_light_large.2fdb10eba1dbf17030a2c0867fc385fe0449b974.png",
+        "quality": "Consumer Grade SMG"
+    }
+]

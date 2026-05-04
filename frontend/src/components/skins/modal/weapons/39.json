@@ -1,0 +1,290 @@
+[
+    {
+        "uuid": "25367dce-a13c-41fa-9eaf-f6576bc9940e",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Colony IV",
+        "value": 897,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_reactor_light_large.af5c07d2528198641adf32cf3498aa7d2823b048.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "ff31acf0-a492-48b1-b092-4953402f6744",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Cyrex",
+        "value": 487,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyrex_light_large.ef2fb1e4d88e8eb7c0efe12e231a773ca1792a4d.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "805e25d4-95b5-4a05-8246-8157aac59dd3",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Hazard Pay",
+        "value": 1084,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_caution_light_large.48fe10aaedc4fbba77afd76c31a5ab86da42461b.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "6ab02bb2-3dcf-4d1b-985b-2d4ec1444906",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Integrale",
+        "value": 750,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_rally_light_large.904b6f70dc7c8fe107d2cdb5acbdd0be6f686a3f.png",
+        "quality": "Classified Rifle"
+    },
+    {
+        "uuid": "9b58391c-e39b-45f0-9459-e0f42748a2d2",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Darkwing",
+        "value": 955,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_darkwing_light_large.f9c302279afebdd221344fa59f738f9317dc4122.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "6c8bc4b5-1571-49d9-a015-075b8daea204",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Phantom",
+        "value": 686,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_gs_sg553_phantom_light_large.51fc477c1024614f6f52080d3b7200408c9d2881.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "6cdf2981-cb8a-417d-8d95-fa32e3b10fa3",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Triarch",
+        "value": 613,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg556_triarch_light_large.3ea74bea530adda100d25911372ca313ea99453a.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "1f6251c8-565d-440c-baab-2c95c9a74ab0",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Tiger Moth",
+        "value": 519,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_gs_sg553_tiger_moth_light_large.18de0e5e029741a67330038e646fab1596fcfe88.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "51d6cb43-66c3-4307-a25d-e135c821918c",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Pulse",
+        "value": 287,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_pulse_light_large.d564900d05df0ee1da737cde6144eb55fa36684f.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "634c9eef-13b6-44a2-b599-a0ffed654947",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Hypnotic",
+        "value": 61,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_aa_vertigo_light_large.56c7e1c30b3239dbaab4ffef7905c48d77a35a50.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "2e7ed11a-684c-4e50-95d9-3db48a2f1178",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Bulldozer",
+        "value": 39,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_so_yellow_light_large.afbe04152bdb3090623992005c23d3a997ae0ca3.png",
+        "quality": "Restricted Rifle"
+    },
+    {
+        "uuid": "ad40422d-4686-4ce9-9114-be3106219a83",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Heavy Metal",
+        "value": 1048,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_gs_sg553_deathmetal_light_large.c41041d1a69838d3b66f21032254066eaea8fe41.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "3d8ace55-7003-4f4b-ac0c-915aa98b3119",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Ol' Rusty",
+        "value": 966,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_gs_sg553_rusty_light_large.c5dd8204f44be6e68069633eb261b66641444ff6.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "4b9bb093-4a0a-4728-b08a-d215953b9b41",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Danger Close",
+        "value": 815,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_gs_sg553_over_heated_light_large.aba3188360b2a87b8687d73af6c2e3034290402c.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "bda679f3-b36a-4159-9812-f9c0ed20d2a4",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Aloha",
+        "value": 702,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_sg533_aloha_light_large.03aa863680ab2223924ae9cbe8b7662a84fb162c.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "e22a31fd-3e30-43a4-8490-1323dd92cb31",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Aerial",
+        "value": 598,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_aerial_light_large.a123874095a96a92aaacd0f64a4fef54fa455e82.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "010f4391-feeb-47c6-914a-495dc8379ee8",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Atlas",
+        "value": 553,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_atlas_light_large.536218f8160485fa927e19fa06fedae43d9c04e6.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "16e44371-4dc3-49b8-bc72-4533291f5594",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Wave Spray",
+        "value": 186,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_spray_waves_bravo_light_large.5d4e0e3977bf9f1fa8dd1576b5576b429546f98d.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "7f91512f-a7ad-4c9d-98fe-1ab8139e884f",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_so_purple_light_large.44483356b334466acb6e781057d8f96a73cb376f.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "d0cc10db-773d-4569-a365-9301c1a16382",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Desert Blossom",
+        "value": 765,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_aa_desert_bloom_bright_light_large.082aa07ec9551391143d8b825ef9f1062ea54279.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "74fc1369-053c-4d83-ac4c-40fee9b82504",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Anodized Navy",
+        "value": 28,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_an_navy_light_large.5c45c1c33100694fc010a39ba92e3afab1d7c5e7.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "502f051c-1c86-46d3-b456-b3ba87ce0dbf",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Damascus Steel",
+        "value": 247,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_aq_damascus_sg553_light_large.543355687f0396ad10ed2f2705bc242ce5fdfbc5.png",
+        "quality": "Mil-Spec Rifle"
+    },
+    {
+        "uuid": "66c0e660-1363-49ba-8011-d3bd169b43f8",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Candy Apple",
+        "value": 864,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_so_red_sg553_light_large.aa8a1ed5302193cf02c2814a772517ec2aec8115.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "f3b3f547-6528-40b5-b43a-c67be2a2ffcf",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Fallout Warning",
+        "value": 378,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_nukestripe_maroon_sg553_light_large.95996aebdd6d4308d577f481e0c73250d2c82c74.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "9dc5a1ee-20ba-41c2-9857-a192ac1eb56f",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Traveler",
+        "value": 363,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_luggage_sg553_light_large.374b9493843853afc913a1735b154fcbbdbb6f89.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "2096661d-6496-4307-83ea-079639e1f063",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Gator Mesh",
+        "value": 243,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_mesh_python_light_large.ee7a2353f499fc228f88aaa99bd7ac4d9fac1257.png",
+        "quality": "Industrial Grade Rifle"
+    },
+    {
+        "uuid": "f64e960a-45c4-4dab-bde1-86c407d96365",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Bleached",
+        "value": 934,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_desert_skulls_light_large.3ac80055b461251992cea8183d77a9e2c4662e9d.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "f331b391-2540-4bdd-9d6b-153d0d3caa7c",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Lush Ruins",
+        "value": 1022,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_aa_ruins_green_light_large.47e5a2fdd296f5dbdcf3e14ec2a09be699bab8b8.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "230a5040-2331-4640-8185-9e018cc251a6",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Barricade",
+        "value": 861,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_asgard_wall_light_large.4b11684f29f2153a5eaa7b3c162e7ed6665a045a.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "41eb655f-e317-4033-a6c0-841f4a8b06bc",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Army Sheen",
+        "value": 298,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_am_army_shine_light_large.a07a97d5fba73aeecfc5cc9364e0d43d47892373.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "598a7d6b-bc26-4570-9d9b-8b7312ce7e4d",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Waves Perforated",
+        "value": 136,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_tape_dots_waves_light_large.6225b7ae003cefaab7deca7ea517576991055bbd.png",
+        "quality": "Consumer Grade Rifle"
+    },
+    {
+        "uuid": "88b1837e-245c-4d28-9f7e-82aebb3bd00e",
+        "id": 39,
+        "weaponName": "SG 553",
+        "label": "Tornado",
+        "value": 101,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_so_tornado_light_large.32d15282560b205fb387cf876fc19da381951986.png",
+        "quality": "Consumer Grade Rifle"
+    }
+]

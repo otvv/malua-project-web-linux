@@ -1,0 +1,254 @@
+[
+    {
+        "uuid": "622ded42-15c7-40af-9eed-f7b1d1474d7c",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Fire Elemental",
+        "value": 389,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_fire_elemental_light_large.1e57d4d9f1c51e613c1923377aa55fab4b0ab1bc.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "8c4993cb-3bf8-4025-8491-18fa708c3fb4",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Imperial Dragon",
+        "value": 591,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_gs_p2000_imperial_dragon_light_large.cc82bc6353a0e8ce963f6b0b600905d4dc37bf4a.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "58eddf4b-f8fe-48b3-8014-fcddc68e30a4",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Corticera",
+        "value": 184,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_favela_p2000_light_large.cc40db4d5048c7ddcfb52642d954e91400e59290.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "48b64d81-ea6e-485c-a3ee-36f8247c6c1b",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Ocean Foam",
+        "value": 211,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_am_ossify_blue_p2000_bravo_light_large.91f225635f7e4a986b51e09bba106ca6a4bf7dbb.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "a8a8c38a-b1d0-48b6-8581-4d52aa921999",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Acid Etched",
+        "value": 951,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aq_p2000_acid_clover_light_large.9b6c7f2c0bd30dc66570c41101129e1a624ab7b8.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "11d51486-b39c-405d-bded-57df16d73aea",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Obsidian",
+        "value": 894,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_obsidian_light_large.0a6ad31fe8f70401ffdd377c289309d0256282c6.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "aa680fbc-b632-449d-adef-37e024373e6d",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Woodsman",
+        "value": 667,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_hunter_light_large.57f4ea5be4f9bece6a3b71521a370d9afb4abb1f.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "69a1425f-7ef9-44dc-b57c-698e4db5a8e2",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Handgun",
+        "value": 485,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aq_p2000_boom_light_large.39f01b0b86b795bea56300432fecfbf93415ee58.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "30822913-7c18-4fc2-967e-93744338d1e7",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Space Race",
+        "value": 1055,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aa_spacerace_orange_light_large.611eae311e379d24b3014383c6270d45012099a0.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "780eb843-8a00-4530-aa6e-e15aa1999629",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Amber Fade",
+        "value": 246,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aa_fade_metallic_light_large.8efd81c9cf483adb6bdf58508800f62d3fc72310.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "f0992f61-fd71-45f6-899a-309b9d5cfaa2",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Scorpion",
+        "value": 71,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_am_scorpion_p2000_light_large.86333a595bc6c6139a4e84734e6eb88cd33d3e14.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "b0d45d4d-0527-4d20-946e-f06db746d2ea",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Gnarled",
+        "value": 960,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aq_p2000_lost_world_light_large.1d8b2a14b2b5b787ba450205bb3f133678dbe682.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "e2263dcd-83ba-40d4-829d-0b0973eb651c",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Urban Hazard",
+        "value": 700,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_urban_hazard_light_large.17657c4e9c3379f634c78e4d02ca9e9facbe9edb.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "75ff1fb7-b8c0-4b80-9863-8185da5783ef",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Turf",
+        "value": 635,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_gs_p2000-sport_light_large.96ad9b76130cea95ec2f1bc61ee428e6a998a398.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "673116b8-f044-43b1-8e16-33d27a2ca98e",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Oceanic",
+        "value": 550,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_hy_p2000_oceani_light_large.8f64654c5964975c85201b1dbbdf7b8ffab768be.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "3309f26b-af1d-4c0a-91a9-5c673b127466",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Imperial",
+        "value": 515,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_am_p2000_imperial_red_light_large.c47e207307725ed1f9e8cf6d1478dbfd3523c7a7.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "62cb2b4f-4183-4334-9c95-57a0f27d95be",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Ivory",
+        "value": 357,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_ivory_light_large.2a47b14b59ce796956958ce13cb60617148f7711.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "4986febf-1b2d-4c83-a017-0618229f6b06",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Pulse",
+        "value": 338,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_pulse_light_large.a79fcfcd59202495573abfddc1e7627be62b4e1c.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "4837d089-cd16-42c4-aac0-5f5725b9abfa",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Red FragCam",
+        "value": 275,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_hy_poly_camo_light_large.e4c6576e012974ba60e6dbc70fe5cd1cacc30011.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "e1fbc269-800d-42c5-9948-aa295e5b29db",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Dispatch",
+        "value": 997,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_am_numbers_red_blue_light_large.03b8794b01dd0aa5e28f1f52b1a8a2bc0ecf179c.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "5e7a8164-d815-4d37-b991-0686a4139998",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Chainmail",
+        "value": 327,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_am_chainmail_light_large.26e8d5e01b6af8dc85be34cf16830ef6280166fd.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "7db671e7-65a6-4d97-aa20-0761a4f3e77c",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Silver",
+        "value": 32,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_an_silver_light_large.84bfd2f0bdc7ab614d9cd7103b7d071606118166.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "6bbb20d9-4ba8-4dd8-8476-12b836ae34d5",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Panther Camo",
+        "value": 1019,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_am_black_panther_light_large.6b1ddf6071adab6685bff33fb5b586267ee0f907.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "3f67c0f3-584e-4d10-9769-7280fd1d3611",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Pathfinder",
+        "value": 443,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_sp_labyrinth2_light_large.240b91eab5dc2e0f6806dfbd2fc5d33bdebe53bb.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "d99b20ec-4db9-4388-a467-e7278944920b",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Coach Class",
+        "value": 346,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_luggage_p2000_light_large.6dfcea73af8a3cf42042fb75be69345cf5525347.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "03cf687c-6654-4947-92c4-04ae4290ab8e",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Grassland",
+        "value": 95,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_so_grassland_light_large.c2c8cd99960f57e1e4eeb1261dfaf3006e672577.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "0563a19a-d47d-4341-9ff1-90d7e2175c36",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Granite Marbleized",
+        "value": 21,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_hy_granite_light_large.30d6a68c522ae5dd0cf7a67e07eccb66cf50b04c.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "2244fa63-8d52-4be5-99ca-82bb715c9aed",
+        "id": 32,
+        "weaponName": "P2000",
+        "label": "Grassland Leaves",
+        "value": 104,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_sp_leaves_grassland_light_large.a7885e449e09718b530a5f8e4b79a30931f104cb.png",
+        "quality": "Industrial Grade Pistol"
+    }
+]

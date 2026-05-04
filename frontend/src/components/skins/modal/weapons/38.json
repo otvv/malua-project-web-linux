@@ -1,0 +1,218 @@
+[
+    {
+        "uuid": "aea8fadb-7abe-40f2-9957-457dc06abea8",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Bloodsport",
+        "value": 597,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_gs_scar20_bloodsport_light_large.dd99feccb31d2ec296bcd620abd885e6fe50d44e.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "45d25829-dc20-4f2d-8ae7-61fad36cf8b5",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Cardiac",
+        "value": 391,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_cu_scar20_intervention_light_large.96d9a26cca617207208a836d424d676bcb2ce3b9.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "79f1b3e9-9fef-4fe4-a5e9-667668e0d8ad",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Cyrex",
+        "value": 312,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_cu_scar_cyrex_light_large.ee4da13e2d74d0fd1fdbaa8f2ca49eb1c7f0acca.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "fdca0dee-9cea-4965-bae1-42d6a5fffdd8",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Splash Jam",
+        "value": 165,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_hy_hunter_blaze_pink_light_large.b7af5eed6be0c7d95ec01e2ed916841da005ccfc.png",
+        "quality": "Classified Sniper Rifle"
+    },
+    {
+        "uuid": "82c0bf2e-6493-4a61-9afd-4ebba3f963f1",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Enforcer",
+        "value": 954,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_gs_scar20_enforcer_light_large.20eba3a5a84f35019ceb7faae45a0b4246a72998.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "127980d3-2ac2-4e6f-8b06-76e318ff890a",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Powercore",
+        "value": 612,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_gs_scar20_powercore_light_large.74bcd65b1a4a52dd397ede5aa59b860ca4c38939.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "d9cfbfc4-9036-4c54-9ce3-5a3b8fc28df3",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Emerald",
+        "value": 196,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_an_emerald_bravo_light_large.1fddac26d628445bdc9856e04b5e9c69f526120b.png",
+        "quality": "Restricted Sniper Rifle"
+    },
+    {
+        "uuid": "38f9894c-1822-4255-9813-b75e1ce973fa",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Torn",
+        "value": 896,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_sp_scar20_striker_dust_light_large.0842dbdf0fe714c92f634b376e15c2f8c21b6d56.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "e6e19c06-830c-4fca-8019-473e4cdb009a",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Assault",
+        "value": 914,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_cu_scar_assault_light_large.57aa89979dfaab334bb3e91c09f54269e98cf47a.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "90a86310-047d-4117-b5bc-2b88eb59c82b",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Jungle Slipstream",
+        "value": 685,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_hy_scar20_jungle_slipstream_light_large.d49f99ac854c1a25fc46bde5dd32f438bdd587f1.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "6f01dea8-8ea4-41bc-b5c9-e7b80235960b",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Blueprint",
+        "value": 642,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_cu_blueprint_scar_light_large.9a71e8191c2b2081f5fd3884f57f919663b26ee5.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "3d45e93f-b349-4e06-935e-234368db0c82",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Outbreak",
+        "value": 518,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_hy_scar20_jungler_light_large.4f6402fac5ca041aae7db17b214e5cfd55149c44.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "31406ef8-4b50-40be-8dfa-5a733c28398d",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Green Marine",
+        "value": 502,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_gs_scar20_peacemaker03_light_large.061f9ac2ff0a040f6fcc296c451c09fe2e198f83.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "a6e59608-4075-4006-916d-93c6e5bcc942",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Grotto",
+        "value": 406,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_aq_scar20_leak_light_large.06b9231638ba347e91c671ecf2c1364754794893.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "8f4945b7-417d-41bb-a539-e1e11af3d8b2",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Crimson Web",
+        "value": 232,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_hy_webs_darker_light_large.8e06e878c22b82c6bb1045f26e1bbc1926faecf2.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "3ff05083-4549-410c-8002-b4b266a06f42",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Magna Carta",
+        "value": 1028,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_hy_authority_purple_light_large.6754afba66bb91862fb6fef583e1b1e399061518.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "58404096-d8a0-4b77-a79a-b04c33dd0ee8",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Brass",
+        "value": 159,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_aq_brass_light_large.4b497f1e4a42a5c645181a1534cc28320e3f6842.png",
+        "quality": "Mil-Spec Sniper Rifle"
+    },
+    {
+        "uuid": "abe0201b-ef4f-478c-b7c3-b4665978874e",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Carbon Fiber",
+        "value": 70,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_am_carbon_fiber_light_large.1e2b9188a7cffb26c7a912995de329bd70d0d1d9.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    },
+    {
+        "uuid": "3355b798-9f48-4eaa-96e8-4c3552ac6cab",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Palm",
+        "value": 157,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_sp_palm_light_large.ed935d932711961605c3b03b896560f4ebfe8861.png",
+        "quality": "Industrial Grade Sniper Rifle"
+    },
+    {
+        "uuid": "a84e97a8-a22f-4cac-a807-8b323f11318f",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Stone Mosaico",
+        "value": 865,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_hy_canals_tile_light_large.75a40e82efbdfa0691e32eb98301f1b441a00f46.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "bd933f62-f9a2-4082-a6c4-397adf17a046",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Army Sheen",
+        "value": 298,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_am_army_shine_light_large.2d2f8b7c0d1a6f9541956d1bef018261ddd80542.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "873f49bc-a89a-4fb5-b073-cd7ccdb1234e",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Storm",
+        "value": 100,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_so_stormfront_light_large.3bebdbcd4ea2ae851cdd2a06d0663121d01ebd79.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "2f1eb13c-3255-41ef-91cf-1633a12f9320",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Contractor",
+        "value": 46,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_so_pmc_light_large.c3e05baecc15229a989ddd093964e9c4e9fbe68a.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    },
+    {
+        "uuid": "6104eafd-b3b3-49a5-84c0-dcc525b579ba",
+        "id": 38,
+        "weaponName": "SCAR-20",
+        "label": "Sand Mesh",
+        "value": 116,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_sp_mesh_sand_light_large.880aed82e5ba9c8c9d4a7ebb88e5a51491ce2d59.png",
+        "quality": "Consumer Grade Sniper Rifle"
+    }
+]

@@ -1,0 +1,335 @@
+[
+    {
+        "uuid": "f19a5a36-372d-41a3-ae1e-803448846ba6",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Neo-Noir",
+        "value": 988,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_noir_light_large.c93d0cbfa767d1f822a53ebfca0d57f532088c48.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "8d2ca97e-d0d1-4221-a789-39656eac13af",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Bullet Queen",
+        "value": 957,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock18_warmaiden_light_large.d99a6fdb4c1469d164182a74edba8de055726aa5.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "0ea8691b-6fa5-45e7-aba7-de5bb71b76da",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Wasteland Rebel",
+        "value": 586,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_wasteland_rebel_light_large.284899ab35e5a29c6edb64b2af194cee19a0ed89.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "42b72c95-f0e1-40f5-a41b-c83b2c94f7b7",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Snack Attack",
+        "value": 1100,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_snackattack_light_large.145d863714fb0fd6f766ef28f3639c0efded5018.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "7de9ed50-6b1b-4792-8ac6-8da16d1f0c06",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Vogue",
+        "value": 963,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_eyecontact_light_large.fb7988d1d3d9ff159f81d3c0d9a2eacb976e2842.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "87c4f688-9bfb-468a-ae3e-bb5cc0ba9729",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Water Elemental",
+        "value": 353,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock-liquescent_light_large.151e954ed4aef28ccc55d0ca4b43a7d9644f36ac.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "1a3a8508-3f4e-4b5e-b310-605987cba7fe",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Twilight Galaxy",
+        "value": 437,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_aqua_flecks_light_large.e7d41ce4dbf0cd29f1eb3daa5ce0bb753abd1903.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "ec084331-e145-4f71-ba92-1918246e620d",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Moonrise",
+        "value": 694,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aa_glock_18_urban_moon_fever_light_large.a0227f81e44dba68abbe595d427d62f9f90da99d.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "7939758f-7fc6-4eda-aac9-893bc65aa347",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Weasel",
+        "value": 607,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock18_weasel_light_large.e02e6e5196ebdee47c595799ff011dd645147505.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "a7a72167-f2e3-4d49-bf09-36f5f584e269",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Royal Legion",
+        "value": 532,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_gs_glock18_award_light_large.198c0dc5630970b1f3bbcb307a1318745ca006e7.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "722108aa-191e-4ccf-a155-30281febd2ff",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Grinder",
+        "value": 381,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aq_glock_coiled_light_large.d4dcbf0d27479b95a4ad43c36f3b3f3dc87bbd84.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "709a3e91-ecc2-4b4e-8c92-a25fe3a947ee",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Steel Disruption",
+        "value": 230,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_ddpatdense_silver_light_large.4d83c0a0b958bb15f694c7047996ece59f4be05a.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "869a7c28-c8b6-4992-a277-884dfa974716",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Dragon Tattoo",
+        "value": 48,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_dragon_glock_light_large.e42a72a19a2239c992573b88179897af37c7f849.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "d788665c-b614-4bca-928b-0a1a7ef2049c",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Pink DDPAT",
+        "value": 84,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_hy_ddpat_pink_light_large.ddbb46e05e19607b8fa366cdb8efef39048e50e4.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "c87ac254-4cf6-40fb-a2c3-e0a54a895e26",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Franklin",
+        "value": 1016,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_money_glock_light_large.9866d8ea7d9b5c569377aef5fb19bbc74ea4058d.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "a64bae0c-1c04-494f-8bad-1feee0b5812a",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Synth Leaf",
+        "value": 732,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_hy_leaf_blue_light_large.1b017cc8d4594d924537f9928db4253ff628284c.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "ad6b1872-57dc-44f2-b72a-b2089da3755b",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Nuclear Garden",
+        "value": 789,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_nuclear_skulls_green_light_large.37c3765f928a0a002d283c0fa7f4f409f4fa9e82.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "0dbee541-4c23-4980-8938-21a02fe08b72",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aa_fade_light_large.61edcc69ff252d537a4dd14b016cbe826c26ae5b.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "f311e0f5-db76-4b7c-803b-5b1453f0b41f",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Brass",
+        "value": 159,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aq_brass_light_large.c9fbb8483ca7b5859fafc3c8fe495b3d396205dd.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "3616f1d9-cf48-429b-a91e-3ce7fc380354",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Clear Polymer",
+        "value": 1039,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_gs_glock_polymer_light_large.9a56b15b2deea5847b0820c5ad982c1796cc8e0c.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "5631e354-40d8-4944-86c5-4cb6758f34d7",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Sacrifice",
+        "value": 918,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_hero_light_large.7b0f5975c7e0ba3ce1694c4795520184fc56c367.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "1ec14cad-0732-4de3-b2a8-d0b29339a316",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Oxide Blaze",
+        "value": 808,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock18_corroden_light_large.68906a0523399b599555746b51db2ffac29c5db5.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "87f299f4-f39a-4db8-be92-83c6f17c2719",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Warhawk",
+        "value": 713,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_gs_glock_thunder_dust_light_large.0e26afdd95bac17ce01c6e097ca0b97db3cffee4.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "e71347d5-800a-482e-96b9-2bbcdfafa1d7",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Off World",
+        "value": 680,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_indigo_light_large.3786c7c3be7d03ee053050af2f7a8427782742e1.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "147a9bed-e821-4530-9610-e1d29d439b02",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Ironwork",
+        "value": 623,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aq_glock_dark-fall_light_large.ac35c22bc50660c89ecfe7654ee93bb9f00bd6f4.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "e135733e-8d83-49e7-8290-6965101721bf",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Wraiths",
+        "value": 495,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_gs_glock18_wrathys_light_large.8cf4aba20d193a1646b378a3d04a6fee3f66724c.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "cca4170f-005f-431c-a910-8aa6667609a3",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Bunsen Burner",
+        "value": 479,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aq_glock18_flames_blue_light_large.5fed23d5a32793c25914eeb99b45f1a2b0cb9d6c.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "cc4e5c20-d8be-4294-a3f3-d8526388e7d1",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Catacombs",
+        "value": 399,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_deathtoll_light_large.cfcc6a17037a33bbb524ca1856c07cf76dda449d.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "bdfe29b3-1064-4689-9ba6-822f0a119698",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Blue Fissure",
+        "value": 278,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_hy_craquelure_light_large.8e97eb17a01e73c47a8987685d740b344aeb2cb8.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "837e5daa-a0c7-4f12-adb5-1b02b2d130a1",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Reactor",
+        "value": 367,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_nuclear_pattern1_glock_light_large.01e91d2930e04d43215becb90447b2ebec1cb8d9.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "a4ab3162-c441-4cdc-b7fa-336773e37d2c",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Candy Apple",
+        "value": 3,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_so_red_light_large.17b18a34a4d840905587e918a8500576e91b0cb9.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "124a5715-935d-4a31-a77f-d2ac0d508384",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Red Tire",
+        "value": 1079,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_sp_tire_tread_red_light_large.bf06d5ba0f2b746eff6a66aa7020acd7a87eddc4.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "09b9928f-b82c-4f3b-adc5-e86f2cd537d9",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "High Beam",
+        "value": 799,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aa_vertigo_blue_light_large.0f4a3ec87faf17bb8557aa3b57a99606ac24c44e.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "aff71508-8cd4-4003-8d5f-5cb6b8e61875",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_so_night_light_large.e56ea92b4b8c1914a7f5f4e789483313845a0b4a.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "00cdfc2d-7d9f-4486-be92-cf45c7353a35",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Death Rattle",
+        "value": 293,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_hy_nerodia_light_large.540067f703bf7b020d8fedfcc6322523ab449d68.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "7c5724f2-92ae-4ee3-8b6b-3e7b4f69dbca",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Groundwater",
+        "value": 2,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_so_olive_light_large.1af3a84683b1f123d0bc17319d14979bf7a12115.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "a63a345b-bef2-44d5-aab0-ead3305bd5d8",
+        "id": 4,
+        "weaponName": "Glock-18",
+        "label": "Sand Dune",
+        "value": 208,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_so_sand_bravo_light_large.b505115b9e7a3e6480697f0262d76c9518c65e50.png",
+        "quality": "Industrial Grade Pistol"
+    }
+]

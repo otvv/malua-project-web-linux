@@ -1,0 +1,317 @@
+[
+    {
+        "uuid": "9f73b7b3-d3bc-4d84-a893-d04b8e2ff616",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Ocean Drive",
+        "value": 1090,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_deagle_kitch_light_large.0df9b5246d27786b413642f5fc959f37d8892c3a.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "42460959-81c4-49c9-b066-220d9398e6d1",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Printstream",
+        "value": 962,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_deag_printstream_light_large.b468e56607da39fb2c88e493456290fd5db174c8.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "0eee6ea3-776e-4d3a-b02b-25fe036b5b62",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Code Red",
+        "value": 711,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_gs_deagle_aggressor_light_large.51ffb87f03ae0d3c467d4412f3c246067748e61d.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "0bb724b6-72b5-4278-9fb8-c1b43d473310",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Golden Koi",
+        "value": 185,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_scales_bravo_light_large.6cba46695e74a8bee932ea90cea24e146cbef5e7.png",
+        "quality": "Covert Pistol"
+    },
+    {
+        "uuid": "ac9ae64d-4c67-48b2-82e6-f5cc50d4cbf1",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Mecha Industries",
+        "value": 805,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_gs_deagle_mecha_light_large.e08c1fd8709f6b368956c41c68b17c15ff635635.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "a2f97a06-4710-440d-9ea5-7b269bce78a8",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Kumicho Dragon",
+        "value": 527,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_deserteagle_kumichodragon_light_large.19874e9a20cfac49efbe1f1557b995e453633ffe.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "128da13a-0da3-4714-9594-6a12edd79e51",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Conspiracy",
+        "value": 351,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_deagle_aureus_light_large.7fa76057cb05f2cab829be448f120ae540715d0e.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "9ba224c9-07c4-4db3-b6d4-86459962f5b1",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Cobalt Disruption",
+        "value": 231,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_ddpatdense_peacock_light_large.a486db3160bcdcf6bc5a1d8179c450b02f620151.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "a006d9d2-267e-4993-8069-82bfed7360de",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Hypnotic",
+        "value": 61,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aa_vertigo_light_large.85a16e4bfb8b1cc6393ca5d0c6d3a1e6e6023323.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "d322d020-cd58-4da0-bd2b-71caba0bbbcc",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Fennec Fox",
+        "value": 764,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_gs_deagle_fennec_light_large.92dbda73edcc6eb6022f1f0248cb19063d7107aa.png",
+        "quality": "Classified Pistol"
+    },
+    {
+        "uuid": "fde3ac87-9d8f-4fe4-a360-ed13b10c75ac",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Trigger Discipline",
+        "value": 1050,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_deag_trigger_discipline_light_large.9d8615945f079e3f7ea84c572fd34408fee6341c.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "dcf784cc-2723-4e29-a5a1-b58d40caf7c7",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Light Rail",
+        "value": 841,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_gs_deagle_exo_light_large.8bdc93f1b45efba187748065deff967eef8f2f2d.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "08a5c73a-007d-4b37-9878-2e1054320459",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Directive",
+        "value": 603,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_desert_eagle_constable_light_large.fb2f2673dd3997a21bff9129e0d2e294c03095e8.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "44a9f01e-a430-4a4b-ac93-bc9506f443db",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Naga",
+        "value": 397,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_deagle_naga_light_large.b410ad835b1894a448676ae0590586298af2cb33.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "ddfeac5c-9c0b-4fb1-832e-78999d604542",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Crimson Web",
+        "value": 232,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_hy_webs_darker_light_large.7b9cb19bac52ebe7c49e3abdfb0c400ea252fef8.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "de064dc6-939f-437c-91d7-3dd1df0c47d5",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Heirloom",
+        "value": 273,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_engraved_deagle_light_large.804a1a01a29bf80673b739f3eb220272a6838193.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "c1cd74e8-5685-48cd-8610-26d740427057",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Emerald Jörmungandr",
+        "value": 757,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_jorm_green_light_large.db1045fee0af23f28bb4affd164d07e3aadd42ec.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "40ce635f-41a5-4c57-8bc7-5c40ad197e39",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Sunset Storm 壱",
+        "value": 469,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_seastorm_blood_light_large.1e92a7e19fde014e5a70832a93b440e0c036d596.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "422efdb5-c259-4c55-9846-55656afa0257",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Sunset Storm 弐",
+        "value": 470,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_seastorm_shojo_light_large.7df4fe386dac18ae2a8c3e50df7dfb9165dece83.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "05d7e2b1-dc8f-4bdd-bc40-be84c42dea3f",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Hand Cannon",
+        "value": 328,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_handcannon_light_large.e6e87ceb2337a423d225dc177342af3df4069585.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "f78e03a6-9f60-4094-8749-1924ea2fbeac",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Pilot",
+        "value": 347,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_pilot_deagle_light_large.60b0e755ef14311a82f5f35928ad18dbb6ae2a86.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "bedee429-07b3-462d-9682-4130ddefbede",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Blaze",
+        "value": 37,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aa_flames_light_large.dd140c3b359c16ccd8e918ca6ad0b2628151fe1c.png",
+        "quality": "Restricted Pistol"
+    },
+    {
+        "uuid": "e1051a1f-190f-4bdf-929b-583b0311f73c",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Blue Ply",
+        "value": 945,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_deagle_replica_light_large.900a30787dd7f4f32435cc55e56dc345d780baae.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "ef70427a-e4ea-4cc0-9f36-6d6535b3dd3d",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Oxide Blaze",
+        "value": 645,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_desert_eagle_corroden_light_large.5fde2cc1c9b82b0e9823445c7fb2be334bc286af.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "521a60d8-6769-4fc4-897e-94bf8346f427",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Corinthian",
+        "value": 509,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_deagle_corinthian_light_large.1a694892a1953a131775451d0542508b4b3d9e77.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "8faf693b-4b85-40d0-82e7-63967c9a0209",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Bronze Deco",
+        "value": 425,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_bronze_sparkle_light_large.42dc1d2bae9e586f75d6425f94a195014891533b.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "f36e3ee2-ebd5-477d-b579-63c5c79ef525",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Sputnik",
+        "value": 1056,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_sp_spacerace_blue_light_large.e93e99eadcae13e4ff2cbe9f958d720a34007a6d.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "a4e938f7-4421-43da-95a0-57bda7c3f5fa",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Night Heist",
+        "value": 1006,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_heist_plans_purple_light_large.737fb624218d14185e259e9f0af20ae1626a0e0b.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "836e3216-4b2e-42b0-86b0-486f10dd2e36",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Meteorite",
+        "value": 296,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_crystallized_dark_light_large.2d7d753a893ec3f0a470af9690aa64dcecd7146f.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "4fa31f8d-5860-4142-99b6-17492ec1482a",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Urban Rubble",
+        "value": 237,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_hy_varicamo_urban_light_large.a9791d0046206f88085f2d0850ec577c6f535a47.png",
+        "quality": "Mil-Spec Pistol"
+    },
+    {
+        "uuid": "73d5be93-ba98-4559-ae70-352746f76127",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "The Bronze",
+        "value": 992,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_numbers_bronze_light_large.9860461c5a6ef52868d2dadd2b9dbd5c842b7bb0.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "7e54d757-b1ec-4cba-9fd9-5ff8e687737b",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Midnight Storm",
+        "value": 468,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_seastorm_light_large.aef21efecda37237d24debe3f409f42954dadddd.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "ad957b9b-c379-4034-bfd9-3c7f2b955ecf",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_so_night_light_large.64e315553578f3c8bd08c96622fc2c34d5a789ba.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "cd672b95-e942-4fe6-b9ce-a983d5f77c37",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Urban DDPAT",
+        "value": 17,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_hy_ddpat_urb_light_large.06af0cb0e08490f1fba17acd1b9c98978745c213.png",
+        "quality": "Industrial Grade Pistol"
+    },
+    {
+        "uuid": "1a88c9c4-9c24-48c5-b696-6e8a39e19098",
+        "id": 1,
+        "weaponName": "Desert Eagle",
+        "label": "Mudder",
+        "value": 90,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_hy_mottled_sand_light_large.615be084d4bc9db8c98451f13351cae1fa0ec69c.png",
+        "quality": "Industrial Grade Pistol"
+    }
+]

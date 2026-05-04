@@ -1,0 +1,263 @@
+[
+    {
+        "uuid": "14512dae-a429-485e-bd61-61a934dba770",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "The Kraken",
+        "value": 256,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_octopump_light_large.761df5911efc6a96061c7b34e41a2ff6ec61e58b.png",
+        "quality": "Covert Shotgun"
+    },
+    {
+        "uuid": "4f1aac2f-54af-416e-a297-5aa0ea3fd563",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Devourer",
+        "value": 720,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_devourer_light_large.d8365e13320f20eb532a2d5109e1fc35562bc376.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "ad8e4c95-aeb8-46f4-964b-7401fdc3eeef",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Wasteland Princess",
+        "value": 638,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_wp_sawedoff_light_large.5c3f71cb929e5d2922b25c7644d0ff1981d92fa0.png",
+        "quality": "Classified Shotgun"
+    },
+    {
+        "uuid": "e536589a-39b5-4841-8b73-c65ee3a4c8c6",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Apocalypto",
+        "value": 953,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_apocalypto_light_large.fc0f69fec04cf4d6955ef4aa6629d083aa554af6.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "d6042620-f1eb-4000-82c8-4742fe573569",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Limelight",
+        "value": 596,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawed_off_lime_light_large.87fbbe1597ea04a51b56f3b0f7c3fc6a5ff6553c.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "bdda044c-3d1c-408c-9bdb-2ba68dc59b1c",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Serenity",
+        "value": 405,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_deva_light_large.9ffde04f2f082dce492b2fa6e250f69f538a50b5.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "1fe97930-1536-42e2-828f-551791422e05",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Highwayman",
+        "value": 390,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_aq_sawedoff_blackgold_light_large.4a8c3a27c780c2a5ec3e4b6686498dce439d5a73.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "4c568d10-7630-445c-9dee-2cdfe6ef68d5",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Orange DDPAT",
+        "value": 83,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_hy_ddpat_orange_light_large.04fe163870ad65e17d8e4dd9403180ed3c5a218d.png",
+        "quality": "Restricted Shotgun"
+    },
+    {
+        "uuid": "430109c4-71df-4d5f-af71-645ca37ca951",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Black Sand",
+        "value": 814,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_black_sand_light_large.7ed9ce5083489c0fdf92814f0ebf6945ec6f29d4.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "c532875e-8004-4235-ae8e-98873c9e8253",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Morris",
+        "value": 673,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_aq_sawed-off_flower_light_large.0d98b08ce8023d49dac2f76b10ef2f3cd7a33350.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "7f9df83a-0adb-49f2-86b1-b68d73a51af9",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Zander",
+        "value": 655,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_aq_sawedoff_zander2_light_large.514f7c6c606296838f56020877d7762c594dc4bd.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "dbe8bbb8-2f6a-4fa1-9242-273f87ae4a2c",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Fubar",
+        "value": 552,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_gs_sawedoff_fubar_light_large.0673d87171fccc0fc98e77806da7259e283283ea.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "8b4a98a9-d8fc-4858-831a-c4d12bd7327d",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Yorick",
+        "value": 517,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_gs_sawedoff_necromancer_light_large.8cead257afdfaf5b852a61d2358aa3fb84def860.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "4baf1f65-9f00-4b8f-933c-2962384380dd",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Origami",
+        "value": 434,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_origami_light_large.5f1b3cef6d518cda69daafddd9b2c240a29cf0cc.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "7d359e69-b39b-42c5-a440-265cbb10f804",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Brake Light",
+        "value": 797,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_aa_vertigo_red_light_large.999797e68b2d5df290b2e5771b6c4bfb0de1ec8c.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "3a6eea5b-6786-44a3-a77f-138199e99970",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "First Class",
+        "value": 345,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_green_leather_sawedoff_light_large.16c853410a5696858a4dc383f04c3d5e42b08631.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "87c3265d-6a8e-428d-99f0-27039a9d9afe",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Full Stop",
+        "value": 250,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_hy_varicamo_red_light_large.8db408c4317e19bfdf8adc6c3183327866423445.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "5559f4fe-8705-4385-ac5c-8a033f9cc743",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Amber Fade",
+        "value": 246,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_aa_fade_metallic_light_large.aa7418206953ed4b7707ddbc859bb1eb7bf6c9ab.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "02441119-299c-46ed-a7aa-e7fabfa03e3d",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Copper",
+        "value": 41,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_aq_copper_light_large.a2d3d9236120109adf8df1bc53b7d02250f6a50a.png",
+        "quality": "Mil-Spec Shotgun"
+    },
+    {
+        "uuid": "1a87c3eb-9502-42bb-a0ae-98ba91ba7f7e",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Rust Coat",
+        "value": 323,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_aq_steel_light_large.b363c0f1eef83ac7291f8b64d338dcdd82183502.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "8e8f9d86-2ad3-41ee-a533-1f53d4a8db1f",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Snake Camo",
+        "value": 30,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_sp_snake_light_large.5e65a350f30aa592de234f631d5d2cd98838fb4e.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "cfc0735d-c32e-419f-8c1a-bdf3170a6a6e",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Mosaico",
+        "value": 204,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_hy_ali_tile_bravo_light_large.979b575c05b90ab9ae836ff28396737323818e1b.png",
+        "quality": "Industrial Grade Shotgun"
+    },
+    {
+        "uuid": "47e6690d-ec7c-4553-87a2-cad6923bf24c",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Parched",
+        "value": 880,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_hy_desert_bloom_light_large.6222132707bdc3c9e20b8eada269c2620bfc5013.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "d18ab967-2159-48ec-96e2-7328b7ea4782",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Clay Ambush",
+        "value": 1014,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_hy_tigers_tan_light_large.6e52ecbb72de6bd0786141efefc3e7040989b6d7.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "7eefa72d-0010-4131-8382-0b2a7ab09bd8",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Jungle Thicket",
+        "value": 870,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_sp_palm_green_light_large.f8f95ff757a290d96692f78c0cc80c9cbcd7a0fe.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "24d3d81e-75c7-461f-bfc7-b1b80748bb20",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Bamboo Shadow",
+        "value": 458,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_hy_bamboo_jungle_black_light_large.8c345668f9d6ba961f72fd67c405a8ed2cfffd4c.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "9558036c-f72b-4b96-9a6f-5d499df1bade",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Sage Spray",
+        "value": 119,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_sp_spray_desert_sage_light_large.e944ddb90e97199d1f274c481462a3a660b9fc5a.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "8bb9fd83-05ef-4063-81d3-3994a7056904",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_hy_ddpat_light_large.e3f476b768693a046994a90e2aca045d329e6957.png",
+        "quality": "Consumer Grade Shotgun"
+    },
+    {
+        "uuid": "f0273e10-f7f7-473a-aaf8-3c3eeba32a64",
+        "id": 29,
+        "weaponName": "Sawed-Off",
+        "label": "Irradiated Alert",
+        "value": 171,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_sp_nukestripe_brown_light_large.6a39be9be23998f45a37a5f71c6467dacb728a03.png",
+        "quality": "Consumer Grade Shotgun"
+    }
+]

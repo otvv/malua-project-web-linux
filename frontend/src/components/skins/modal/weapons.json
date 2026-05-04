@@ -1,0 +1,249 @@
+[
+  {
+    "label": "Rifles",
+    "options": [
+      {
+        "label": "AK-47",
+        "value": 7
+      },
+      {
+        "label": "AUG",
+        "value": 8
+      },
+      {
+        "label": "FAMAS",
+        "value": 10
+      },
+      {
+        "label": "Galil AR",
+        "value": 13
+      },
+      {
+        "label": "M4A4",
+        "value": 16
+      },
+      {
+        "label": "M4A1-S",
+        "value": 60
+      },
+      {
+        "label": "SG 553",
+        "value": 39
+      }
+    ]
+  },
+  {
+    "label": "Snipers",
+    "options": [
+      {
+        "label": "AWP",
+        "value": 9
+      },
+      {
+        "label": "G3SG1",
+        "value": 11
+      },
+      {
+        "label": "SCAR-20",
+        "value": 38
+      },
+      {
+        "label": "SSG 08",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "label": "Pistols",
+    "options": [
+      {
+        "label": "CZ75-Auto",
+        "value": 63
+      },
+      {
+        "label": "Desert Eagle",
+        "value": 1
+      },
+      {
+        "label": "Dual Berettas",
+        "value": 2
+      },
+      {
+        "label": "Five-SeveN",
+        "value": 3
+      },
+      {
+        "label": "Glock-18",
+        "value": 4
+      },
+      {
+        "label": "HKP-2000",
+        "value": 32
+      },
+      {
+        "label": "P250",
+        "value": 36
+      },
+      {
+        "label": "R8 Revolver",
+        "value": 64
+      },
+      {
+        "label": "USP-S",
+        "value": 61
+      },
+      {
+        "label": "Tec-9",
+        "value": 30
+      }
+    ]
+  },
+  {
+    "label": "Sub-machines",
+    "options": [
+      {
+        "label": "MAC-10",
+        "value": 17
+      },
+      {
+        "label": "MP5-SD",
+        "value": 23
+      },
+      {
+        "label": "MP7",
+        "value": 33
+      },
+      {
+        "label": "MP9",
+        "value": 34
+      },
+      {
+        "label": "UMP-45",
+        "value": 24
+      },
+      {
+        "label": "PP-Bizon",
+        "value": 26
+      },
+      {
+        "label": "P90",
+        "value": 19
+      }
+    ]
+  },
+  {
+    "label": "Light-machines",
+    "options": [
+      {
+        "label": "Negev",
+        "value": 28
+      },
+      {
+        "label": "M249",
+        "value": 14
+      }
+    ]
+  },
+  {
+    "label": "Shotguns",
+    "options": [
+      {
+        "label": "MAG-7",
+        "value": 27
+      },
+      {
+        "label": "Nova",
+        "value": 35
+      },
+      {
+        "label": "Sawed-Off",
+        "value": 29
+      },
+      {
+        "label": "XM1014",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "label": "Knifes",
+    "options": [
+      {
+        "label": "Bayonet Knife",
+        "value": 500
+      },
+      {
+        "label": "Bowie Knife",
+        "value": 514
+      },
+      {
+        "label": "Butterfly Knife",
+        "value": 515
+      },
+      {
+        "label": "Classic Knife",
+        "value": 503
+      },
+      {
+        "label": "Falchion Knife",
+        "value": 512
+      },
+      {
+        "label": "Flip Knife",
+        "value": 505
+      },
+      {
+        "label": "Gut Knife",
+        "value": 506
+      },
+      {
+        "label": "Huntsman Knife",
+        "value": 509
+      },
+      {
+        "label": "Karambit",
+        "value": 507
+      },
+      {
+        "label": "M9 Bayonet",
+        "value": 508
+      },
+      {
+        "label": "Navaja Knife",
+        "value": 520
+      },
+      {
+        "label": "Nomad Knife",
+        "value": 521
+      },
+      {
+        "label": "Paracord Knife",
+        "value": 517
+      },
+      {
+        "label": "Shadow Daggers",
+        "value": 516
+      },
+      {
+        "label": "Skeleton Knife",
+        "value": 525
+      },
+      {
+        "label": "Stiletto Knife",
+        "value": 522
+      },
+      {
+        "label": "Survival Knife",
+        "value": 518
+      },
+      {
+        "label": "Talon Knife",
+        "value": 523
+      },
+      {
+        "label": "Ursus Knife",
+        "value": 519
+      }
+    ]
+  }
+]

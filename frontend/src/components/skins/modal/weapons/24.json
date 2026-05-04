@@ -1,0 +1,308 @@
+[
+    {
+        "uuid": "9f541941-1c5d-4149-a511-94017f78bee7",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Momentum",
+        "value": 802,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump_arrows_light_large.83f1e692bdafa92f29ce15aebb02502c9e70f276.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "9610c1e5-ecc4-4626-bd19-c4f15368d064",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Primal Saber",
+        "value": 556,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_primalsaber_light_large.67bef91a43734d654516f65c4288711b257d2049.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "f3e47ced-f4c6-4925-a3fb-e04d579513ec",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Fade",
+        "value": 879,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_aa_fade_ump_light_large.8f6cd56e5075505e9cbda97e72ba49837a17b8f7.png",
+        "quality": "Classified SMG"
+    },
+    {
+        "uuid": "b1cf1a51-ed40-4586-9597-4203549f92bd",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Gold Bismuth",
+        "value": 990,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_gs_ump_gold_bismuth_light_large.c09fa5b0617d1c486737c9beb39f79bec31621dc.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "3cfb66aa-dcdb-4a49-a66d-2ace76eb366d",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Plastique",
+        "value": 916,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump_bomb_light_large.48162f997295cb72c35acb2eafbef620b60a1659.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "ec1c0a43-cb4e-485f-b981-a75416ecc8fb",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Moonrise",
+        "value": 851,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_aa_ump45_moonrise_sunset_light_large.63cf279a66d95757f4fefe498b89480966887083.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "d2b52bcf-8b5d-49d4-abbf-edb3e092d192",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Arctic Wolf",
+        "value": 704,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_white_fang_light_large.f63a10d5ee18e3045adfdcf963b9067b3b0a6b48.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "addf6059-f36b-451c-8f43-d2af8e78e323",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Exposure",
+        "value": 688,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_x-ray_machine_light_large.a4563e015fd33d1874cc220458db2754a15dd08a.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "a8072b6b-533f-4cae-afdb-0f60d2a34d64",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Scaffold",
+        "value": 652,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_gs_ump_abyss_light_large.55910298a6be9b071156ef176a31d26007d92d0f.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "84165342-abc8-48bd-80d7-6d2ff2385edc",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Grand Prix",
+        "value": 436,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_am_ump_racer_light_large.6d935bf0d33ca90994b1dd9aec78a8938dcd94a2.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "b73291e3-c8a3-4a9b-8f7e-cffcac313baf",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Crime Scene",
+        "value": 1003,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump_crime_scene_light_large.db37d99efad4621d4b3232bfc0fa8d04b8a6b8e9.png",
+        "quality": "Restricted SMG"
+    },
+    {
+        "uuid": "943aba71-00e2-44dc-b2bf-fdc658ba0a9a",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Oscillator",
+        "value": 1049,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_am_ump45_electrowave_light_large.98b6a5211b19bfeecb69d08cc7ebe6584cff353f.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "93d92c2c-4435-4acf-ad36-b1b8cd82e820",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Metal Flowers",
+        "value": 672,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_aq_ump45_flameflower_light_large.9c5aedb21ad6461f0761375c53b50f030fa0e10c.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "85ffc083-41c9-4dc3-895f-511d7f1113d9",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Briefing",
+        "value": 615,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_metritera_light_large.46ac4388a9651c555ec6849358b85f60a87c328d.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "0ff7dd58-26b6-4292-8d2d-de2bd1746efc",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Riot",
+        "value": 488,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_uproar_light_large.04cd84320c4370bced14a3989b0e141cff67ec88.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "ecc2e4d2-4f3a-425b-9c88-ec482b65f268",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Delusion",
+        "value": 392,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_sp_ump45_d-visions_light_large.33ae7e9e8bf24ee97f4f3d3ee113e51782a756fa.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "ec38d38f-9baa-4897-83d7-6e2a8e45afbc",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Labyrinth",
+        "value": 362,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_hy_lines_orange_light_large.d004ea389236e6fa5da2f0555ab5b3723bdf36d1.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "c88fc166-e970-452f-83dd-b9d113ce40b7",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Corporal",
+        "value": 281,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump_corporal_light_large.ae233b4fabc9ff5fef6d25a87175ce5ad8f2ee6e.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "f1e6a568-53a7-47e8-91b5-40bdae593de8",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Bone Pile",
+        "value": 193,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_sp_skull_diagram_bravo_light_large.f3bf563f6e0274f55377e4fe0422905586a3d19b.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "0fc95f97-b806-43ed-adda-b4327f8515c6",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Full Stop",
+        "value": 250,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_hy_varicamo_red_light_large.30426fbdd212e0961d917ffa214e11431326ee02.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "2a671f63-cb06-482d-9e2e-83845254e5e5",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Day Lily",
+        "value": 725,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_hy_bloom_red_light_large.c2f9856966873a344ab366cbf13a6fc6bf0081fc.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "605bdbfc-8532-4229-8289-f40a0a867074",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Minotaur's Labyrinth",
+        "value": 441,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_labyrinth_light_large.62c8aa10ca8ad146809a21031194e450190f8485.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "53c5a93c-08a5-464b-ba4d-1495a9feccce",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Blaze",
+        "value": 37,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_aa_flames_light_large.03387f4a0a4ac6fe60437ec998e93de0b39e9b8b.png",
+        "quality": "Mil-Spec SMG"
+    },
+    {
+        "uuid": "47f5ea06-acf1-4f31-b00e-aff539dad9ae",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Mechanism",
+        "value": 1085,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_aa_engine_performance_light_large.b4207d31aa53b7ed863535d77e9a7420f06c2681.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "bccea4f5-e777-49d5-83e7-cdefe51cb114",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Houndstooth",
+        "value": 1008,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_hy_houndstooth_brown_light_large.f90a2f46ceb0de3a2de44d92004b3a42cfa95e75.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "058fa2aa-c973-4322-a252-bfc74939d79e",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Carbon Fiber",
+        "value": 70,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_am_carbon_fiber_light_large.b250b860bbe6f7a689448cc47b6ac25427e3d848.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "c958dcae-da08-4e92-9ec5-814087cbf72e",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Gunsmoke",
+        "value": 15,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_hy_gelpen_light_large.79d22fa00d44408a719b7a840aa4497eebca68fb.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "df393a03-f047-4bbc-a387-914894a08fb5",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Fallout Warning",
+        "value": 169,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_sp_nukestripe_maroon_light_large.929675f44f0303f77fdd556348294178ecf23db1.png",
+        "quality": "Industrial Grade SMG"
+    },
+    {
+        "uuid": "82607723-2d18-429e-9e2f-b8dde96013b4",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Mudder",
+        "value": 90,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_hy_mottled_sand_light_large.14c5d59d597a00bdccaefe47a99de0e5b1f884d6.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "b590b32f-47a6-4e8f-8001-c07b32065c19",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Facility Dark",
+        "value": 778,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_hy_blueprint_bluered_light_large.1f2e4c38f9f9e7e1d815aeb5af99c499c5ff4951.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "3077119b-27be-4d2b-91a0-3161dbedfc0f",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Indigo",
+        "value": 333,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_so_indigo_and_grey_light_large.7a4685c334bf103f25ba1865dc0492315bf0ca5c.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "8f808264-521e-4279-abf3-8ceba0bef3c0",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_sp_dapple_light_large.a25c92df26ac1c70c65741a07d9da8b0d0785022.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "e7f3a597-c207-470f-a698-9856de513d85",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Urban DDPAT",
+        "value": 17,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_hy_ddpat_urb_light_large.2a86a32be1865ab7757d80bfbee44c80662ee4d9.png",
+        "quality": "Consumer Grade SMG"
+    },
+    {
+        "uuid": "36a96b24-f773-4bf7-9b8c-73e2ebffb5e2",
+        "id": 24,
+        "weaponName": "UMP-45",
+        "label": "Caramel",
+        "value": 93,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_so_caramel_light_large.4883dbae989e9c61805aa53ca5a02983f74657b9.png",
+        "quality": "Consumer Grade SMG"
+    }
+]

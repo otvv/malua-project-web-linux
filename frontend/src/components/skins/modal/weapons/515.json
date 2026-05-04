@@ -1,0 +1,272 @@
+[
+    {
+        "uuid": "fb570721-3d42-4bd3-a70f-9aa36ae127d5",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_butterfly.794147e84a4e9426202d45145910cbb007797ce5.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0701090b-79e6-41a8-adee-4a047a3cd171",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Autotronic",
+        "value": 1115,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_gs_butterfly_autotronic_light_large.02e4e5002d0b54d85cc3d527fe745a614e72405e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "34a3d078-f94f-4e87-9ed5-eb1bf0249caa",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Lore",
+        "value": 1105,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_cu_butterfly_lore_light_large.7de06f8ef2e44dc3a0a6b759140a35aefe59045e.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "02bcf4a3-da23-4f2d-b83f-4fb832bcf1e4",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Black Laminate",
+        "value": 1110,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_gs_butterfly_black_laminate_light_large.7399803d86f626240620bff4fde08d1d01efaa7b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "7205c1d6-8513-4861-bd26-3df11e5c2a79",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Freehand",
+        "value": 581,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_am_marked_up_90_light_large.a715b25d22f9c716ec30dc8a64aa652dcffab61a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "360ce54d-1318-4788-9c03-04414fc017a5",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Bright Water",
+        "value": 579,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_hy_ocean_knife_90_light_large.ff79fcd689714fb0abe4f6ec44effa3806e95df1.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "127b91c4-1739-4796-8858-2d6fea4295fd",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_am_marble_fade_light_large.c9170bcb854e5d3ed0f3a22bae8a4513fd46954a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "790e481d-9e82-450b-82ab-509f00140574",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_an_tiger_orange_light_large.2fece0b06a84ce2bb6e15e7cd3a37f400f218940.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "80eec903-9dd7-49af-9765-5be1baacbb6b",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_so_purple_light_large.116c48bf6a4a33f56d11b3204919422aa58f9337.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "cac8286e-fe43-4ce0-b9b2-16afe7251ffe",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Damascus Steel",
+        "value": 411,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_aq_damascus_90_light_large.f6eecc56e9d69742d80ad0bf59695a89cb8d9684.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e2a4e4d2-7c6d-47ff-abea-b508a5172869",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_aq_steel_knife_light_large.033e7505158efd2a1758a7144ccccfb554fcf576.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e73f90b1-8970-439f-87e0-b11548911770",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_am_zebra_light_large.8f5d28f8b8607d83059c4df618b399e2fa551bb4.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "7b985a37-9ecc-4949-9369-bc671d79f0f0",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_hy_webs_light_large.8e3a3668a8678a4ce56b2675c60d7ec6a756827a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "cfbb9581-777b-40ec-8448-765ef53590eb",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_aq_blued_light_large.969518ce760404d72095af853f90df7582e7889f.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ec438096-a181-4a62-a3b7-82fec094b5a3",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_aq_oiled_light_large.d53e80b706e7d7fac9d22d265595ea1a959ea79b.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2b635567-76f0-46ad-98e0-60c316415ef1",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_aq_forced_light_large.1e52259f8bd6b3c242cedb2d0a879e9fc17b7a23.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a79c1bb5-c479-47ca-aa86-e6aad0aa9443",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Night",
+        "value": 40,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_so_night_light_large.9f2544c35867a540f1d0a5e446d10d35b4bb3202.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "10e3e1fd-6b89-45ff-8ed4-61ff63ecb6c3",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_hy_forest_boreal_light_large.f817483d1e53b69919a8a11349b075c27d8829b1.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "7acb6e9a-baad-4fc3-b598-e7bc2ea8fe49",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_sp_mesh_tan_light_large.9c30ece5beb38356f406e5c5fa56e7f4056f0757.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2076b36c-3247-4c5b-92e8-c6c13b5fb8c1",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_sp_dapple_light_large.6110a91f809c996696fa87d90b7ea88e0377d0df.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "9c5b91ba-6690-489e-a17f-ec39abb2e11d",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_hy_ddpat_light_large.6e874d0a6db5d1468c3b5b99c303bf76837593fe.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "040c3c8f-0cf1-41d6-bb93-6c479d8c8fce",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_sp_tape_urban_light_large.dab43f48bd2eb2c9734c90b5482f222eaa95cebb.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "aaee5aea-67be-40f6-88f6-b79e5dfe8241",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_aa_fade_light_large.b1ab5fb3ed08185a266334b6488a364bb3f220f8.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4a5e2d70-80c6-45a0-aff3-078274c4cf5c",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s857_phase1.png?id=6d19739af2246d6ffef2",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "87ec0d16-3e93-4fee-8ca9-443369662d69",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Doppler - Phase 2",
+        "value": 618,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s857_phase2.png?id=281b275ae6c09b7d2efd",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "11e42632-cc47-4c12-9888-af023c09d1da",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s857_phase3.png?id=8f8bffe731c5f862f565",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "4913f420-16cf-4a4a-8a4a-01e07e734795",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s857_phase4.png?id=ce058a5c54769765e2bb",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5e80a697-00d0-4951-824f-c46e31939445",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s857_ruby.png?id=94c6b5338ca548bb294b",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0225347d-0f19-4731-9fdb-1f2879361276",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Doppler - Sapphire",
+        "value": 619,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s857_sapphire.png?id=722bc899bf250b353870",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "71eb9699-d283-46be-be23-7be39435f3d7",
+        "id": 515,
+        "weaponName": "Butterfly Knife",
+        "label": "Doppler - Black Pearl",
+        "value": 617,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s857_blackpearl.png?id=099805b33a6dc9dfaacc",
+        "quality": "Covert Knife"
+    }
+]

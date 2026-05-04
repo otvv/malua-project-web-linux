@@ -1,0 +1,227 @@
+[
+    {
+        "uuid": "19b4b09e-0189-451b-9b12-11534a1c08b0",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "★ (Vanilla)",
+        "value": 0,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_gypsy_jackknife.1a7e57791fa9383cce67d5915ffc442c7de2694a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e126aae9-de6c-48b5-9c44-7e4ebc05a18e",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Marble Fade",
+        "value": 413,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_am_marble_fade_light_large.06edf782d11987a8a010edae38a1370c17dd5d5a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "a14f6494-6ab5-40c3-8bb7-f982e3de9d51",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Tiger Tooth",
+        "value": 409,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_an_tiger_orange_light_large.41be3bbfaf690be67956b8e7da920b29325f6bf2.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "cee924d6-69d5-4f03-bf28-fdaf19336355",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Ultraviolet",
+        "value": 98,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_so_purple_light_large.4d3624f9c62d1cdecc29c24e49c58071a8e0aa10.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "bc02c8a2-4bcb-4420-bbd9-c501724c722e",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Damascus Steel",
+        "value": 857,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_aq_damascus_prisma_light_large.b1ef53963cc5daeade17b87af90a4ac173ecfdce.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "fab7c21c-8dbf-42e0-8ad5-f6a97dc4abe4",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Rust Coat",
+        "value": 414,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_aq_steel_knife_light_large.a71a034e635cf59e5d308a2645656f90a072a5d6.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d75d7f1b-e258-4c1f-a20f-a5f37b5a18d8",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Fade",
+        "value": 38,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_aa_fade_light_large.230f96c68e3dfd7936d76b44d7093cdc109b0d45.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "084cd13c-f0d0-4c28-84cb-069a28262aca",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Slaughter",
+        "value": 59,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_am_zebra_light_large.d05268ca27ffc151fc41aa706c2fd809a30b4a93.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "7f83d04a-573f-4ea0-bb7c-1e130701a44c",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Case Hardened",
+        "value": 44,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_aq_oiled_light_large.bda53914823c916e925f1ccfdccb779438a837e7.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "0d41bc15-1d90-409f-82c2-ff0757b0872f",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Crimson Web",
+        "value": 12,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_hy_webs_light_large.56c049ebbe3f61c39bbc61b9658566ae4caf0998.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "2105cb52-56ef-4d67-ac72-a66fe5dabf6d",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Blue Steel",
+        "value": 42,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_aq_blued_light_large.1ce2d4556d50d1c13ca50c65a9a68f9e943ab147.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d54f5de5-0e47-4da2-b4a2-501e36231d68",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Stained",
+        "value": 43,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_aq_forced_light_large.ae7a6c5d03a34e2e9bb1510624dbd852a6b33367.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "85993594-ac8f-4896-8f51-3b7046dd80b0",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Forest DDPAT",
+        "value": 5,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_hy_ddpat_light_large.2b9ad6c3016e78b55f6b245c25e7a373f05993d1.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ad96061b-f818-4ad7-83cc-e513658ab9cd",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Night Stripe",
+        "value": 735,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_light_large.bb637d2594b3d5c5f4bcb82a040be380660b772a.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "d8fc9d54-21b6-480f-a2b1-555462ae189e",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Scorched",
+        "value": 175,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_sp_dapple_light_large.879ba0d22ebaccd2ba4b62c753e2db58b855a7a0.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "8100382a-7c5c-4061-854f-c6b2c63ddfd8",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Safari Mesh",
+        "value": 72,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_sp_mesh_tan_light_large.f8ae9f3c56bce9253b10d8c390894faa344d30ed.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "ecb637ab-c4a6-4d83-924e-102daf90a351",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Boreal Forest",
+        "value": 77,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_hy_forest_boreal_light_large.be1b7fb6471b0630f0709e3b8546e60d8a35fc12.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "e9122a47-d5d5-49e8-8057-3aef20a9e627",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Urban Masked",
+        "value": 143,
+        "skinImgURL": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_light_large.c73dbd39174d78663ee57fb6d81a4ab90f3da3e8.png",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "81f2f961-ee66-493c-84d3-c4e23cb00a68",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Doppler - Phase 1",
+        "value": 418,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1074_phase1.png?id=2a7e4d2dcc8e995282cd",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "5e346849-e20e-4036-bdab-eac140749298",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Doppler - Phase 2",
+        "value": 419,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1074_phase2.png?id=6a56a60412d2b694bca3",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "aa95cad8-2642-46f6-9bb5-5bbe580402c4",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Doppler - Phase 3",
+        "value": 420,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1074_phase3.png?id=f71b53e2997eff799048",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "96c4ed50-467b-43e0-88f4-d00c3587cc3d",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Doppler - Phase 4",
+        "value": 421,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1074_phase4.png?id=5d62b82679e3c34c3b7e",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "09803fe2-4450-4b3d-b842-5ef3d48b16bf",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Doppler - Ruby",
+        "value": 415,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1074_ruby.png?id=7c25a747f1ae60e0ee3d",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "69b82ed4-4c8e-44db-bb74-92ffa8cf6ec2",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Doppler - Sapphire",
+        "value": 416,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1074_sapphire.png?id=0ac729e1daed85061bef",
+        "quality": "Covert Knife"
+    },
+    {
+        "uuid": "098eb04d-984d-4098-88d0-b3e5148cadf9",
+        "id": 520,
+        "weaponName": "Navaja Knife",
+        "label": "Doppler - Black Pearl",
+        "value": 417,
+        "skinImgURL": "https://csgostash.com/storage/img/skin_variants/s1074_blackpearl.png?id=8aba423b3a81c9eea9a4",
+        "quality": "Covert Knife"
+    }
+]
